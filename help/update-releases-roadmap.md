@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] mapa de versões'
 description: '[!DNL Adobe Experience Manager] mapa de versões'
 translation-type: tm+mt
-source-git-commit: abee2c5b1796d9c729d8492439c81cceb8290084
+source-git-commit: 7394d2d8a9b1f4264004e5623ee1e44e2e8f35cd
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '367'
 ht-degree: 13%
 
 ---
@@ -24,7 +24,6 @@ ht-degree: 13%
 
 | Versão | Versão | Tipo | Agendamento |
 |---|---|---|---|
-| [!DNL Experience Manager] como  [!DNL Cloud Service] 2020.12.0 | 2020,12,0 | Versão mensal | 17 de dezembro de 2020 |
 | [!DNL Experience Manager] como  [!DNL Cloud Service] 2021.1.0 | 2021.1.0 | Versão mensal | 28 de janeiro de 2021 |
 | [!DNL Experience Manager] como  [!DNL Cloud Service] 2021.2.0 | 2021.2.0 | Versão mensal | 25 de fevereiro de 2021 |
 | [!DNL Experience Manager] como  [!DNL Cloud Service] 2021.3.0 | 2021.3.0 | Versão mensal | 25 de março de 2021 |
