@@ -2,7 +2,7 @@
 title: '[!DNL Adobe Experience Manager] mapa de versões'
 description: '[!DNL Adobe Experience Manager] mapa de versões'
 translation-type: tm+mt
-source-git-commit: 36b873676460cf1d276e9b1a0ee7ecfb7fb26932
+source-git-commit: 74b03cd0ac3868b956512c82097a94797714458a
 workflow-type: tm+mt
 source-wordcount: '403'
 ht-degree: 14%
@@ -48,7 +48,7 @@ As atualizações de produtos em termos de novos recursos, melhorias e correçõ
 
 | Versão | Versão | Tipo | Agendamento |
 |---|---|---|---|
-| [!DNL Experience Manager] 6.5 Service Pack 8 | 6.5.8.0 | Service Pack | 25 de fev de 2021 |
+| [!DNL Experience Manager] 6.5 Service Pack 8 | 6.5.8.0 | Service Pack | 11 de março de 2021 |
 | [!DNL Experience Manager] 6.5 Service Pack 9 | 6.5.9.0 | Service Pack | 27 de maio de 2021 |
 | [!DNL Experience Manager] Service Pack 10 6.5 | 6.5.10.0 | Service Pack | 26 de ago de 2021 |
 | [!DNL Experience Manager] Service Pack 11 6.5 | 6.5.11.0 | Service Pack | 25 de nov de 2021 |
@@ -77,6 +77,6 @@ As atualizações de produtos em termos de novos recursos, melhorias e correçõ
 >
 >* [Matriz EOL](https://helpx.adobe.com/br/support/programs/eol-matrix.html)
 >* [[!DNL Experience Manager] versões e atualizações](https://helpx.adobe.com/br/experience-manager/aem-releases-updates.html)
->* [[!DNL Experience Manager] Aprendizado e suporte](https://helpx.adobe.com/br/support/experience-manager.html)
+>* [[!DNL Experience Manager] Aprendizado e suporte](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=pt-BR)
 >* [[!DNL Experience Manager] Atualizar Definições do Veículo de Liberação](/help/update-release-vehicle-definitions.md)
 
