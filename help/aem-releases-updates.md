@@ -3,9 +3,9 @@ title: '[!DNL Adobe Experience Manager] atualizações de versões'
 description: '[!DNL Adobe Experience Manager] atualizações de versões'
 contentOwner: AK
 translation-type: tm+mt
-source-git-commit: 2e6a43b1608d07adfcafe5a5db6747b9ec966977
+source-git-commit: 73b15ea55fcd259dd514be990cb2c78e86737591
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '314'
 ht-degree: 6%
 
 ---
@@ -23,7 +23,7 @@ Este artigo lista a versão mais recente para cada categoria de versão e direci
 
 [!DNL Experience Manager] como  [!DNL Cloud Service] segue uma cadência de lançamento mensal. Como resultado, novos recursos estão disponíveis como atualizações contínuas para [!DNL Experience Manager] todo mês.
 
-Consulte [[!DNL Experience Manager] como a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html) para obter detalhes sobre a versão atual (mais recente). Aqui, você também pode navegar até os detalhes de versões anteriores (organizadas cronologicamente).
+Consulte [Notas de versão atuais para [!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html) para obter detalhes da versão atual/mais recente. Aqui, você também pode navegar até os detalhes de versões anteriores (organizadas cronologicamente).
 
 ## [!DNL Experience Manager] serviços no local e gerenciados  {#aem-on-prem-managed-services}
 
