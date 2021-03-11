@@ -3,9 +3,9 @@ title: Atualizações recentes na documentação do [!DNL Experience Manager]
 description: 'Novidades, atualizações ou alterações na documentação do  [!DNL Experience Manager] '
 contentOwner: trushton
 translation-type: tm+mt
-source-git-commit: aafdb3e36e9f856de37d5462af923aad32a73f6d
+source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
 workflow-type: tm+mt
-source-wordcount: '3220'
+source-wordcount: '3254'
 ht-degree: 99%
 
 ---
@@ -21,7 +21,7 @@ Você também pode exibir as [atualizações anteriores da documentação](previ
 
 >[!NOTE]
 >
->O AEM as a Cloud Service é lançado mensalmente.
+>AEM como Cloud Service é lançado mensalmente.
 >
 >Consulte as [Notas de versão](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=pt-BR) para obter a documentação relacionada às versões individuais (versões atuais e anteriores).
 
@@ -58,8 +58,9 @@ Você também pode exibir as [atualizações anteriores da documentação](previ
 
 | Data | Tópico | Alterações |
 | --- | --- | --- |
+| 11 de março de 2021 | [!DNL Experience Manager] 6.5 Service Pack 8 | O [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=pt-BR#service-pack) está disponível. |
 | 25 de novembro de 2020 | Acessibilidade no Dynamic Media | O Dynamic Media e os Visualizadores do Dynamic Media são compatíveis com controle de teclado e tecnologias assistivas, como leitores de tela JAWS e NVDA, na interface do usuário de criação. Consulte [Acessibilidade no Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html?lang=pt-BR#dynamic). |
-| 26 de novembro de 2020 | [!DNL Experience Manager] 6.5 Service Pack 7 | O [[!DNL Experience Manager] 6.5 Service Pack 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=pt-BR#service-pack) está disponível. |
+| 26 de novembro de 2020 | [!DNL Experience Manager] 6.5 Service Pack 7 | O [[!DNL Experience Manager] 6.5 Service Pack 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) está disponível. |
 | 3 de setembro de 2020 | Invalidação de CDN no Dynamic Media | Agora é possível enviar uma solicitação de dentro do Dynamic Media para que o cache do CDN expire em minutos. Esse recurso é útil ao atualizar ativos e para que as alterações entrem em vigor imediatamente no site.<br>Consulte [Invalidar o cache do CDN por meio do Dynamic Media.](https://docs.adobe.com/content/help/pt-BR/experience-manager-65/assets/dynamic/invalidate-cdn-cache-dynamic-media.html) |
 | 3 de setembro de 2020 | Trabalho com Publicação seletiva no Dynamic Media | É possível optar por publicar ou cancelar a publicação de ativos para ou provenientes do [!DNL Experience Manager] ou Dynamic Media no nível da pasta, usando **Gerenciar publicação** ou **Publicação rápida**, em vez de depender exclusivamente da **Configuração do Dynamic Media**, cujas configurações são globais para todas as pastas em sua instância do Dynamic Media.<br>Consulte [Trabalho com publicação seletiva no Dynamic Media.](https://docs.adobe.com/content/help/pt-BR/experience-manager-65/assets/dynamic/selective-publishing.html) |
 | 3 de setembro de 2020 | [!DNL Experience Manager] 6.5 Service Pack 6 | O [[!DNL Experience Manager] 6.5 Service Pack 6](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=pt-BR) está disponível. |
@@ -79,7 +80,8 @@ Você também pode exibir as [atualizações anteriores da documentação](previ
 
 | Data | Tópico | Alterações |
 | --- | --- | --- |
-| 26 de novembro de 2020 | [!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 3 | O [[!DNL Experience Manager]  6.4 Service Pack 8 Cumulative Fix Pack 3](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=pt-BR) está disponível. |
+| 25 de fevereiro de 2021 | [!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 4 | O [[!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=pt-BR) está disponível. |
+| 26 de novembro de 2020 | [!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 3 | O [[!DNL Experience Manager]  6.4 Service Pack 8 Cumulative Fix Pack 3](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html) está disponível. |
 | 3 de setembro de 2020 | [!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 2 | O [[!DNL Experience Manager]  6.4 Service Pack 8 Cumulative Fix Pack 2](https://docs.adobe.com/content/help/pt-BR/experience-manager-64/release-notes/cfp-release-notes.html) está disponível. |
 | 29 de julho de 2020 | [Gerenciamento de vários sites] | Foram feitas atualizações para os procedimentos [Criação de uma nova ação de sincronização](https://docs.adobe.com/content/help/pt-BR/experience-manager-64/developing/extending-aem/extending-msm.html#creating-a-new-synchronization-action) e [Criação de uma nova configuração de implantação.](https://docs.adobe.com/content/help/pt-BR/experience-manager-64/developing/extending-aem/extending-msm.html#creating-a-new-rollout-configuration) |
 | 19 de junho de 2020 | Adobe Experience Manager | Na Adobe, pretendemos usar terminologia equitativa em todo o nosso código, documentação e experiências.<br>Por esta razão, estamos fazendo uma série de atualizações a esse conjunto de documentações e continuaremos fazendo no futuro. |
