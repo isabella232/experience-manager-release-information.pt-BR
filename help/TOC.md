@@ -6,11 +6,15 @@ audience: end-user
 user-guide-title: Atualizações e roteiro da versão do Adobe Experience Manager
 breadcrumb-title: Informações sobre a versão do AEM
 user-guide-description: Consulte as atualizações mais recentes do AEM.
+feature-set: Experience Manager
+feature: Informações da versão
+role: Líder, Arquiteto, Desenvolvedor, Arquiteto de Dados, Engenheiro de Dados, Administrador, Praticante de Negócios
+level: Iniciante, Intermediário, Experienciado
 translation-type: tm+mt
-source-git-commit: 050be3e2fc20242d222344bc9202752eda336b2e
+source-git-commit: c9654d3e8d6a5b46036c3d1b01d80ab00148f63a
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 100%
+source-wordcount: '94'
+ht-degree: 86%
 
 ---
 
