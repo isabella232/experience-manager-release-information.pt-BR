@@ -3,9 +3,9 @@ title: Atualizações recentes na documentação do [!DNL Experience Manager]
 description: 'Novidades, atualizações ou alterações na documentação do  [!DNL Experience Manager] '
 contentOwner: trushton
 translation-type: tm+mt
-source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
+source-git-commit: 3299408b2206020ab8d31d905307d24f96c95368
 workflow-type: tm+mt
-source-wordcount: '3254'
+source-wordcount: '3247'
 ht-degree: 99%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 99%
 
 # Documentação do [!DNL Experience Manager]: atualizações recentes na documentação {#aem-documentation-recent-documentation-updates}
 
-Esta página lista alterações importantes na documentação e atualizações do [!DNL Adobe Experience Manager] desde o começo do ano novo.
+Esta página lista alterações importantes na documentação e atualizações para [!DNL Adobe Experience Manager].
 
 Você também pode exibir as [atualizações anteriores da documentação](previous-documentation-updates.md).
 
