@@ -1,11 +1,11 @@
 ---
 title: Roteiro de versões do [!DNL Adobe Experience Manager]
 description: Roteiro de versões do [!DNL Adobe Experience Manager]
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '347'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ O [!DNL Adobe Experience Manager] oferece continuamente novos recursos, melhoria
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-O [[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=pt-BR) segue a uma cadência de lançamento mensal. Como resultado, novos recursos estão disponíveis como atualizações contínuas para o [!DNL Experience Manager] todos os meses. As próximas versões para o [!DNL Experience Manager] as a [!DNL Cloud Service]s são as seguintes.
+O [[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=pt-BR) segue a uma cadência de lançamento mensal. Como resultado, novos recursos estão disponíveis como atualizações contínuas para o [!DNL Experience Manager] todos os meses. As próximas versões para o [!DNL Experience Manager] as a [!DNL Cloud Service] são as seguintes.
 
 | Versão | Versão | Tipo | Programação |
 |---|---|---|---|
@@ -56,7 +56,7 @@ As atualizações de produto do [!DNL Experience Manager] 6.5 são fornecidas po
 
 ### [!DNL Experience Manager] 6.4 {#aem64}
 
-[!DNL Experience Manager] 6.4 O Service Pack 8 CFP 4 é o último CFP do  [!DNL Experience Manager] 6.4. Para obter detalhes sobre o CFP lançado mais recentemente, consulte as notas [[!DNL Experience Manager]  de versão do ](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=pt-BR)6.4 Cumulative Fix Pack.
+[!DNL Experience Manager] 6.4 O Service Pack 8 CFP 4 é o último CFP do [!DNL Experience Manager] 6.4. Para obter detalhes sobre o CFP lançado mais recentemente, consulte as notas  de versão do [[!DNL Experience Manager] 6.4 Cumulative Fix Pack](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=pt-BR).
 
 >[!MORELIKETHIS]
 >
