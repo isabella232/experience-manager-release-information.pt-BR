@@ -3,10 +3,10 @@ title: Versões do AEM Forms
 description: Contém a lista de todas as versões do AEM Forms e pacotes correspondentes
 contentOwner: khsingh
 translation-type: tm+mt
-source-git-commit: e15774a3cc034e946ec7443a51181e4c636debaf
+source-git-commit: ad6014815c1b15b66e549653bf0f66fc26b1d2f4
 workflow-type: tm+mt
-source-wordcount: '13231'
-ht-degree: 95%
+source-wordcount: '13263'
+ht-degree: 99%
 
 ---
 
@@ -42,6 +42,7 @@ A lista a seguir contém todos os pacotes complementares do AEM [!DNL Forms] lan
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.334.zip">Pacote complementar do AEM Forms para Windows</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.334.zip">Pacote complementar do AEM Forms para Mac OS X [2]</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.36.zip">Pacote de compatibilidade do AEM Forms</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-014/aem-forms-designer-6.5.0-English.msp">Patch do AEM Forms Designer</a></li>
       <br><b>Instaladores de patch do JEE</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/JBoss/Win/AEMForms-6.5.0-0025_jboss_win.zip">JBoss Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/JBoss/Linux/AEMForms-6.5.0-0025_jboss_linux.tar.gz">JBoss Linux</a></li>
@@ -55,7 +56,7 @@ A lista a seguir contém todos os pacotes complementares do AEM [!DNL Forms] lan
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/WebSphere/AIX/AEMForms-6.5.0-0025_websphere_aix.tar.gz">WebSphere AIX</a></li>
       <li>AEM Forms Client SDK [1]</li>  
      </ul> </td> 
-    <td><p>Instalador do AEM Forms JEE: AEMForms-6.5.0-0025<br /> </p> Pacotes complementares do AEM Forms: 6.0.334</p> <p>Pacote de compatibilidade do AEM Forms: 2.0.36</p><p>Client SDK: 6.0.334<br /> </p></td> 
+    <td><p>Instalador do AEM Forms JEE: AEMForms-6.5.0-0025<br /> </p> Pacotes complementares do AEM Forms: 6.0.334</p> <p>Pacote de compatibilidade do AEM Forms: 2.0.36</p><p>Client SDK: 6.0.334<br /> </p><p>Patch do AEM Forms Designer: 650.014</p></td> 
    </tr>
    <tr> 
     <td>3 de dezembro de 2020</td> 
@@ -215,7 +216,7 @@ O pacote de compatibilidade do `[3]` AEM [!DNL Forms] para a versão 6.5.4.0 per
    <td><strong>Versões de Build</strong></td> 
   </tr>
   <tr> 
-   <td>04 de março de 2021</td> 
+   <td>4 de março de 2021</td> 
    <td><a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/release-notes/cfp-release-notes.html">Pacotes complementares do AEM Forms para AEM 6.4 Service Pack 8 Cumulative Fix Pack 4 (6.4.8.4)</a></td> 
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/cfp-release-notes.html">AEM 6.4.8.4</a></td> 
    <td> 
