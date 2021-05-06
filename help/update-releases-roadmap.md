@@ -55,12 +55,12 @@ As atualizações de produto do [!DNL Experience Manager] 6.5 são fornecidas po
 
 ### [!DNL Experience Manager] 6.4 {#aem64}
 
-[!DNL Experience Manager] 6.4 O Service Pack 8 CFP 4 é o último CFP do [!DNL Experience Manager] 6.4. Para obter detalhes sobre o CFP lançado mais recentemente, consulte as notas  de versão do [[!DNL Experience Manager] 6.4 Cumulative Fix Pack](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=pt-BR).
+[!DNL Experience Manager] 6.4 O Service Pack 8 CFP 4 é o último CFP do [!DNL Experience Manager] 6.4. Para obter detalhes sobre o CFP lançado mais recentemente, consulte as notas de versão do [[!DNL Experience Manager] 6.4 Cumulative Fix Pack](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=pt-BR).
 
 >[!MORELIKETHIS]
 >
 >* [Matriz de EOL](https://helpx.adobe.com/br/support/programs/eol-matrix.html)
 >* Versões e atualizações do [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=pt-BR)
 >* Aprendizado e suporte do [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=pt-BR)
->* [[!DNL Experience Manager] Definições dos veículos de lançamentos de atualizações](/help/update-release-vehicle-definitions.md)
+>* Definições dos veículos de lançamentos de atualizações do [[!DNL Experience Manager] ](/help/update-release-vehicle-definitions.md)
 
