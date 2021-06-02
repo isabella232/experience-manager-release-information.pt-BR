@@ -3,7 +3,7 @@ title: Roteiro de versões do [!DNL Adobe Experience Manager]
 description: Roteiro de versões do [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: faf5d9e8303daec9484062f756f430428e280dd7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '329'
 ht-degree: 100%
 
@@ -37,7 +37,7 @@ Além dos lançamentos mensais, várias atualizações críticas estão disponí
 
 As atualizações de produtos em termos de novos recursos, melhorias e correções de bugs para o [!DNL Experience Manager] no local e managed services compatíveis são fornecidas por meio de service packs e Cumulative Fix Packs (CFPs) trimestrais. Isso possibilita uma adoção mais rápida de atualizações de produtos por meio de lançamentos frequentes. A programação para os próximos lançamentos de atualizações de produtos é a seguinte:
 
-### [!DNL Experience Manager] 6,5 {#aem65}
+### [!DNL Experience Manager] 6.5 {#aem65}
 
 As atualizações de produto do [!DNL Experience Manager] 6.5 são fornecidas por service packs trimestrais. Eles incluem novos recursos, melhorias e correções de bugs. Para obter mais detalhes sobre o service pack mais recente, consulte Notas de versão do [[!DNL Experience Manager] 6.5 service pack](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=pt-BR).
 
@@ -50,7 +50,7 @@ As atualizações de produto do [!DNL Experience Manager] 6.5 são fornecidas po
 >
 >O [!DNL Experience Manager] Forms lança os pacotes complementares uma semana após a data programada de lançamento do [!DNL Experience Manager] Service Pack.
 
-### [!DNL Experience Manager] 6,4 {#aem64}
+### [!DNL Experience Manager] 6.4 {#aem64}
 
 [!DNL Experience Manager] 6.4 O Service Pack 8 CFP 4 é o último CFP do [!DNL Experience Manager] 6.4. Para obter detalhes sobre o CFP lançado mais recentemente, consulte as notas de versão do [[!DNL Experience Manager] 6.4 Cumulative Fix Pack](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=pt-BR).
 
