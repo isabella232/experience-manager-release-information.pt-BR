@@ -6,7 +6,7 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 733e77a10f0003ed10a1560d0f5b20f0368cf757
 workflow-type: tm+mt
 source-wordcount: '13746'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -32,7 +32,7 @@ A lista a seguir contém todos os pacotes complementares do AEM [!DNL Forms] lan
     <td><strong>Versões de Build</strong></td> 
    </tr>
    <tr> 
-    <td>03 de junho de 2021</td> 
+    <td>3 de junho de 2021</td> 
     <td><a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-65/release-notes/service-pack/sp-release-notes.html">Pacote complementar do AEM Forms Service Pack 9 Forms para AEM 6.5.9.0</a></td> 
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.9.0</a></td> 
     <td> 
@@ -71,7 +71,7 @@ A lista a seguir contém todos os pacotes complementares do AEM [!DNL Forms] lan
       <br><b>Instaladores de patch do JEE</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/JBoss/Win/AEMForms-6.5.0-0025_jboss_win.zip">Janelas JBoss</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/JBoss/Linux/AEMForms-6.5.0-0025_jboss_linux.tar.gz">JBoss Linux</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/br/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/JBoss/Solaris/AEMForms-6.5.0-0025_jboss_solaris.tar.gz">JBoss Solaris</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/JBoss/Solaris/AEMForms-6.5.0-0025_jboss_solaris.tar.gz">JBoss Solaris</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/WebLogic/Win/AEMForms-6.5.0-0025_weblogic_win.zip">WebLogic Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/WebLogic/Linux/AEMForms-6.5.0-0025_weblogic_linux.tar.gz">WebLogic Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/WebLogic/Solaris/AEMForms-6.5.0-0025_weblogic_solaris.tar.gz">WebLogic Solaris</a></li>
@@ -172,7 +172,7 @@ A lista a seguir contém todos os pacotes complementares do AEM [!DNL Forms] lan
    </tr> 
    <tr> 
     <td>19 de setembro de 2019</td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=pt-BR#service-pack">Pacote complementar do AEM Forms Service Pack 2 Forms para AEM 6.5.2.0</a></td> 
+    <td><a href="https://helpx.adobe.com/br/experience-manager/6-5/release-notes/sp-release-notes.html">Pacote complementar do AEM Forms Service Pack 2 Forms para AEM 6.5.2.0</a></td> 
     <td><a href="https://helpx.adobe.com/in/experience-manager/6-5/release-notes/sp-release-notes.html">AEM 6.5.2.0</a></td> 
     <td> 
      <ul> 
@@ -1197,7 +1197,7 @@ O pacote complementar do `[3]` AEM [!DNL Forms] para Mac OS X não é compatíve
 
 >[!NOTE]
 >
->O AEM [!DNL Forms] lança regularmente patches ou correções rápidas para bugs e para melhorar a usabilidade e o desempenho do software. Caso encontre um problema durante o uso do AEM [!DNL Forms], é possível que ele já tenha sido abordado por meio de um patch ou de correções rápidas. Para obter mais detalhes sobre as correções rápidas disponíveis, consulte [Hot fixes do Adobe Experience Manager 6.2.](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=pt-BR)
+>O AEM [!DNL Forms] lança regularmente patches ou correções rápidas para bugs e para melhorar a usabilidade e o desempenho do software. Caso encontre um problema durante o uso do AEM [!DNL Forms], é possível que ele já tenha sido abordado por meio de um patch ou de correções rápidas. Para obter mais detalhes sobre as correções rápidas disponíveis, consulte [Hot fixes do Adobe Experience Manager 6.2.](https://helpx.adobe.com/br/experience-manager/kb/aem62-available-hotfixes.html)
 
 ## Lembretes {#things-to-remember}
 
