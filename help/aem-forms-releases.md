@@ -10,7 +10,7 @@ ht-degree: 99%
 
 ---
 
-# Versões do AEM [!DNL Forms] {#aem-forms-releases}
+# Versões do AEM [!DNL Forms]  {#aem-forms-releases}
 
 O Adobe Experience Manager [!DNL Forms] é um aplicativo implantado no AEM. Ele amplia as experiências envolventes da Web e dos dispositivos móveis a formulários e documentos corporativos, permitindo que as organizações finalizem interações digitais complexas e, ao mesmo tempo, melhorem as experiências dos usuários e estendam o alcance da empresa. O AEM [!DNL Forms] incluído no AEM Quick start tem um conjunto limitado de funcionalidades. O pacote complementar do AEM [!DNL Forms] fornece recursos avançados, como integração com o [!DNL Adobe Analytics], [!DNL Adobe Sign], serviços de documentos, workflow engine e muito mais.
 
@@ -20,7 +20,7 @@ O Adobe Experience Manager [!DNL Forms] é um aplicativo implantado no AEM. Ele 
 
 A lista a seguir contém todos os pacotes complementares do AEM [!DNL Forms] lançados até hoje, versões correspondentes do AEM (Pré-requisitos), links de download de pacotes e outras informações úteis:
 
-## Versões do AEM 6.5 [!DNL Forms] {#aem-65-forms-releases}
+## Versões do AEM 6.5 [!DNL Forms]  {#aem-65-forms-releases}
 
 <table> 
   <tbody> 
@@ -230,7 +230,7 @@ O pacote complementar do `[2]` AEM [!DNL Forms] para Mac OS X não é compatíve
 
 O pacote de compatibilidade do `[3]` AEM [!DNL Forms] para a versão 6.5.4.0 permanece o mesmo da versão 6.5.3.0.
 
-## Versões do AEM 6.4 [!DNL Forms] {#aem-64-forms-releases}
+## Versões do AEM 6.4 [!DNL Forms]  {#aem-64-forms-releases}
 
 <table> 
  <tbody> 
@@ -488,7 +488,7 @@ O pacote complementar do `[2]` AEM [!DNL Forms] para Mac OS X não é compatíve
 
 O pacote de compatibilidade do `[3]` AEM [!DNL Forms] para a versão 6.4.8.0 permanece o mesmo da versão 6.4.7.0.
 
-## Versões do AEM 6.3 [!DNL Forms] {#aem-63-forms-releases}
+## Versões do AEM 6.3 [!DNL Forms]  {#aem-63-forms-releases}
 
 <table> 
  <tbody> 
@@ -810,7 +810,7 @@ O pacote complementar do `[2]` AEM [!DNL Forms] para Mac OS X não é compatíve
 
 `[3]` **IMPORTANTE**: Antes de instalar o pacote incorporado do LiveCycle, instale o [AEM Cumulative Fix Pack 6.3.1.1](/help/release-notes-aem-6-3-cumulative-fix-pack.md) e certifique-se de que a versão do pacote do **Apache Sling Authentication Service** seja o 1.4.0 ou posterior; caso contrário, o servidor pode ficar sem resposta e irrecuperável. Verifique a versão do pacote em `http://[server]:[port]/system/console/bundles`.
 
-## Versões do AEM 6.2 [!DNL Forms] {#aem-62-forms-releases}
+## Versões do AEM 6.2 [!DNL Forms]  {#aem-62-forms-releases}
 
 <table> 
  <tbody> 
