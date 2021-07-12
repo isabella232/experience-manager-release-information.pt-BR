@@ -8,11 +8,10 @@ breadcrumb-title: Informações sobre a versão do AEM
 user-guide-description: Consulte as atualizações mais recentes do AEM.
 feature-set: Experience Manager
 feature: Informações da versão
-role: Leader, Architect, Developer, Data Architect, Data Engineer, Administrator, Business Practitioner
+role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner, Intermediate, Experienced
-translation-type: ht
-source-git-commit: e89dcf7b57b2af9674fd5016f0764311702966a7
-workflow-type: ht
+source-git-commit: d4f69cdd174d0591104106bc3bbdb62e76835fec
+workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 100%
 
@@ -28,10 +27,10 @@ ht-degree: 100%
 + Atualizações de versões anteriores {#previous-updates}
    + [AEM 6.3 Cumulative Fix Pack](release-notes-aem-6-3-cumulative-fix-pack.md)
    + [AEM 6.2 Cumulative Fix Pack](release-notes-aem-6-2-cumulative-fix-pack.md)
-   + [Versões anteriores do AEM, do CQ e do CRX](aem-previous-versions.md)
+   + [Versões anteriores do AEM, CQ e CRX](aem-previous-versions.md)
 + Atualizações de versões do AEM Forms {#forms-updates}
    + [Versões do AEM Forms](aem-forms-releases.md)
-   + [Instalação do Cumulative Fix Pack no AEM Forms JEE](install-cfp-aem-forms-jee.md)
+   + [Instalação de Cumulative Fix Packs no AEM Forms JEE](install-cfp-aem-forms-jee.md)
 + Atualizações na documentação {#doc-updates}
    + [Atualizações recentes na documentação](documentation-updates.md)
    + [Atualizações anteriores na documentação](previous-documentation-updates.md)
