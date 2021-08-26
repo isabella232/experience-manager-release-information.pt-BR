@@ -3,8 +3,8 @@ title: Versões e atualizações do [!DNL Adobe Experience Manager]
 description: Versões e atualizações do [!DNL Adobe Experience Manager]
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: faf5d9e8303daec9484062f756f430428e280dd7
-workflow-type: ht
+source-git-commit: 7f3c4561a27f124099319a21f149750fe7001f33
+workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ O [!DNL Experience Manager] as a [!DNL Cloud Service] segue uma cadência de lan
 
 Consulte [Notas de versão atuais para [!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=pt-BR) para obter detalhes da versão atual/mais recente. Aqui, você também pode acessar os detalhes de versões anteriores (organizadas cronologicamente).
 
-## [!DNL Experience Manager] no local e Managed Services {#aem-on-prem-managed-services}
+## [!DNL Experience Manager] no local e managed services {#aem-on-prem-managed-services}
 
 Para ofertas do Managed Services e no local, o artigo lista a versão mais recente do Cumulative Fix Pack, a versão mais recente do Service Pack e a versão principal, e direciona você para a documentação dessas versões. A [!DNL Adobe] recomenda a análise e aplicação do Service Pack e do Cumulative Fix Pack mais recentes para a sua versão do [!DNL Experience Manager]. Isso manterá sua implantação estável, segura e atualizada.
 
@@ -32,7 +32,7 @@ Para ofertas do Managed Services e no local, o artigo lista a versão mais recen
 
 As atualizações de produtos do [!DNL Experience Manager] 6.5 são fornecidas por meio de Service Packs trimestrais. Eles incluem novos recursos, melhorias e correções de bugs.
 
-* [[!DNL Experience Manager] 6.5 Service Pack 9](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=pt-BR)
+* [[!DNL Experience Manager] 6.5 Service Pack 10](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=pt-BR)
 
 * [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=pt-BR)
 

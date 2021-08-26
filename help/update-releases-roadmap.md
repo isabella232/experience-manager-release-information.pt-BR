@@ -2,9 +2,9 @@
 title: Roteiro de versões do [!DNL Adobe Experience Manager]
 description: Roteiro de versões do [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 964950fcd6ae02c5a1cb67f2673b3134a55ee12a
-workflow-type: ht
-source-wordcount: '317'
+source-git-commit: 7f3c4561a27f124099319a21f149750fe7001f33
+workflow-type: tm+mt
+source-wordcount: '299'
 ht-degree: 100%
 
 ---
@@ -23,8 +23,6 @@ O [[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague
 
 | Versão | Versão | Tipo | Programação |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.7.0 | 2021.7.0 | Lançamento mensal | 29 de julho de 2021 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.8.0 | 2021.8.0 | Lançamento mensal | 26 de agosto de 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.9.0 | 2021.9.0 | Lançamento mensal | 30 de setembro de 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.10.0 | 2021.10.0 | Lançamento mensal | 28 de outubro de 2021 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | Lançamento mensal | 2 de dezembro de 2021 |
@@ -41,7 +39,6 @@ As atualizações de produto do [!DNL Experience Manager] 6.5 são fornecidas po
 
 | Versão | Versão | Tipo | Programação |
 |---|---|---|---|
-| [!DNL Experience Manager] 6.5 Service Pack 10 | 6.5.10.0 | Service Pack | 26 de agosto de 2021 |
 | [!DNL Experience Manager] 6.5 Service Pack 11 | 6.5.11.0 | Service Pack | 25 de novembro de 2021 |
 
 >[!NOTE]
@@ -57,5 +54,5 @@ As atualizações de produto do [!DNL Experience Manager] 6.5 são fornecidas po
 >* [Matriz de EOL](https://helpx.adobe.com/br/support/programs/eol-matrix.html)
 >* Versões e atualizações do [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=pt-BR)
 >* Aprendizado e suporte do [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=pt-BR)
->* [Definições dos veículos de lançamentos de atualizações do [!DNL Experience Manager]](/help/update-release-vehicle-definitions.md)
+>* Definições dos veículos de lançamentos de atualizações do [[!DNL Experience Manager] ](/help/update-release-vehicle-definitions.md)
 
