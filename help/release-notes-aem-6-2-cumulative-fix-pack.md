@@ -1,9 +1,9 @@
 ---
 title: AEM 6.2 Cumulative Fix Pack
 description: Notas de versão do AEM 6.2 Cumulative Fix Pack.
-source-git-commit: 3c798116db7314f4220f8a183a989c2b37678054
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
 workflow-type: tm+mt
-source-wordcount: '19953'
+source-wordcount: '19928'
 ht-degree: 99%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 99%
 | **Produto** | Adobe Experience Manager |
 |---|---|
 | **Versão** | 6.2 |
-| **Versão** | [Cumulative Fix Pack 6.2 SP1-CFP20](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/AEM-6.2-SP1-CFP20) |
+| **Versão** | Cumulative Fix Pack 6.2 SP1-CFP20 |
 | **Pré-requisitos** | [AEM 6.2 Service Pack 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html) |
 | **Disponibilidade geral** | 6 de junho de 2019 |
 
@@ -2206,7 +2206,7 @@ Esta seção aborda os requisitos e as etapas para instalar o CFP.
 
 * O AEM 6.2 Service Pack 1 é um pré-requisito do CFP. Para obter instruções de instalação, consulte [Notas de versão do AEM 6.2 Service Pack 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html).
 
-* O download do Cumulative Fix Pack está disponível em [Distribuição de softwares](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/AEM-6.2-SP1-CFP20), que está acessível diretamente da instância do AEM.
+* O download do Cumulative Fix Pack está disponível em [Distribuição de softwares](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html), que está acessível diretamente da instância do AEM.
 * Em uma implantação de cluster usando (RDBMK ou MongoDB), o pacote CFP pode ser instalado em qualquer uma das instâncias do Autor que usa o Gerenciador de pacotes.
 
 * Antes de instalar o Cumulative Fix Pack, verifique se você fez um instantâneo ou um backup da instância do AEM.

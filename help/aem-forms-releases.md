@@ -3,9 +3,9 @@ title: Versões do AEM Forms
 description: Contém a lista de todas as versões do AEM Forms e pacotes correspondentes
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 90a8b515d9cb567a700714c215581361ef05f310
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
 workflow-type: tm+mt
-source-wordcount: '9745'
+source-wordcount: '9735'
 ht-degree: 100%
 
 ---
@@ -218,7 +218,7 @@ A lista a seguir contém todos os pacotes complementares do AEM [!DNL Forms] lan
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-FSI-REF-SITE">Pacote do site de referência de FSI do AEM Forms</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-GOV-REF-SITE">Pacote do site de referência de Gov do AEM Forms</a></li> 
      </ul> </td> 
-    <td><p>Pacotes complementares do AEM Forms e Client SDK: <a href="https://repo.adobe.com/nexus/content/repositories/public/com/adobe/aemfd/aemfd-client-sdk/6.0.80/">6.0.80</a></p> <p>Pacote de configuração de segurança global do AEM Websphere: 6.5.0.20190329.1.935745</p> <p>AEM Forms App Source: 5.0.16</p> <p> </p> </td> 
+    <td><p>Pacotes complementares do AEM Forms e Client SDK: 6.0.80</p> <p>Pacote de configuração de segurança global do AEM Websphere: 6.5.0.20190329.1.935745</p> <p>AEM Forms App Source: 5.0.16</p> <p> </p> </td> 
    </tr> 
   </tbody> 
  </table>

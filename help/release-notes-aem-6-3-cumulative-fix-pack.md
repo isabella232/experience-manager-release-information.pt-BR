@@ -1,9 +1,9 @@
 ---
 title: AEM 6.3 Cumulative Fix Pack
 description: Notas de versão do AEM 6.3 Cumulative Fix Pack.
-source-git-commit: 3c798116db7314f4220f8a183a989c2b37678054
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
 workflow-type: tm+mt
-source-wordcount: '15916'
+source-wordcount: '15893'
 ht-degree: 99%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 99%
 | **Produto** | Adobe Experience Manager |
 |---|---|
 | **Versão** | 6.3 |
-| **Versão** | Cumulative Fix Pack 6.3.3.8 em [PackageShare](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/AEM-CFP-6.3.3.8), [Distribuição de softwares(beta)](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/aem-6.3.3-cfp-8.0.zip) |
+| **Versão** | Cumulative Fix Pack 6.3.3.8 em [Distribuição de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/aem-6.3.3-cfp-8.0.zip) |
 | **Pré-requisitos** | [AEM 6.3 Service Pack 3 (6.3.3.0)](https://helpx.adobe.com/br/experience-manager/6-3/release-notes/sp3-release-notes.html) |
 | **Disponibilidade geral** | 5 de março de 2020 |
 
@@ -1721,7 +1721,7 @@ O AEM Cumulative Fix Pack 6.3.0.1 é uma atualização importante que inclui vá
 
 ## Instruções de download para o CFP via Distribuição de softwares {#download-instructions-for-cfp-via-package-share}
 
-Você pode baixar o pacote CFP diretamente da [Distribuição de software](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/AEM-CFP-6.3.3.8) ou executar as seguintes etapas:
+Você pode baixar o pacote CFP diretamente da [Distribuição de software](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html) ou executar as seguintes etapas:
 
 1. Abra a [Distribuição de software](https://experience.adobe.com/downloads). Você precisa de uma Adobe ID para fazer logon na Distribuição de softwares.
 1. Clique em **[!UICONTROL Adobe Experience Manager]** disponível no menu de cabeçalho.
