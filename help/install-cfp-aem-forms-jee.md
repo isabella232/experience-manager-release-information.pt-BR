@@ -4,7 +4,7 @@ description: Resumo das etapas para instalar e configurar o Cumulative Fix Pack 
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1044'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ Execute as seguintes etapas, na sequência especificada, para instalar o Cumulat
 
 ### Instalar pacote do AEM [!DNL Forms JEE]  {#install-aem-forms-jee-bundles-package}
 
-O pacote do AEM [!DNL  Forms JEE]  (aemfd-jee-bundles-package-6.3CFP1; versão 1.0.2) fornece ao usuário do [!DNL Forms] no AEM [!DNL Forms JEE] os mesmos direitos e recursos do AEM [!DNL Forms OSGi]. Verifique os pacotes instalados no Gerenciador de pacotes e instale o pacote se ele ainda não estiver instalado.
+O pacote do AEM [!DNL  Forms JEE] (aemfd-jee-bundles-package-6.3CFP1; versão 1.0.2) fornece ao usuário do [!DNL Forms] no AEM [!DNL Forms JEE] os mesmos direitos e recursos do AEM [!DNL Forms OSGi]. Verifique os pacotes instalados no Gerenciador de pacotes e instale o pacote se ele ainda não estiver instalado.
 
 ### Instruções adicionais para o CQ-4208044 {#additional-instructions-for-cq}
 
@@ -83,7 +83,7 @@ Use os seguintes comandos para definir o tempo limite no nível do componente:
 
 1. Para definir o tempo limite de valores de operação `DesigntimeService` para 500 segundos, use:
 
-   defina &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
+   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
 
 1. Para definir o tempo limite de valores de operação `DesigntimeService's previewLCA` para 700 segundos, use:
 
@@ -91,7 +91,7 @@ Use os seguintes comandos para definir o tempo limite no nível do componente:
 
 1. Para definir `DSC operations` como carregar, instalar etc. para 600 segundos, use:
 
-   defina &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
+   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
 
 ## Instalar e configurar o AEM [!DNL Forms JEE] {#install-and-configure-aem-forms-jee}
 
