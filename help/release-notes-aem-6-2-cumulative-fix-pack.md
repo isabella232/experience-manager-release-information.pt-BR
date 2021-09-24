@@ -47,7 +47,6 @@ O AEM Cumulative Fix Pack 6.2 SP1-CFP20 é o último Cumulative Fix Pack para o 
 >* O pacote de emails do Apache Commons **org.apache.commons/commons-email/1.5** foi adicionado, substituindo o **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**.
 >
 >* A Adobe recomenda a implantação do CFP por meio da pasta de instalação para clientes que têm um grande número de usuários na instância do AEM.
-
 >
 
 
@@ -1322,7 +1321,6 @@ As correções do AEM Forms são entregues por meio de pacotes complementares e 
 >
 >* A função Copiar Colar do Word/Web para o Editor de texto CM exibe conteúdo de quebra de linha. NPR-19530
 >* O conteúdo sem quebra de linha no Editor de texto CM não quebra automática. NPR-19449
-
 >
 >Esses problemas serão abordados no CFP futuro.
 
