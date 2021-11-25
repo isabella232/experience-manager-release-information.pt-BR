@@ -2,9 +2,9 @@
 title: Roteiro de versões do [!DNL Adobe Experience Manager]
 description: Roteiro de versões do [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: dcd72e5b5a4bbcf7c9892b654a18f4b687dc2c2c
+source-git-commit: 977c8667a9eb1fac4959064b82266f6812d78333
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '305'
 ht-degree: 100%
 
 ---
@@ -37,7 +37,6 @@ As atualizações de produto do [!DNL Experience Manager] 6.5 são fornecidas po
 
 | Lançamento | Versão | Tipo | Programação |
 |---|---|---|---|
-| [!DNL Experience Manager] 6.5 Service Pack 11 | 6.5.11.0 | Service Pack | 25 de novembro de 2021 |
 | [!DNL Experience Manager] 6.5 Service Pack 12 | 6.5.12.0 | Service Pack | 24 de fevereiro de 2022 |
 | [!DNL Experience Manager] 6.5 Service Pack 13 | 6.5.13.0 | Service Pack | 26 de maio de 2022 |
 | [!DNL Experience Manager] 6.5 Service Pack 14 | 6.5.14.0 | Service Pack | 25 de agosto de 2022 |
