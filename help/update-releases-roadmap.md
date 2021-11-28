@@ -2,7 +2,7 @@
 title: Roteiro de versões do [!DNL Adobe Experience Manager]
 description: Roteiro de versões do [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 977c8667a9eb1fac4959064b82266f6812d78333
+source-git-commit: 3a32f1a6f2807219c235d59c841e53e88a017fad
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 100%
@@ -23,7 +23,7 @@ O [[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague
 
 | Lançamento | Versão | Tipo | Programação |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | Lançamento mensal | 2 de dezembro de 2021 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | Lançamento mensal | 16 de dezembro de 2021 |
 
 Além dos lançamentos mensais, várias atualizações críticas estão disponíveis no [!DNL Experience Manager] as a [!DNL Cloud Service] com uma frequência de lançamento diária.
 
