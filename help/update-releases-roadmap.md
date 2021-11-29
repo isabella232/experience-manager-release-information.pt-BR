@@ -2,10 +2,10 @@
 title: Roteiro de versões do [!DNL Adobe Experience Manager]
 description: Roteiro de versões do [!DNL Adobe Experience Manager]
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 3a32f1a6f2807219c235d59c841e53e88a017fad
+source-git-commit: baca4b11a2fa6e0187275c74a7223058ec927589
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 100%
+source-wordcount: '335'
+ht-degree: 98%
 
 ---
 
@@ -24,6 +24,11 @@ O [[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague
 | Lançamento | Versão | Tipo | Programação |
 |---|---|---|---|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | Lançamento mensal | 16 de dezembro de 2021 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.1.0 | 2022.1.0 | Lançamento mensal | 27 de janeiro de 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.2.0 | 2022.2.0 | Lançamento mensal | 24 de fevereiro de 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.3.0 | 2022.3.0 | Lançamento mensal | 31 de março de 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 | 2022.4.0 | Lançamento mensal | 28 de abril de 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 | 2022.5.0 | Lançamento mensal | 26 de maio de 2022 |
 
 Além dos lançamentos mensais, várias atualizações críticas estão disponíveis no [!DNL Experience Manager] as a [!DNL Cloud Service] com uma frequência de lançamento diária.
 
