@@ -52,7 +52,7 @@ A lista a seguir contém todos os pacotes complementares do AEM [!DNL Forms] lan
     <td><p>Instalador do AEM Forms JEE: AEMForms-6.5.0-0038<br /> <p>Pacotes do complemento AEM Forms: 6.0.566-NPR-37836-B0001</p></td> 
    </tr>
    <tr> 
-    <td>03 de dezembro de 2021</td> 
+    <td>3 de dezembro de 2021</td> 
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">Pacote complementar do AEM Forms Service Pack 11 Forms para AEM 6.5.11.0</a></td> 
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.11.0</a></td> 
     <td> 
