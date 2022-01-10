@@ -3,9 +3,9 @@ title: AEM 6.3 Cumulative Fix Pack
 description: Notas de versão do AEM 6.3 Cumulative Fix Pack.
 exl-id: 04969587-a904-44cb-83e0-51707ac6a87f
 source-git-commit: e9031f819352f34248c6a458ef5a9101a660fbea
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '15909'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ Para obter mais informações sobre o CFP e outros tipos de versões, consulte [
 
 O AEM Cumulative Fix Pack 6.3.3.8 é uma atualização importante que inclui várias correções internas e de clientes desde a disponibilização geral do AEM 6.3 Service Pack 3 (6.3.3.0), em setembro de 2018.
 
-O AEM Cumulative Fix Pack 6.3.3.8 é dependente do AEM 6.3 Service Pack 3. Portanto, você deve instalar o pacote AEM Cumulative Fix Pack 6.3.3.x após instalar o AEM 6.3 Service Pack 3. Para obter instruções de instalação, consulte [Notas de versão do AEM 6.3 Service Pack 3](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html).
+O AEM Cumulative Fix Pack 6.3.3.8 é dependente do AEM 6.3 Service Pack 3. Portanto, você deve instalar o pacote AEM Cumulative Fix Pack 6.3.3.x após instalar o AEM 6.3 Service Pack 3. Para obter instruções de instalação, consulte [Notas de versão do AEM 6.3 Service Pack 3](https://helpx.adobe.com/br/experience-manager/6-3/release-notes/sp3-release-notes.html).
 
 Os principais destaques do **AEM Cumulative Fix Pack** são:
 
@@ -104,7 +104,7 @@ As correções do AEM Forms são entregues por meio de pacotes complementares e 
 
 O AEM Cumulative Fix Pack 6.3.3.7 é uma atualização importante que inclui várias correções internas e de clientes desde a disponibilização geral do AEM 6.3 Service Pack 3 (6.3.3.0), em setembro de 2018.
 
-O AEM Cumulative Fix Pack 6.3.3.7 é dependente do AEM 6.3 Service Pack 3. Portanto, você deve instalar o pacote AEM Cumulative Fix Pack 6.3.3.x após instalar o AEM 6.3 Service Pack 3. Para obter instruções de instalação, consulte [Notas de versão do AEM 6.3 Service Pack 3](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html).
+O AEM Cumulative Fix Pack 6.3.3.7 é dependente do AEM 6.3 Service Pack 3. Portanto, você deve instalar o pacote AEM Cumulative Fix Pack 6.3.3.x após instalar o AEM 6.3 Service Pack 3. Para obter instruções de instalação, consulte [Notas de versão do AEM 6.3 Service Pack 3](https://helpx.adobe.com/br/experience-manager/6-3/release-notes/sp3-release-notes.html).
 
 ### Ativos {#assets-1}
 
@@ -172,7 +172,7 @@ As correções do AEM Forms são entregues por meio de pacotes complementares e 
 
 O AEM Cumulative Fix Pack 6.3.3.6 é uma atualização importante que inclui várias correções internas e de clientes desde a disponibilização geral do AEM 6.3 Service Pack 3 (6.3.3.0), em setembro de 2018.
 
-O AEM Cumulative Fix Pack 6.3.3.6 é dependente do AEM 6.3 Service Pack 3. Portanto, você deve instalar o pacote AEM Cumulative Fix Pack 6.3.3.x após instalar o AEM 6.3 Service Pack 3. Para obter instruções de instalação, consulte [Notas de versão do AEM 6.3 Service Pack 3](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html).
+O AEM Cumulative Fix Pack 6.3.3.6 é dependente do AEM 6.3 Service Pack 3. Portanto, você deve instalar o pacote AEM Cumulative Fix Pack 6.3.3.x após instalar o AEM 6.3 Service Pack 3. Para obter instruções de instalação, consulte [Notas de versão do AEM 6.3 Service Pack 3](https://helpx.adobe.com/br/experience-manager/6-3/release-notes/sp3-release-notes.html).
 
 ### Ativos {#assets-2}
 
@@ -189,7 +189,7 @@ O AEM Cumulative Fix Pack 6.3.3.6 é dependente do AEM 6.3 Service Pack 3. Porta
 * Os relatórios OOTB em /etc/reports/ funcionam corretamente e o gráfico de dados históricos não é exibido. NPR-30016: Hotfix do CQ-4220180
 * O valor do parâmetro de solicitação resourceType é copiado no valor de um atributo de marca HTML entre aspas duplas. NPR-29832: Hotfix do CQ-4255365
 
-### Comunidades {#communities-1}
+### Communities {#communities-1}
 
 * Duplique o problema de conteúdo no console de moderação do AEM Communities. NPR-30667: Hotfix do CQ-4276829
 
@@ -226,7 +226,7 @@ As correções do AEM Forms são entregues por meio de pacotes complementares e 
 
 O AEM Cumulative Fix Pack 6.3.3.5 é uma atualização importante que inclui várias correções internas e de clientes desde a disponibilização geral do AEM 6.3 Service Pack 3 (6.3.3.0), em setembro de 2018.
 
-O AEM Cumulative Fix Pack 6.3.3.5 é dependente do AEM 6.3 Service Pack 3. Portanto, você deve instalar o pacote AEM Cumulative Fix Pack 6.3.3.x após instalar o AEM 6.3 Service Pack 3. Para obter instruções de instalação, consulte [Notas de versão do AEM 6.3 Service Pack 3](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html).
+O AEM Cumulative Fix Pack 6.3.3.5 é dependente do AEM 6.3 Service Pack 3. Portanto, você deve instalar o pacote AEM Cumulative Fix Pack 6.3.3.x após instalar o AEM 6.3 Service Pack 3. Para obter instruções de instalação, consulte [Notas de versão do AEM 6.3 Service Pack 3](https://helpx.adobe.com/br/experience-manager/6-3/release-notes/sp3-release-notes.html).
 
 Os principais destaques do **AEM Cumulative Fix Pack** são:
 
@@ -253,7 +253,7 @@ Os principais destaques do **AEM Cumulative Fix Pack** são:
 * Propriedades vazias e várias propriedades não se propagam a partir do blueprint durante o lançamento. Redefinir livecopy com blueprint não funciona para componentes.NPR-29252: Hotfix do CQ-4264928, CQ-4264926, CQ-4267722
 * Minimizar o Editor de Rich Text da tela cheia enquanto no modo de edição de origem leva a perda de conteúdo. NPR-28838: Hotfix do CQ-4260584
 
-### Comunidades {#communities-2}
+### Communities {#communities-2}
 
 * Os visitantes e membros sem privilégios de moderador podem ver publicações não aprovadas e pendentes ao colar o URL. NPR-29726: Hotfix do CQ-4271124
 * É observado um tempo de resposta alto de 40 a 50 segundos no logon do usuário na Comunidade. NPR-29679: Hotfix do CQ-4269444
@@ -294,7 +294,7 @@ Lista de pacotes de conteúdo incluídos no AEM 6.3.3.5
 
 O AEM Cumulative Fix Pack 6.3.3.4 é uma atualização importante que inclui várias correções internas e de clientes desde a disponibilização geral do AEM 6.3 Service Pack 3 (6.3.3.0), em setembro de 2018.
 
-O AEM Cumulative Fix Pack 6.3.3.4 é dependente do AEM 6.3 Service Pack 3. Portanto, você deve instalar o pacote AEM Cumulative Fix Pack 6.3.3.x após instalar o AEM 6.3 Service Pack 3. Para obter instruções de instalação, consulte [Notas de versão do AEM 6.3 Service Pack 3](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html).
+O AEM Cumulative Fix Pack 6.3.3.4 é dependente do AEM 6.3 Service Pack 3. Portanto, você deve instalar o pacote AEM Cumulative Fix Pack 6.3.3.x após instalar o AEM 6.3 Service Pack 3. Para obter instruções de instalação, consulte [Notas de versão do AEM 6.3 Service Pack 3](https://helpx.adobe.com/br/experience-manager/6-3/release-notes/sp3-release-notes.html).
 
 Os principais destaques do **AEM Cumulative Fix Pack** são:
 
@@ -314,7 +314,7 @@ Os principais destaques do **AEM Cumulative Fix Pack** são:
 * O Compartilhamento de link com arquivos de vídeo codificados no DMS7 resulta em pastas vazias. NPR-28851: Hotfix do CQ-4206743
 * Replicar o AEM no Brand Portal paralisa por longos períodos. NPR-28913: Hotfix do CQ-4254932
 
-### Comunidades {#communities-3}
+### Communities {#communities-3}
 
 * Não é possível abrir mensagens com anexos no Outlook enviados e na pasta da caixa de entrada. NPR-28559: Hotfix do CQ-4217072
 
@@ -402,7 +402,7 @@ Lista de pacotes de conteúdo incluídos no AEM 6.3.3.4
 
 O AEM Cumulative Fix Pack 6.3.3.3 é uma atualização importante que inclui várias correções internas e de clientes desde a disponibilização geral do AEM 6.3 Service Pack 3 (6.3.3.0), em setembro de 2018.
 
-O AEM Cumulative Fix Pack 6.3.3.3 é dependente do AEM 6.3 Service Pack 3. Portanto, você deve instalar o pacote AEM Cumulative Fix Pack 6.3.3.x após instalar o AEM 6.3 Service Pack 3. Para obter instruções de instalação, consulte [Notas de versão do AEM 6.3 Service Pack 3](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html).
+O AEM Cumulative Fix Pack 6.3.3.3 é dependente do AEM 6.3 Service Pack 3. Portanto, você deve instalar o pacote AEM Cumulative Fix Pack 6.3.3.x após instalar o AEM 6.3 Service Pack 3. Para obter instruções de instalação, consulte [Notas de versão do AEM 6.3 Service Pack 3](https://helpx.adobe.com/br/experience-manager/6-3/release-notes/sp3-release-notes.html).
 
 Os principais destaques do **AEM Cumulative Fix Pack** são:
 
@@ -418,7 +418,7 @@ Os principais destaques do **AEM Cumulative Fix Pack** são:
 * Não é possível baixar vários arquivos do tipo .jp2,.max,.oft e .msg. NPR-28002: Hotfix do CQ-4210856
 * As configurações de publicação do ImageServer não são replicadas na entrega híbrida. NPR-28329: Hotfix do CQ-4253030
 
-#### Comunidades {#communities-4}
+#### Communities {#communities-4}
 
 * Ativação da navegação por teclado para componentes de ativação do AEM Communities em Publicar. NPR-27739: Hotfix do CQ-4253856
 * Ativação da navegação por teclado para acionar a reprodução do conteúdo. NPR-27738: Hotfix do CQ-4254026
@@ -545,7 +545,7 @@ Os principais destaques do AEM Cumulative Fix Pack são:
 
 * Quando data-sly-use é usado com classes de nome idêntico, o código não compatível é produzido. NPR-27282: Hotfix do Sling-7581
 
-#### Comércio {#commerce-1}
+#### Commerce {#commerce-1}
 
 * Atualização para Apache Felix Http Jetty 4.0.6. NPR-26472: Hotfix do Granite-22916
 
@@ -566,7 +566,7 @@ Os principais destaques do AEM Cumulative Fix Pack são:
 
 * A interface do usuário do esquema de metadados da pasta é corrompida após a instalação do SP3. Hotfix do CQ-4257737
 
-#### Comunidades {#communities-5}
+#### Communities {#communities-5}
 
 * Adição de suporte de paginação para a listagem de grupos na publicação. NPR-26953: Hotfix do CQ-4246525
 * A notificação de contagem não lida não pode ser definida para além de 21. NPR-27496: Hotfix do CQ-4252829
@@ -630,7 +630,7 @@ Lista de pacotes de conteúdo incluídos no AEM 6.3.3.2
 
 O AEM Cumulative Fix Pack 6.3.3.1 é uma atualização importante que inclui várias correções internas e de clientes desde a disponibilização geral do AEM 6.3 Service Pack 3 (6.3.3.0), em setembro de 2018.
 
-O AEM Cumulative Fix Pack 6.3.3.1 é dependente do AEM 6.3 Service Pack 3. Portanto, você deve instalar o pacote AEM Cumulative Fix Pack 6.3.3.x após instalar o AEM 6.3 Service Pack 3. Para obter instruções de instalação, consulte [Notas de versão do AEM 6.3 Service Pack 3](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html).
+O AEM Cumulative Fix Pack 6.3.3.1 é dependente do AEM 6.3 Service Pack 3. Portanto, você deve instalar o pacote AEM Cumulative Fix Pack 6.3.3.x após instalar o AEM 6.3 Service Pack 3. Para obter instruções de instalação, consulte [Notas de versão do AEM 6.3 Service Pack 3](https://helpx.adobe.com/br/experience-manager/6-3/release-notes/sp3-release-notes.html).
 
 Os principais destaques do **AEM Cumulative Fix Pack** são:
 
@@ -709,7 +709,7 @@ Os principais destaques do **AEM Cumulative Fix Pack** são:
 * O AEM OAuth Provider não realiza a pesquisa que diferencia maiúsculas de minúsculas. NPR-26133: Hotfix do GRANITE-22650
 * A Validação de pacote não valida pacotes incluídos no CFP/SP. NPR-26775: Hotfix do Granite-22825
 
-#### Comunidades {#communities-6}
+#### Communities {#communities-6}
 
 * Problema de delimitador com resultados de pesquisa. NPR-27051: Hotfix do CQ-4248939
 * Altere o valor suspenso de Dallas para Virginia no Provedor de recurso de armazenamento da Adobe. NPR-26936: Hotfix do CQ-4254434
@@ -930,11 +930,11 @@ Os principais destaques do **AEM Cumulative Fix Pack** são:
 
 * As conexões de rastreamento de clientes Http do Apache e a alta utilização do heap causam falha no servidor AEM. NPR-23906: Hotfix do Granite-21056
 
-### Comércio {#commerce-2}
+### Commerce {#commerce-2}
 
 * A saída json da campanha não contém a raiz de contexto do servlet. NPR-23733: Hotfix do CQ-4243827
 
-### Comunidades {#communities-7}
+### Communities {#communities-7}
 
 * A pesquisa nas comunidades falha com poucas palavras. NPR-23256: Hotfix do CQ-4240717
 * Não é possível atribuir grupos para o problema de função de gerentes da comunidade. NPR-23317: Hotfix do CQ-4241233: CQ-4221399
@@ -1132,7 +1132,7 @@ Os principais destaques do **AEM Cumulative Fix Pack** são:
 * Quando uma sessão gerenciada de whiteboard http é invalidada, a sessão do container também é invalidada se a sessão não tiver outros atributos. NPR-23059: Hotfix do FELIX-5819
 * O LogbackManager pode perder alguma configuração do OSGi no momento da inicialização. NPR-23060: Hotfix do Granite-19791
 
-### Comércio {#commerce-3}
+### Commerce {#commerce-3}
 
 * Ative a criação de fluxo de trabalho no menu Fragmentos de experiência. NPR-22347: Hotfix do CQ-4221661
 * Erros de fragmentos de experiência reproduzíveis no WeRetail. NPR-21958: Hotfix do CQ-4220061
@@ -1294,17 +1294,17 @@ Os principais destaques do AEM Cumulative Fix Pack são:
 * Implementação de um mecanismo no Adobe Campaign para buscar a política de um recurso de conteúdo a partir de um recurso de direcionamento externo. NPR-20667
 * O plug-in Richtext não funciona nas barras em linha e tela cheia na interface do usuário de toque de vários campos. NPR-20973
 
-### Campanha {#campaign-1}
+### Campaign {#campaign-1}
 
 * Os espaços reservados não estão visíveis em uma página que contém vários componentes parsys. NPR-20436; Hotfix do CQ-4215000
 
-### Comércio {#commerce-4}
+### Commerce {#commerce-4}
 
 * Os Fragmentos de experiência não são exibidos corretamente no Internet Explorer 11. NPR-20161: Hotfix do CQ-4223319
 * Em fluxos de trabalho de comércio, uma imagem em branco é inserida automaticamente ao criar uma variante com base em um produto principal com várias imagens. NPR-20068: Hotfix do CQ-4222048
 * A filtragem por tags nas páginas de coleção do console de produtos não funciona. NPR-20292: Hotfix do CQ-4224023
 
-### Comunidades {#communities-8}
+### Communities {#communities-8}
 
 * Resultados de pesquisa inconsistentes com o componente searchresult. NPR-20070: Hotfix do CQ-4220913
 * As notificações por email não são acionadas nas atividades relacionadas ao moderador em componentes publicados. NPR-20122
@@ -1426,7 +1426,7 @@ Os principais destaques do AEM Cumulative Fix Pack são:
 * Ao selecionar um ativo na exibição em Coluna e clicar em Editar, a página retorna um erro. NPR-20301: Hotfix do CQ-4224052
 * A exibição Expiração do ativo é desativada ao cruzar fusos horários positivos e negativos. NPR-20329: Hotfix do CQ-4219333
 
-### Campanha {#campaign-2}
+### Campaign {#campaign-2}
 
 * Os componentes do controle deslizante do Campaign não aparecem quando a experiência Padrão é selecionada para uma campanha. NPR-19213
 
@@ -1458,7 +1458,7 @@ Os principais destaques do AEM Cumulative Fix Pack são:
 
 * Erro de conexão SSL. Não é possível estabelecer uma conexão segura com o servidor. NPR-19628
 
-### Comunidades {#communities-9}
+### Communities {#communities-9}
 
 * O email é acionado na publicação de conteúdo com sites pré-moderados. NPR-20008
 * As notificações por email não funcionam nas atividades relacionadas ao moderador em componentes publicados. NPR-19767: HF dp CQ-4218060
@@ -1472,7 +1472,7 @@ Os principais destaques do AEM Cumulative Fix Pack são:
 * O serviço Modelo de email da Adobe adiciona tags a modelos de usuário personalizados. NPR-19190
 * Hotfix do Oak 1.6.5. NPR-19148
 
-### Comércio {#commerce-5}
+### Commerce {#commerce-5}
 
 * O botão Iniciar fluxo de trabalho não tem efeito após selecionar um editor de variação XF. NPR-19642: Hotfix do CQ-4207796
 
@@ -1822,7 +1822,7 @@ As correções no JEE do AEM Forms são entregues por meio de um instalador sepa
 
 >[!NOTE]
 >
->Se estiver instalando as versões 6.3.3.0 ou posteriores, execute o procedimento a seguir para definir as configurações do servidor de aplicativos JBoss. Se estiver instalando o 6.3.3.0 no servidor do AEM Forms em execução nos servidores de aplicativos Oracle WebLogic ou IBM WebSphere, nenhuma configuração adicional será necessária. Para obter mais detalhes, consulte [Notas de versão do AEM 6.3.3.0](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html).
+>Se estiver instalando as versões 6.3.3.0 ou posteriores, execute o procedimento a seguir para definir as configurações do servidor de aplicativos JBoss. Se estiver instalando o 6.3.3.0 no servidor do AEM Forms em execução nos servidores de aplicativos Oracle WebLogic ou IBM WebSphere, nenhuma configuração adicional será necessária. Para obter mais detalhes, consulte [Notas de versão do AEM 6.3.3.0](https://helpx.adobe.com/br/experience-manager/6-3/release-notes/sp3-release-notes.html).
 
 ## Atualizações de configuração para a integração do Search&amp;Promote {#configuration-updates-for-search-promote-integration}
 
@@ -1849,7 +1849,7 @@ Com o AEM Cumulative Fix Pack 6.3.0.2 e versões posteriores, a configuração d
 
 >[!NOTE]
 >
->Caso você seja afetado por qualquer um desses problemas, entre em contato com o [Atendimento ao cliente do AEM](https://helpx.adobe.com/marketing-cloud/contact-support.html).
+>Caso você seja afetado por qualquer um desses problemas, entre em contato com o [Atendimento ao cliente do AEM](https://helpx.adobe.com/br/marketing-cloud/contact-support.html).
 
 * A alta utilização da CPU é observada devido a muitas solicitações na funcionalidade do Admin Search. NPR-24229
 * PathField não está selecionado no pathBrowser ao reabrir o componente. NPR-24177
