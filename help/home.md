@@ -19,13 +19,13 @@ Este guia aborda informações sobre o roteiro de versões do [!DNL Adobe Experi
 
 ## Atualizações de versões anteriores
 
-* [Notas de versão:  [!DNL Experience Manager]  6.3 Cumulative Fix Pack](release-notes-aem-6-3-cumulative-fix-pack.md)
-* [Notas de versão:  [!DNL Experience Manager]  6.2 Cumulative Fix Pack](release-notes-aem-6-2-cumulative-fix-pack.md)
+* [Notas de versão: Pacote de correções cumulative do  [!DNL Experience Manager]  6.3](release-notes-aem-6-3-cumulative-fix-pack.md)
+* [Notas de versão: Pacote de correções cumulative do  [!DNL Experience Manager]  6.2](release-notes-aem-6-2-cumulative-fix-pack.md)
 
 ## Atualizações de versões do [!DNL Experience Manager] Forms
 
 * [Versões do [!DNL Experience Manager] Forms](aem-forms-releases.md)
-* [Instalação do Cumulative Fix Pack no  [!DNL Experience Manager]  Forms JEE](install-cfp-aem-forms-jee.md)
+* [Instalação do Pacote de correções cumulative no  [!DNL Experience Manager]  Forms JEE](install-cfp-aem-forms-jee.md)
 
 ## Atualizações na documentação
 
