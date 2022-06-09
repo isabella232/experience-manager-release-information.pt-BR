@@ -1,10 +1,11 @@
 ---
 title: AEM 6.2 Cumulative Fix Pack
 description: Notas de versão do AEM 6.2 Cumulative Fix Pack.
-source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
-workflow-type: ht
+exl-id: f1c2d4ff-590b-46b5-b2b1-e2b5141f7cc0
+source-git-commit: 44bb03aeb23c2c44fa037b020c3b9c8eadfa0fb7
+workflow-type: tm+mt
 source-wordcount: '19928'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -107,7 +108,7 @@ As correções do AEM Forms são entregues por meio de pacotes complementares e 
 
 ### Cumulative Fix Pack 19 {#cumulative-fix-pack-1}
 
-O AEM Cumulative Fix Pack 6.2 SP1-CFP19 é uma atualização importante que inclui correções essenciais para o cliente lançadas desde a disponibilização geral do [AEM 6.2 SP1](https://helpx.adobe.com/br/experience-manager/6-2/release-notes/sp1.html).
+O AEM Cumulative Fix Pack 6.2 SP1-CFP19 é uma atualização importante que inclui correções essenciais para o cliente lançadas desde a disponibilização geral do [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html).
 
 Os principais destaques desse Cumulative Fix Pack são:
 
@@ -182,7 +183,7 @@ Lista de pacotes de conteúdo incluídos no AEM 6.2SP1-CFP19
 
 ### Cumulative Fix Pack 18 {#cumulative-fix-pack-2}
 
-O AEM Cumulative Fix Pack 6.2 SP1-CFP18 é uma atualização importante que inclui correções essenciais para o cliente lançadas desde a disponibilização geral do [AEM 6.2 SP1](https://helpx.adobe.com/br/experience-manager/6-2/release-notes/sp1.html).
+O AEM Cumulative Fix Pack 6.2 SP1-CFP18 é uma atualização importante que inclui correções essenciais para o cliente lançadas desde a disponibilização geral do [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html).
 
 Os principais destaques desse Cumulative Fix Pack são:
 
@@ -250,7 +251,7 @@ Lista de pacotes de conteúdo incluídos no AEM 6.2 SP1-CFP18
 
 ### Cumulative Fix Pack 17 {#cumulative-fix-pack-3}
 
-O AEM Cumulative Fix Pack 6.2 SP1-CFP17 é uma atualização importante que inclui correções essenciais para o cliente lançadas desde a disponibilização geral do [AEM 6.2 SP1](https://helpx.adobe.com/br/experience-manager/6-2/release-notes/sp1.html).
+O AEM Cumulative Fix Pack 6.2 SP1-CFP17 é uma atualização importante que inclui correções essenciais para o cliente lançadas desde a disponibilização geral do [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html).
 
 Os principais destaques desse Cumulative Fix Pack são:
 
@@ -342,7 +343,7 @@ Lista de pacotes de conteúdo incluídos no AEM 6.2SP1-CFP17
 
 ### Cumulative Fix Pack 16 {#cumulative-fix-pack-4}
 
-O AEM Cumulative Fix Pack 6.2 SP1-CFP16 é uma atualização importante que inclui correções essenciais para o cliente lançadas desde a disponibilização geral do [AEM 6.2 SP1](https://helpx.adobe.com/br/experience-manager/6-2/release-notes/sp1.html).
+O AEM Cumulative Fix Pack 6.2 SP1-CFP16 é uma atualização importante que inclui correções essenciais para o cliente lançadas desde a disponibilização geral do [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html).
 
 Os principais destaques desse Cumulative Fix Pack são:
 
@@ -454,7 +455,7 @@ Lista de pacotes de conteúdo incluídos no AEM 6.2SP1-CFP16
 
 ### Cumulative Fix Pack 15 {#cumulative-fix-pack-5}
 
-O AEM Cumulative Fix Pack 6.2 SP1-CFP15 é uma atualização importante que inclui correções essenciais para o cliente lançadas desde a disponibilização geral do [AEM 6.2 SP1](https://helpx.adobe.com/br/experience-manager/6-2/release-notes/sp1.html).
+O AEM Cumulative Fix Pack 6.2 SP1-CFP15 é uma atualização importante que inclui correções essenciais para o cliente lançadas desde a disponibilização geral do [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html).
 
 Os principais destaques desse Cumulative Fix Pack são:
 
@@ -498,7 +499,7 @@ Os principais destaques desse Cumulative Fix Pack são:
 * Os rótulos para os diferentes modos são exibidos junto com os ícones. NPR-23275
 * Erro &quot;Valor inválido do seletor de recursão&quot; ao migrar um componente do AEM 6.0 para o AEM 6.2. NPR-23503: Hotfix do CQ-4241258
 
-### Communities {#communities-1}
+### Comunidades {#communities-1}
 
 * As notificações por email e Web não são acionadas devido à falha de mensagem nos grupos. NPR-23447: Hotfix do CQ-4242880
 
@@ -836,7 +837,7 @@ As correções do AEM Forms são entregues por meio de pacotes complementares e 
 
 * A atualização para o Java 8 Update 131 mais recente gera uma exceção: &quot;O provedor JsafeJCE está desativado, uma verificação de autointegridade FIPS 140 falhou.&quot; NPR-21355
 
-   **Observação:** este NPR requer configurações adicionais. Para obter mais detalhes, consulte a [atualização mais recente do Java 8](release-notes-aem-6-2-cumulative-fix-pack.md#latest-java-update-throws-an-exception-npr).
+   **Observação:** este NPR requer configurações adicionais. Para obter mais detalhes, consulte a [atualização mais recente do Java 8](#latest-java-update-throws-an-exception-npr).
 
 * Atualize o jsafe jars para cryptoj 6.1.3.1 em Core, Codificação, Assinatura e Segurança de documentos. NPR-21360, NPR-21361, NPR-21356, NPR-21358
 
@@ -1008,7 +1009,7 @@ Os principais destaques desse Cumulative Fix Pack são:
 
 * A seleção do mecanismo de público-alvo como Adobe Target impede que o componente seja carregado e emite um erro no log do servidor. NPR-20058: Hotfix do CQ-88071, CQ-109698, CQ-4201600
 
-### Commerce {#commerce-1}
+### Comércio {#commerce-1}
 
 * Nenhuma mensagem de pop-up de confirmação ou redirecionamento é exibida ao criar produtos da mesma página. NPR-20257: Hotfix do CQ-4223414
 
@@ -1386,11 +1387,11 @@ Os principais destaques desse Cumulative Fix Pack são:
 * A consulta getsize() retorna resultados incorretos quando o FastQuerySize é ativado. NPR-18018
 * O console da Web na instância de standby não está acessível. NPR-17861; Hotfix do Granite-14582
 
-### Commerce {#commerce-2}
+### Comércio {#commerce-2}
 
 * O Query traversal ocorre quando o blueprint do catálogo não tem nenhuma condição definida para uma seção. NPR-18229; Hotfix do CQ-4211924
 
-### Communities {#communities-2}
+### Comunidades {#communities-2}
 
 * PollingImporterImpl. causa atraso no encerramento do AEM. NPR-18298; Hotfix do CQ-96133
 
@@ -1493,7 +1494,7 @@ Os principais destaques desse Cumulative Fix Pack são:
 * Selecionar um ativo e clicar em Ferramentas do desenvolvedor nem sempre exibe as ações da barra de ferramentas na barra de ações em conexões lentas e a página precisa ser recarregada. NPR-17568; Hotfix do CQ-108365
 * A barra de ação deve ser atualizada para usar dois contêineres: coral-actionbar-primary e coral-actionbar-secondary, em vez de coral-actionbar-container. NPR-17591; Hotfix do GRANITE-15225
 
-### Mobile-on-demand {#mobile-on-demand-2}
+### Móvel sob demanda {#mobile-on-demand-2}
 
 * Os usuários com permissões &quot;Somente leitura&quot; para o aplicativo AEM Mobile não podem pré-visualizar conteúdos da página de Gerenciamento de conteúdo do AEM Mobile. NPR-17390; Hotfix do CQ-4209690
 
@@ -1749,7 +1750,7 @@ Os principais destaques do CFP3 são:
 
 ### Sites {#sites-16}
 
-* Após a atualização do AEM 6.0 para o AEM 6.2, a interface clássica mostra desempenho lento enquanto pesquisa tags devido a várias consultas. Para resolver o problema, as etapas mencionadas em [Desativar status de replicação no console de marcação (interface clássica)](release-notes-aem-6-2-cumulative-fix-pack.md#disable-replication-status-in-tagging-console-classic-ui-npr) podem ser seguidas. NPR-15842: Hotfix do CQ-4201748.
+* Após a atualização do AEM 6.0 para o AEM 6.2, a interface clássica mostra desempenho lento enquanto pesquisa tags devido a várias consultas. Para resolver o problema, as etapas mencionadas em [Desativar status de replicação no console de marcação (interface clássica)](#disable-replication-status-in-tagging-console-classic-ui-npr) podem ser seguidas. NPR-15842: Hotfix do CQ-4201748.
 
 * Ao criar uma página na interface para toque, a verificação de Entrada para o campo “nome” não verifica o caractere especial “Apóstrofo” (o mesmo que na interface clássica). Portanto, a página não pode ser movida. NPR-16404: Hotfix do CQ-4205321.
 * Aplicar estilos diferentes em duas linhas no Editor de Rich Text e depois mesclá-los remove o estilo aplicado na segunda linha. NPR-16389: Hotfix do CQ-4203835.
@@ -1953,7 +1954,7 @@ Os principais destaques do Cumulative Fix Pack 2 são:
 
 * Somente 20 projetos inativos estão visíveis na tela Projetos, embora existam mais de 20 projetos inativos no repositório. NPR-15656: Hotfix do CQ-4200903
 
-### Campaign {#campaign-1}
+### Campanha {#campaign-1}
 
 * Ao usar os componentes do Campaign - Direcionamento e do MAC - Integração de Teste e Público-alvo, o cancelamento da publicação da atividade não atualiza o status da atividade na interface Principal. NPR-15401: HotFix do CQ-4199839
 * Ao mover um produto no AEM Commerce, o Assistente para movimentação de produtos perde os valores preenchidos previamente para o nome do produto, título, páginas referenciadas, autor de criação e data de criação. NPR-15228: Hotfix do CQ-98617
@@ -2270,15 +2271,15 @@ As correções no JEE do AEM Forms são entregues por meio de um instalador sepa
 
 Com o AEM Cumulative Fix Pack 6.2 SP1-CFP7 e versões posteriores, os períodos de tempo limite de conexão se tornaram configuráveis em todas as conexões acima, conforme os detalhes abaixo:
 
-| **Conexões** | **Tempo limite de conexão*** | **Tempo limite do soquete**** |
+| **Conexões** | **Tempo limite de conexão&#42;** | **Tempo limite do soquete&#42;&#42;** |
 |---|---|---|
-| DTM | 30000ms | 30000ms |
-| Analytics | 30000ms | 30000ms |
-| Target | 60000ms | 30000ms |
-| Search &amp; Promote | 30000ms | 30000ms |
+| DTM | 30000ms | 30000 ms |
+| Analytics | 30000 ms | 30000 ms |
+| Target | 60000ms | 30000 ms |
+| Search &amp; Promote | 30000 ms | 30000 ms |
 
-* **Tempo limite da conexão*** - Tempo limite em milissegundos até que uma conexão seja estabelecida. Um valor de tempo limite zero é interpretado como um tempo limite infinito.
-* **Tempo limite do soquete**** - Tempo limite em milissegundos para espera por dados ou um período máximo de inatividade entre dois pacotes de dados consecutivos.
+* **Tempo limite da conexão&#42;**- Tempo limite em milissegundos até que uma conexão seja estabelecida. Um valor de tempo limite zero é interpretado como um tempo limite infinito.
+* **Tempo limite do soquete&#42;&#42;**- Tempo limite em milissegundos para aguardar os dados ou um período máximo de inatividade entre dois pacotes de dados consecutivos.
 
 >[!NOTE]
 >
@@ -2330,7 +2331,7 @@ O NPR-21355 está incluído no CFP12.1. Se você estiver instalando o CFP12.1 ou
 
 1. Crie um backup dos arquivos jsafeFIPS.jar, jsafeJCEFIPS.jar e certjFIPS.jar, localizados em [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/, e exclua os arquivos do diretório mencionado anteriormente.
 
-   Entre em contato com o [Suporte da Adobe](https://helpx.adobe.com/br/marketing-cloud/contact-support.html) para obter novos arquivos JAR. Coloque os arquivos JAR obtidos de [Suporte da Adobe](https://helpx.adobe.com/br/marketing-cloud/contact-support.html) em [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/
+   Entre em contato com o [Suporte da Adobe](https://helpx.adobe.com/marketing-cloud/contact-support.html) para obter novos arquivos JAR. Coloque os arquivos JAR obtidos de [Suporte da Adobe](https://helpx.adobe.com/marketing-cloud/contact-support.html) em [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/
 
 1. (Somente para Windows) Modifique os arquivos de configuração `[AEM_Forms_Installation_directory]/jboss/standalone.conf.bat` ou `domain.conf.bat`:
 
