@@ -6,7 +6,7 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 539ad3dd1549a4e4a1e40df54d9c431ed7a82505
 workflow-type: tm+mt
 source-wordcount: '12693'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ A lista a seguir contém todos os pacotes complementares do AEM [!DNL Forms] lan
     <td><strong>Versões de Build</strong></td>
    </tr>
    <tr>
-    <td>02 de junho de 2022</td>
+    <td>2 de junho de 2022</td>
     <td><a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-65/release-notes/service-pack/sp-release-notes.html">Pacote complementar de formulários do AEM Forms Service Pack 13 para AEM 6.5.13.0</a></td>
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.13.0</a></td>
     <td>
@@ -60,7 +60,7 @@ A lista a seguir contém todos os pacotes complementares do AEM [!DNL Forms] lan
     <td><p>Instalador do AEM Forms no JEE: AEMForms-6.5.0-0044<br /> <p>Pacotes complementares do AEM Forms: 6.0.718</p></td>
    </tr>
    <tr>
-    <td>03 de março de 2022</td>
+    <td>3 de março de 2022</td>
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">Pacote complementar de formulários do AEM Forms Service Pack 12 para AEM 6.5.12.0</a></td>
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.12.0</a></td>
     <td>
@@ -143,7 +143,7 @@ A lista a seguir contém todos os pacotes complementares do AEM [!DNL Forms] lan
    </tr>
    <tr>
    <tr>
-    <td>02 de setembro de 2021</td>
+    <td>2 de setembro de 2021</td>
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">Pacote complementar do AEM Forms Service Pack 10 Forms para AEM 6.5.10.0</a></td>
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.10.0</a></td>
     <td>
