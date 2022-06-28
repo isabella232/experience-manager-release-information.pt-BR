@@ -3,9 +3,9 @@ title: AEM 6.2 Cumulative Fix Pack
 description: Notas de versão do AEM 6.2 Cumulative Fix Pack.
 exl-id: f1c2d4ff-590b-46b5-b2b1-e2b5141f7cc0
 source-git-commit: 44bb03aeb23c2c44fa037b020c3b9c8eadfa0fb7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '19928'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -108,7 +108,7 @@ As correções do AEM Forms são entregues por meio de pacotes complementares e 
 
 ### Cumulative Fix Pack 19 {#cumulative-fix-pack-1}
 
-O AEM Cumulative Fix Pack 6.2 SP1-CFP19 é uma atualização importante que inclui correções essenciais para o cliente lançadas desde a disponibilização geral do [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html).
+O AEM Cumulative Fix Pack 6.2 SP1-CFP19 é uma atualização importante que inclui correções essenciais para o cliente lançadas desde a disponibilização geral do [AEM 6.2 SP1](https://helpx.adobe.com/br/experience-manager/6-2/release-notes/sp1.html).
 
 Os principais destaques desse Cumulative Fix Pack são:
 
@@ -183,7 +183,7 @@ Lista de pacotes de conteúdo incluídos no AEM 6.2SP1-CFP19
 
 ### Cumulative Fix Pack 18 {#cumulative-fix-pack-2}
 
-O AEM Cumulative Fix Pack 6.2 SP1-CFP18 é uma atualização importante que inclui correções essenciais para o cliente lançadas desde a disponibilização geral do [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html).
+O AEM Cumulative Fix Pack 6.2 SP1-CFP18 é uma atualização importante que inclui correções essenciais para o cliente lançadas desde a disponibilização geral do [AEM 6.2 SP1](https://helpx.adobe.com/br/experience-manager/6-2/release-notes/sp1.html).
 
 Os principais destaques desse Cumulative Fix Pack são:
 
@@ -251,7 +251,7 @@ Lista de pacotes de conteúdo incluídos no AEM 6.2 SP1-CFP18
 
 ### Cumulative Fix Pack 17 {#cumulative-fix-pack-3}
 
-O AEM Cumulative Fix Pack 6.2 SP1-CFP17 é uma atualização importante que inclui correções essenciais para o cliente lançadas desde a disponibilização geral do [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html).
+O AEM Cumulative Fix Pack 6.2 SP1-CFP17 é uma atualização importante que inclui correções essenciais para o cliente lançadas desde a disponibilização geral do [AEM 6.2 SP1](https://helpx.adobe.com/br/experience-manager/6-2/release-notes/sp1.html).
 
 Os principais destaques desse Cumulative Fix Pack são:
 
@@ -343,7 +343,7 @@ Lista de pacotes de conteúdo incluídos no AEM 6.2SP1-CFP17
 
 ### Cumulative Fix Pack 16 {#cumulative-fix-pack-4}
 
-O AEM Cumulative Fix Pack 6.2 SP1-CFP16 é uma atualização importante que inclui correções essenciais para o cliente lançadas desde a disponibilização geral do [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html).
+O AEM Cumulative Fix Pack 6.2 SP1-CFP16 é uma atualização importante que inclui correções essenciais para o cliente lançadas desde a disponibilização geral do [AEM 6.2 SP1](https://helpx.adobe.com/br/experience-manager/6-2/release-notes/sp1.html).
 
 Os principais destaques desse Cumulative Fix Pack são:
 
@@ -455,7 +455,7 @@ Lista de pacotes de conteúdo incluídos no AEM 6.2SP1-CFP16
 
 ### Cumulative Fix Pack 15 {#cumulative-fix-pack-5}
 
-O AEM Cumulative Fix Pack 6.2 SP1-CFP15 é uma atualização importante que inclui correções essenciais para o cliente lançadas desde a disponibilização geral do [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html).
+O AEM Cumulative Fix Pack 6.2 SP1-CFP15 é uma atualização importante que inclui correções essenciais para o cliente lançadas desde a disponibilização geral do [AEM 6.2 SP1](https://helpx.adobe.com/br/experience-manager/6-2/release-notes/sp1.html).
 
 Os principais destaques desse Cumulative Fix Pack são:
 
@@ -499,7 +499,7 @@ Os principais destaques desse Cumulative Fix Pack são:
 * Os rótulos para os diferentes modos são exibidos junto com os ícones. NPR-23275
 * Erro &quot;Valor inválido do seletor de recursão&quot; ao migrar um componente do AEM 6.0 para o AEM 6.2. NPR-23503: Hotfix do CQ-4241258
 
-### Comunidades {#communities-1}
+### Communities {#communities-1}
 
 * As notificações por email e Web não são acionadas devido à falha de mensagem nos grupos. NPR-23447: Hotfix do CQ-4242880
 
@@ -1009,7 +1009,7 @@ Os principais destaques desse Cumulative Fix Pack são:
 
 * A seleção do mecanismo de público-alvo como Adobe Target impede que o componente seja carregado e emite um erro no log do servidor. NPR-20058: Hotfix do CQ-88071, CQ-109698, CQ-4201600
 
-### Comércio {#commerce-1}
+### Commerce {#commerce-1}
 
 * Nenhuma mensagem de pop-up de confirmação ou redirecionamento é exibida ao criar produtos da mesma página. NPR-20257: Hotfix do CQ-4223414
 
@@ -1387,11 +1387,11 @@ Os principais destaques desse Cumulative Fix Pack são:
 * A consulta getsize() retorna resultados incorretos quando o FastQuerySize é ativado. NPR-18018
 * O console da Web na instância de standby não está acessível. NPR-17861; Hotfix do Granite-14582
 
-### Comércio {#commerce-2}
+### Commerce {#commerce-2}
 
 * O Query traversal ocorre quando o blueprint do catálogo não tem nenhuma condição definida para uma seção. NPR-18229; Hotfix do CQ-4211924
 
-### Comunidades {#communities-2}
+### Communities {#communities-2}
 
 * PollingImporterImpl. causa atraso no encerramento do AEM. NPR-18298; Hotfix do CQ-96133
 
@@ -1494,7 +1494,7 @@ Os principais destaques desse Cumulative Fix Pack são:
 * Selecionar um ativo e clicar em Ferramentas do desenvolvedor nem sempre exibe as ações da barra de ferramentas na barra de ações em conexões lentas e a página precisa ser recarregada. NPR-17568; Hotfix do CQ-108365
 * A barra de ação deve ser atualizada para usar dois contêineres: coral-actionbar-primary e coral-actionbar-secondary, em vez de coral-actionbar-container. NPR-17591; Hotfix do GRANITE-15225
 
-### Móvel sob demanda {#mobile-on-demand-2}
+### Mobile-on-demand {#mobile-on-demand-2}
 
 * Os usuários com permissões &quot;Somente leitura&quot; para o aplicativo AEM Mobile não podem pré-visualizar conteúdos da página de Gerenciamento de conteúdo do AEM Mobile. NPR-17390; Hotfix do CQ-4209690
 
@@ -1663,7 +1663,7 @@ O console de fluxo de trabalho de Projetos mostra uma exceção de ponteiro nulo
 * O texto estático deve ser excluído da ordem de tabulação no Formulário adaptável. NPR-16749
 * O valor calculado de um campo decimal é exibido incorretamente. NPR-16596
 * O ícone para exibir o conteúdo da Ajuda deve ser incluído na ordem de tabulação dos Formulários adaptáveis. NPR-16484
-* Suporte para o uso de expressão regular do tipo `dataRef=C:/Users/`na “ **[!UICONTROL Configuração do serviço de preenchimento prévio padrão]**” para Preenchimento prévio de dados para Formulários adaptáveis. NPR-16425
+* Suporte para o uso de expressão regular do tipo `dataRef=C:/Users/` na “ **[!UICONTROL Configuração do serviço de preenchimento prévio padrão]**” para Preenchimento prévio de dados para Formulários adaptáveis. NPR-16425
 
 * As validações não são acionadas corretamente para todos os painéis se houver um cenário aninhado de carregamento lento. NPR-15821
 
@@ -1954,7 +1954,7 @@ Os principais destaques do Cumulative Fix Pack 2 são:
 
 * Somente 20 projetos inativos estão visíveis na tela Projetos, embora existam mais de 20 projetos inativos no repositório. NPR-15656: Hotfix do CQ-4200903
 
-### Campanha {#campaign-1}
+### Campaign {#campaign-1}
 
 * Ao usar os componentes do Campaign - Direcionamento e do MAC - Integração de Teste e Público-alvo, o cancelamento da publicação da atividade não atualiza o status da atividade na interface Principal. NPR-15401: HotFix do CQ-4199839
 * Ao mover um produto no AEM Commerce, o Assistente para movimentação de produtos perde os valores preenchidos previamente para o nome do produto, título, páginas referenciadas, autor de criação e data de criação. NPR-15228: Hotfix do CQ-98617
@@ -2273,13 +2273,13 @@ Com o AEM Cumulative Fix Pack 6.2 SP1-CFP7 e versões posteriores, os períodos 
 
 | **Conexões** | **Tempo limite de conexão&#42;** | **Tempo limite do soquete&#42;&#42;** |
 |---|---|---|
-| DTM | 30000ms | 30000 ms |
-| Analytics | 30000 ms | 30000 ms |
-| Target | 60000ms | 30000 ms |
-| Search &amp; Promote | 30000 ms | 30000 ms |
+| DTM | 30000ms | 30000ms |
+| Analytics | 30000ms | 30000ms |
+| Target | 60000ms | 30000ms |
+| Search &amp; Promote | 30000ms | 30000ms |
 
-* **Tempo limite da conexão&#42;**- Tempo limite em milissegundos até que uma conexão seja estabelecida. Um valor de tempo limite zero é interpretado como um tempo limite infinito.
-* **Tempo limite do soquete&#42;&#42;**- Tempo limite em milissegundos para aguardar os dados ou um período máximo de inatividade entre dois pacotes de dados consecutivos.
+* **Tempo limite da conexão&#42;** - Tempo limite em milissegundos até que uma conexão seja estabelecida. Um valor de tempo limite zero é interpretado como um tempo limite infinito.
+* **Tempo limite do soquete&#42;&#42;** - Tempo limite em milissegundos para espera por dados ou um período máximo de inatividade entre dois pacotes de dados consecutivos.
 
 >[!NOTE]
 >
@@ -2331,7 +2331,7 @@ O NPR-21355 está incluído no CFP12.1. Se você estiver instalando o CFP12.1 ou
 
 1. Crie um backup dos arquivos jsafeFIPS.jar, jsafeJCEFIPS.jar e certjFIPS.jar, localizados em [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/, e exclua os arquivos do diretório mencionado anteriormente.
 
-   Entre em contato com o [Suporte da Adobe](https://helpx.adobe.com/marketing-cloud/contact-support.html) para obter novos arquivos JAR. Coloque os arquivos JAR obtidos de [Suporte da Adobe](https://helpx.adobe.com/marketing-cloud/contact-support.html) em [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/
+   Entre em contato com o [Suporte da Adobe](https://helpx.adobe.com/br/marketing-cloud/contact-support.html) para obter novos arquivos JAR. Coloque os arquivos JAR obtidos de [Suporte da Adobe](https://helpx.adobe.com/br/marketing-cloud/contact-support.html) em [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/
 
 1. (Somente para Windows) Modifique os arquivos de configuração `[AEM_Forms_Installation_directory]/jboss/standalone.conf.bat` ou `domain.conf.bat`:
 
