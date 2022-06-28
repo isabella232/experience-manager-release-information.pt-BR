@@ -4,9 +4,9 @@ description: Esta página lista as alterações e atualizações importantes mai
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: febba72bfc60c2b92304da4cd38945674c66f9cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '9150'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -41,12 +41,12 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>20 de novembro de 2019</td> 
    <td>Arquétipo de projeto do AEM<br /> </td> 
-   <td>O <a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html">Arquétipo de projeto do AEM</a> é uma ferramenta útil e flexível para facilitar o desenvolvimento de front-end para o seu projeto AEM.<br /> </td> 
+   <td>O <a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html?lang=pt-BR">Arquétipo de projeto do AEM</a> é uma ferramenta útil e flexível para facilitar o desenvolvimento de front-end para o seu projeto AEM.<br /> </td> 
   </tr>
   <tr>
    <td>18 de outubro de 2019<br /> </td> 
    <td>Arquétipo de projeto do AEM<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html">O AEM Project Archetype</a> cria um projeto do Adobe Experience Manager com base em práticas recomendadas como ponto de partida para seus próprios projetos AEM.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html?lang=pt-BR">O AEM Project Archetype</a> cria um projeto do Adobe Experience Manager com base em práticas recomendadas como ponto de partida para seus próprios projetos AEM.<br /> </td> 
   </tr>
   <tr>
    <td>18 de outubro de 2019<br /> </td> 
@@ -66,7 +66,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>08 de outubro de 2019</td> 
    <td>AEM Screens<br /> </td> 
-   <td><p>O AEM Screens lançou o AEM 6.4.6 Feature Pack 6 e o AEM 6.5.2 Feature Pack 2.</p> <p>Consulte as <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/release-notes/release-notes-fp-201909.html">notas de versão do Feature Pack 201909</a> para obter mais detalhes.</p> </td> 
+   <td><p>O AEM Screens lançou o AEM 6.4.6 Feature Pack 6 e o AEM 6.5.2 Feature Pack 2.</p> <p>Consulte as <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/release-notes/release-notes-fp-201909.html?lang=pt-BR">notas de versão do Feature Pack 201909</a> para obter mais detalhes.</p> </td> 
   </tr>
   <tr>
    <td>1 de outubro de 2019</td> 
@@ -76,7 +76,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>1 de outubro de 2019 </td> 
    <td>Guia de práticas recomendadas para projetos do AEM Screens</td> 
-   <td><p>Este novo guia fornece informações abrangentes e insights práticos para imaginar, projetar e trazer experiências intencionais do cliente para a implementação da sinalização digital, além de oferecer instruções sobre como causar um impacto positivo na empresa usando algumas das práticas recomendadas seguidas ao implantar um projeto de sinalização digital no AEM Screens.</p> <p>Consulte o <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html">Manual de práticas recomendadas de projetos do AEM Screens</a> para obter mais detalhes.</p> </td> 
+   <td><p>Este novo guia fornece informações abrangentes e insights práticos para imaginar, projetar e trazer experiências intencionais do cliente para a implementação da sinalização digital, além de oferecer instruções sobre como causar um impacto positivo na empresa usando algumas das práticas recomendadas seguidas ao implantar um projeto de sinalização digital no AEM Screens.</p> <p>Consulte o <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html?lang=pt-BR">Manual de práticas recomendadas de projetos do AEM Screens</a> para obter mais detalhes.</p> </td> 
   </tr>
   <tr>
    <td>25 de setembro de 2019</td> 
@@ -106,7 +106,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>9 de setembro de 2019</td> 
    <td>Aplicativo de desktop do AEM</td> 
-   <td>O aplicativo de desktop do AEM v2.0 está disponível publicamente para usuários criativos, profissionais de marketing e de linha de negócios que trabalham com o AEM Assets. Consulte as <a href="https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html" target="_blank">notas de versão</a>.<br /> </td> 
+   <td>O aplicativo de desktop do AEM v2.0 está disponível publicamente para usuários criativos, profissionais de marketing e de linha de negócios que trabalham com o AEM Assets. Consulte as <a href="https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html?lang=pt-BR" target="_blank">notas de versão</a>.<br /> </td> 
   </tr>
   <tr>
    <td>9 de setembro de 2019</td> 
@@ -121,17 +121,17 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>21 de agosto de 2019</td> 
    <td>Guia do usuário do AEM 6.5 Screens</td> 
-   <td>Uma nova seção de noções básicas sobre implantação de rede está disponível. Consulte o <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/aem-screens-introduction.html">Guia do usuário</a> para obter mais detalhes.</td> 
+   <td>Uma nova seção de noções básicas sobre implantação de rede está disponível. Consulte o <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/aem-screens-introduction.html?lang=pt-BR">Guia do usuário</a> para obter mais detalhes.</td> 
   </tr>
   <tr>
    <td>20 de agosto de 2019</td> 
    <td>Tags inteligentes do AEM Assets<br /> </td> 
-   <td>Saiba como <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/config-smart-tagging.html#certrenew" target="_blank">atualizar um certificado</a> após a expiração.</td> 
+   <td>Saiba como <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/config-smart-tagging.html?lang=pt-BR#certrenew" target="_blank">atualizar um certificado</a> após a expiração.</td> 
   </tr>
   <tr>
    <td>2 de agosto de 2019</td> 
    <td>Novo pacote rasterizador de PDF<br /> </td> 
-   <td>Um <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-pdf-rasterizer.html" target="_blank">novo pacote está disponível</a> para ajudar o AEM Assets a processar arquivos AI/PDF pesados e a gerar visualizações e miniaturas.<br /> </td> 
+   <td>Um <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-pdf-rasterizer.html?lang=pt-BR" target="_blank">novo pacote está disponível</a> para ajudar o AEM Assets a processar arquivos AI/PDF pesados e a gerar visualizações e miniaturas.<br /> </td> 
   </tr>
   <tr>
    <td>25 de julho de 2019</td> 
@@ -151,12 +151,12 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>3 de julho de 2019</td> 
    <td>Fragmentos de experiência</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/experience-fragments.html#the-experience-fragment-link-rewriter-provider-html">O provedor de regravação do link do fragmento de experiência - HTML</a>.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/experience-fragments.html?lang=pt-BR#the-experience-fragment-link-rewriter-provider-html">O provedor de regravação do link do fragmento de experiência - HTML</a>.</td> 
   </tr>
   <tr>
    <td>3 de julho de 2019</td> 
    <td>AEM 6.5 Service Pack 1</td> 
-   <td>O <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5 Service Pack 1 (6.5.1.0) </a>está disponível.</td> 
+   <td>O <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=pt-BR">AEM 6.5 Service Pack 1 (6.5.1.0) </a>está disponível.</td> 
   </tr>
   <tr>
    <td>25 de junho de 2019</td> 
@@ -211,7 +211,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>18 de abril de 2019</td> 
    <td>Materiais de referência do AEM 6.5</td> 
-   <td><p>Os <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/reference-materials.html">Materiais de referência</a> estão disponíveis incluindo:</p> 
+   <td><p>Os <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/reference-materials.html?lang=pt-BR">Materiais de referência</a> estão disponíveis incluindo:</p> 
     <ul> 
      <li>API do Adobe AEM 6.5.0</li> 
      <li>Documentação da API da interface de usuário do Granite (interface otimizada para toque)</li> 
@@ -252,7 +252,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>11 de outubro de 2019</td> 
    <td>Activity Map</td> 
-   <td><p>Devido a alterações de segurança na API do Adobe Analytics, não é mais possível usar a versão do Activity Map incluída no AEM. Consulte <a href="https://experienceleague.adobe.com/docs/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html" target="_blank">Plug-in do ActivityMap fornecido pelo Adobe Analytics</a>, que agora deve ser usado. </p> </td> 
+   <td><p>Devido a alterações de segurança na API do Adobe Analytics, não é mais possível usar a versão do Activity Map incluída no AEM. Consulte <a href="https://experienceleague.adobe.com/docs/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html?lang=pt-BR" target="_blank">Plug-in do ActivityMap fornecido pelo Adobe Analytics</a>, que agora deve ser usado. </p> </td> 
   </tr>
   <tr>
    <td>25 de setembro de 2019</td> 
@@ -262,12 +262,12 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>19 de setembro de 2019</td> 
    <td>AEM 6.4 Service Pack 6<br /> </td> 
-   <td>O <a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 6 (6.4.6.0)</a> está disponível.</td> 
+   <td>O <a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=pt-BR">AEM 6.4 Service Pack 6 (6.4.6.0)</a> está disponível.</td> 
   </tr>
   <tr>
    <td>9 de setembro de 2019<br /> </td> 
    <td>Aplicativo de desktop do AEM</td> 
-   <td>O aplicativo de desktop do AEM v2.0 está disponível publicamente para usuários criativos, profissionais de marketing e de linha de negócios que trabalham com o AEM Assets. Consulte as <a href="https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html" target="_blank">notas de versão</a>.</td> 
+   <td>O aplicativo de desktop do AEM v2.0 está disponível publicamente para usuários criativos, profissionais de marketing e de linha de negócios que trabalham com o AEM Assets. Consulte as <a href="https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html?lang=pt-BR" target="_blank">notas de versão</a>.</td> 
   </tr>
   <tr>
    <td>6 de setembro de 2019</td> 
@@ -296,13 +296,13 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   </tr>
   <tr>
    <td>3 de junho de 2019</td> 
-   <td>Editor de Rich Text (RTE)<br /> </td> 
+   <td>Rich Text Editor (RTE)<br /> </td> 
    <td>Adicionado um pacote no <a href="https://docs.adobe.com/content/help/br/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">artigo de configuração</a> com todos os plug-ins ativados para serem usados como uma configuração de amostra. Um membro da comunidade contribuiu com um tutorial sobre como <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">criar um componente de vários campos</a>.<br /> </td> 
   </tr>
   <tr>
    <td>4 de abril de 2019</td> 
    <td>install-aem-forms-add-on-package</td> 
-   <td>O <a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 4 (6.4.4.0)</a> está disponível.</td> 
+   <td>O <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/release-notes/sp-release-notes.translate.html">AEM 6.4 Service Pack 4 (6.4.4.0)</a> está disponível.</td> 
   </tr>
   <tr>
    <td>22 de fevereiro de 2019</td> 
@@ -314,7 +314,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
    <td>Documentação colaborativa<br /> </td> 
    <td><p>Os conjuntos de documentações do AEM a seguir foram migrados para uma nova <a href="https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR">plataforma de documentação colaborativa</a>.</p> 
     <ul> 
-     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html">Componentes principais</a></li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=pt-BR">Componentes principais</a></li> 
      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=pt-BR">Dispatcher</a></li> 
      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-htl/using/overview.html?lang=pt-BR">HTL</a></li> 
      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=pt-BR">Cloud Manager</a></li> 
@@ -339,7 +339,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>20 de dezembro de 2018</td> 
    <td>AEM 6.4 Service Pack 3</td> 
-   <td>O <a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 3 (6.4.3.0)</a> está disponível.</td> 
+   <td>O <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/release-notes/sp-release-notes.translate.html">AEM 6.4 Service Pack 3 (6.4.3.0)</a> está disponível.</td> 
   </tr>
   <tr>
    <td>17 de dezembro de 2018</td> 
@@ -414,7 +414,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>3 de outubro de 2018</td> 
    <td>AEM 6.4 Service Pack 2</td> 
-   <td>O <a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4 Service Pack 2</a> (6.4.2.0) está disponível.</td> 
+   <td>O <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/release-notes/sp-release-notes.translate.html" target="_blank">AEM 6.4 Service Pack 2</a> (6.4.2.0) está disponível.</td> 
   </tr>
   <tr>
    <td>18 de setembro de 2018</td> 
@@ -434,12 +434,12 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>24 de agosto de 2018</td> 
    <td>Editor de rich text<br /> </td> 
-   <td>Renovação da <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">configuração do artigo RTE</a> para estruturá-lo melhor, adicionar algumas informações ausentes, adicionar uma ilustração de fluxo de trabalho e dividir o artigo de formulário longo.</td> 
+   <td>Renovação da <a href="https://docs.adobe.com/content/help/br/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">configuração do artigo RTE</a> para estruturá-lo melhor, adicionar algumas informações ausentes, adicionar uma ilustração de fluxo de trabalho e dividir o artigo de formulário longo.</td> 
   </tr>
   <tr>
    <td>24 de agosto de 2018</td> 
    <td>Aplicativos de Página única<br /> </td> 
-   <td>A documentação para desenvolver <a href="https://helpx.adobe.com/experience-manager/6-4/sites/developing/user-guide.html?topic=/experience-manager/6-4/sites/developing/morehelp/spa.ug.js">Aplicativos de Página Única (SPA)</a> para o Editor SPA do AEM foi atualizada e expandida.<br /> </td> 
+   <td>A documentação para desenvolver <a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=pt-BR&amp;topic=%2Fexperience-manager%2F6-4%2Fsites%2Fdeveloping%2Fmorehelp%2Fspa.ug.js">Aplicativos de Página Única (SPA)</a> para o Editor SPA do AEM foi atualizada e expandida.<br /> </td> 
   </tr>
   <tr>
    <td>16 de agosto de 2018</td> 
@@ -469,12 +469,12 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>11 de julho de 2018</td> 
    <td>Aprimoramentos de imagem<br /> </td> 
-   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/featurepack/cq-6.4.0-featurepack-24267">feature pack 24267</a>.<br /> </td> 
+   <td><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/featurepack/cq-6.4.0-featurepack-24267">pacote de recursos 24267</a>.<br /> </td> 
   </tr>
   <tr>
    <td>5 de julho de 2018</td> 
    <td>Integração MC-CC<br /> </td> 
-   <td>Correções de bugs e melhorias editoriais em <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/configure-assets-cc-integration.html">Configuração da integração do AEM Assets com o Experience Cloud e artigo da Creative Cloud</a>.</td> 
+   <td>Correções de bugs e melhorias editoriais em <a href="https://docs.adobe.com/content/help/br/experience-manager-64/administering/integration/configure-assets-cc-integration.html">Configuração da integração do AEM Assets com o Experience Cloud e artigo da Creative Cloud</a>.</td> 
   </tr>
   <tr>
    <td>5 de julho de 2018</td> 
@@ -489,7 +489,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>29 de junho de 2018</td> 
    <td>AEM 6.4.1.0</td> 
-   <td>O <a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.1.0</a> está disponível.</td> 
+   <td>O <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/release-notes/sp-release-notes.translate.html" target="_blank">AEM 6.4.1.0</a> está disponível.</td> 
   </tr>
   <tr>
    <td>25 de junho de 2018</td> 
@@ -509,7 +509,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>14 de junho de 2018</td> 
    <td>Tags inteligentes aprimoradas</td> 
-   <td>Documentação aprimorada sobre como <a href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/managing/config-smart-tagging.html" target="_blank">Configurar a marcação de ativos usando o Serviço de conteúdo inteligente</a>.</td> 
+   <td>Documentação aprimorada sobre como <a href="https://docs.adobe.com/content/help/br/experience-manager-64/assets/managing/config-smart-tagging.html" target="_blank">Configurar a marcação de ativos usando o Serviço de conteúdo inteligente</a>.</td> 
   </tr>
   <tr>
    <td>4 de junho de 2018</td> 
@@ -555,7 +555,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>24 de abril de 2018<br /> </td> 
    <td>Aplicativos de Página única<br /> </td> 
-   <td><p>Aplicativos de página única (SPAs) podem oferecer experiências interessantes para usuários de sites. Os desenvolvedores desejam criar sites usando estruturas SPA, e os autores desejam editar o conteúdo no AEM para um site criado como um SPA.</p> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/headless/spas/spa-walkthrough.html">O recurso de criação de SPA</a> (atualmente uma pré-visualização de tecnologia) oferece uma solução abrangente para suporte a SPAs no AEM.</p> </td> 
+   <td><p>Aplicativos de página única (SPAs) podem oferecer experiências interessantes para usuários de sites. Os desenvolvedores desejam criar sites usando estruturas SPA, e os autores desejam editar o conteúdo no AEM para um site criado como um SPA.</p> <p><a href="https://docs.adobe.com/content/help/br/experience-manager-64/developing/headless/spas/spa-walkthrough.html">O recurso de criação de SPA</a> (atualmente uma pré-visualização de tecnologia) oferece uma solução abrangente para suporte a SPAs no AEM.</p> </td> 
   </tr>
   <tr>
    <td>4 de abril de 2018</td> 
@@ -615,7 +615,7 @@ As seguintes versões foram movidas:
     <tr>
    <td>12 de dezembro de 2019</td> 
    <td>AEM 6.3.3.7</td> 
-   <td>O Cumulative Fix Pack   para AEM 6.3 está disponível.</td> 
+   <td>O Cumulative Fix Pack para AEM 6.3 está disponível.</td> 
   </tr>
   <tr>
    <td>11 de outubro de 2019</td> 
@@ -625,7 +625,7 @@ As seguintes versões foram movidas:
   <tr>
    <td>25 de setembro de 2019</td> 
    <td>AEM 6.3.3.6</td> 
-   <td>O Cumulative Fix Pack   para AEM 6.3 está disponível.</td> 
+   <td>O Cumulative Fix Pack para AEM 6.3 está disponível.</td> 
   </tr>
   <tr>
    <td>9 de setembro de 2019<br /> </td> 
@@ -635,22 +635,22 @@ As seguintes versões foram movidas:
   <tr>
    <td>3 de julho de 2019</td> 
    <td>AEM 6.3.3.5</td> 
-   <td>O Cumulative Fix Pack   para AEM 6.3 está disponível.</td> 
+   <td>O Cumulative Fix Pack para AEM 6.3 está disponível.</td> 
   </tr>
   <tr>
    <td>9 de maio de 2019</td> 
    <td>AEM 6.3.3.4</td> 
-   <td>O Cumulative Fix Pack   para AEM 6.3 está disponível.</td> 
+   <td>O Cumulative Fix Pack para AEM 6.3 está disponível.</td> 
   </tr>
   <tr>
    <td>14 de março de 2019</td> 
    <td>AEM 6.3.3.3</td> 
-   <td>O Cumulative Fix Pack   para AEM 6.3 está disponível.</td> 
+   <td>O Cumulative Fix Pack para AEM 6.3 está disponível.</td> 
   </tr>
   <tr>
    <td>15 de janeiro de 2019</td> 
    <td>AEM 6.3.3.2</td> 
-   <td>O Cumulative Fix Pack   para AEM 6.3 está disponível.</td> 
+   <td>O Cumulative Fix Pack para AEM 6.3 está disponível.</td> 
   </tr>
   <tr>
    <td>10 de janeiro de 2019</td> 
@@ -670,12 +670,12 @@ As seguintes versões foram movidas:
   <tr>
    <td>15 de novembro de 2018</td> 
    <td>AEM 6.3.3.1</td> 
-   <td>O Cumulative Fix Pack   para AEM 6.3 está disponível.</td> 
+   <td>O Cumulative Fix Pack para AEM 6.3 está disponível.</td> 
   </tr>
   <tr>
    <td>16 de outubro de 2018</td> 
    <td>Componentes principais<br /> </td> 
-   <td>A versão 2.2.0 dos componentes <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/tabs.html">Guias</a> e <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/carousel.html">Carrossel</a>, juntamente com melhorias nos componentes Imagem, Título e Página e várias correções de bugs.</td> 
+   <td>A versão 2.2.0 dos componentes <a href="https://docs.adobe.com/content/help/br/experience-manager-core-components/using/components/tabs.html">Guias</a> e <a href="https://docs.adobe.com/content/help/pt/experience-manager-core-components/using/components/carousel.html">Carrossel</a>, juntamente com melhorias nos componentes Imagem, Título e Página e várias correções de bugs.</td> 
   </tr>
   <tr>
    <td>3 de outubro de 2018</td> 
@@ -700,7 +700,7 @@ As seguintes versões foram movidas:
   <tr>
    <td>16 de agosto de 2018</td> 
    <td>Integração com o Livefyre</td> 
-   <td>Atualização da <a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/livefyre-feature-pack-206.html">versão 2.0.6 do pacote de recursos</a>, e da página <a href="https://helpx.adobe.com/br/experience-manager/6-3/release-notes/feature-packs-release-notes.html">Pacote de recursos</a>. </td> 
+   <td>Atualização da <a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/livefyre-feature-pack-206.html?lang=pt-BR">versão 2.0.6 do pacote de recursos</a>, e da página <a href="https://helpx.adobe.com/br/experience-manager/6-3/release-notes/feature-packs-release-notes.html">Pacote de recursos</a>. </td> 
   </tr>
   <tr>
    <td>2 de agosto de 2018</td> 
@@ -720,7 +720,7 @@ As seguintes versões foram movidas:
   <tr>
    <td>5 de julho de 2018<br /> </td> 
    <td>Tags inteligentes de ativos</td> 
-   <td>Melhorias no <a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/config-smart-tagging.html">artigo Configurar tags inteligentes</a> para estruturar melhor, corrigir bugs e criar um link cruzado com o artigo relacionado.</td> 
+   <td>Melhorias no <a href="https://helpx.adobe.com/br/experience-manager/6-3/assets/using/config-smart-tagging.html">artigo Configurar tags inteligentes</a> para estruturar melhor, corrigir bugs e criar um link cruzado com o artigo relacionado.</td> 
   </tr>
   <tr>
    <td>5 de julho de 2018</td> 
@@ -730,7 +730,7 @@ As seguintes versões foram movidas:
   <tr>
    <td>25 de junho de 2018</td> 
    <td>AEM 6.3.2.2</td> 
-   <td>O Cumulative Fix Pack   para AEM 6.3 está disponível.</td> 
+   <td>O Cumulative Fix Pack para AEM 6.3 está disponível.</td> 
   </tr>
   <tr>
    <td>30 de maio de 2018</td> 
@@ -745,7 +745,7 @@ As seguintes versões foram movidas:
   <tr>
    <td>10 de maio de 2018</td> 
    <td>AEM 6.3.2.1</td> 
-   <td>O Cumulative Fix Pack   para AEM 6.3 está disponível.</td> 
+   <td>O Cumulative Fix Pack para AEM 6.3 está disponível.</td> 
   </tr>
   <tr>
    <td>30 de abril de 2018</td> 
@@ -775,17 +775,17 @@ As seguintes versões foram movidas:
   <tr>
    <td>5 de fevereiro de 2018</td> 
    <td>Integração do Adobe Analytics</td> 
-   <td>Atualizações de <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/adobeanalytics-connect.html">Configurações de pesquisa gerenciadas</a>. Também <a href="https://helpx.adobe.com/br/experience-manager/6-3/sites/authoring/using/pa-using.html">Visualizar dados de análise de página</a>.<br /> </td> 
+   <td>Atualizações de <a href="https://helpx.adobe.com/br/experience-manager/6-3/sites/administering/using/adobeanalytics-connect.html">Configurações de pesquisa gerenciadas</a>. Também <a href="https://helpx.adobe.com/br/experience-manager/6-3/sites/authoring/using/pa-using.html">Visualizar dados de análise de página</a>.<br /> </td> 
   </tr>
   <tr>
    <td>19 de janeiro de 2018</td> 
    <td>Versão 2.0.0 dos Componentes principais</td> 
-   <td>A versão 2.0.0 dos <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/versions.html">componentes principais</a> já está disponível, introduzindo a versão 2 dos componentes existentes juntamente com novos componentes, incluindo Navegação, Navegação de idioma e Pesquisa rápida.</td> 
+   <td>A versão 2.0.0 dos <a href="https://docs.adobe.com/content/help/br/experience-manager-core-components/using/versions.html">componentes principais</a> já está disponível, introduzindo a versão 2 dos componentes existentes juntamente com novos componentes, incluindo Navegação, Navegação de idioma e Pesquisa rápida.</td> 
   </tr>
   <tr>
    <td>8 de janeiro de 2018</td> 
    <td>AEM 6.3 Cumulative Fix Pack 6.3.1.2<br /> </td> 
-   <td>O Cumulative Fix Pack   para AEM 6.3 está disponível.<br /> </td> 
+   <td>O Cumulative Fix Pack para AEM 6.3 está disponível.<br /> </td> 
   </tr>
   <tr>
    <td>14 de dezembro de 2017<br /> </td> 
@@ -795,7 +795,7 @@ As seguintes versões foram movidas:
   <tr>
    <td>29 de novembro de 2017</td> 
    <td>AEM 6.3 Cumulative Fix Pack 6.3.1.1</td> 
-   <td>O Cumulative Fix Pack   para AEM 6.3 está disponível.</td> 
+   <td>O Cumulative Fix Pack para AEM 6.3 está disponível.</td> 
   </tr>
   <tr>
    <td>28 de novembro de 2017</td> 
@@ -805,7 +805,7 @@ As seguintes versões foram movidas:
   <tr>
    <td>14 de novembro de 2017 </td> 
    <td>Imagem inteligente</td> 
-   <td><p>Perguntas frequentes sobre o novo recurso de imagens inteligentes no Dynamic Media Classic/Dynamic Media.<br /> </p> <p>Consulte <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Imagens inteligentes</a>.</p> </td> 
+   <td><p>Perguntas frequentes sobre o novo recurso de imagens inteligentes no Dynamic Media Classic/Dynamic Media.<br /> </p> <p>Consulte <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR">Imagens inteligentes</a>.</p> </td> 
   </tr>
   <tr>
    <td>13 de outubro de 2017</td> 
@@ -815,7 +815,7 @@ As seguintes versões foram movidas:
   <tr>
    <td>11 de outubro de 2017</td> 
    <td>Atualizações de fragmentos de conteúdo e serviços de conteúdo - Pacote de recursos</td> 
-   <td>Este conjunto de Pacotes de recursos oferece atualizações em Fragmentos de conteúdo, o Exportador JSON e os Componentes principais. Consulte <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Atualizações de fragmentos de conteúdo e serviços de conteúdo - Notas de versão para pacotes de recursos</a>.</td> 
+   <td>Este conjunto de Pacotes de recursos oferece atualizações em Fragmentos de conteúdo, o Exportador JSON e os Componentes principais. Consulte <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR">Atualizações de fragmentos de conteúdo e serviços de conteúdo - Notas de versão para pacotes de recursos</a>.</td> 
   </tr>
   <tr>
    <td>3 de outubro de 2017</td> 
@@ -835,7 +835,7 @@ As seguintes versões foram movidas:
   <tr>
    <td>5 de setembro de 2017</td> 
    <td>Pacote de recursos do Dynamic Media 14410 e 18912</td> 
-   <td><p>Este pacote de recursos oferece novos recursos de automação e entrega para clientes do Dynamic Media e é uma atualização para clientes do Dynamic Media Classic para fazer a transição para o Dynamic Media. </p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Configuração do Dynamic Media com o Pacote de recursos 14410 e 18912</a></p> </td> 
+   <td><p>Este pacote de recursos oferece novos recursos de automação e entrega para clientes do Dynamic Media e é uma atualização para clientes do Dynamic Media Classic para fazer a transição para o Dynamic Media. </p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR">Configuração do Dynamic Media com o Pacote de recursos 14410 e 18912</a></p> </td> 
   </tr>
   <tr>
    <td>31 de agosto de 2017</td> 
@@ -860,7 +860,7 @@ As seguintes versões foram movidas:
   <tr>
    <td>25 de agosto de 2017</td> 
    <td>Integração de dados de formulários</td> 
-   <td><p>O AEM Forms oferece um pacote de configuração que pode ser usado para integrar rapidamente o Dynamics 365 com o Forms. O pacote inclui uma configuração de serviço na nuvem e um modelo de dados de formulário com entidades e serviços pré-configurados do Dynamics 365.</p> <p><a href="https://helpx.adobe.com/experience-manager/6-3/forms/using/ms-dynamics-odata-configuration.html">Configuração do Microsoft Dynamics 365 OData</a></p> </td> 
+   <td><p>O AEM Forms oferece um pacote de configuração que pode ser usado para integrar rapidamente o Dynamics 365 com o Forms. O pacote inclui uma configuração de serviço na nuvem e um modelo de dados de formulário com entidades e serviços pré-configurados do Dynamics 365.</p> <p><a href="https://helpx.adobe.com/br/experience-manager/6-3/forms/using/ms-dynamics-odata-configuration.html">Configuração do Microsoft Dynamics 365 OData</a></p> </td> 
   </tr>
   <tr>
    <td>24 de agosto de 2017</td> 
@@ -902,7 +902,7 @@ As seguintes versões foram movidas:
   <tr>
    <td>8 de agosto de 2017</td> 
    <td>AEM 6.3 Cumulative Fix Pack 6.3.0.2</td> 
-   <td>O Cumulative Fix Pack   para AEM 6.3 está disponível.</td> 
+   <td>O Cumulative Fix Pack para AEM 6.3 está disponível.</td> 
   </tr>
   <tr>
    <td>27 de julho de 2017</td> 
@@ -917,7 +917,7 @@ As seguintes versões foram movidas:
   <tr>
    <td>23 de junho de 2017</td> 
    <td>AEM 6.3 Cumulative Fix Pack 6.3.0.1</td> 
-   <td>O Cumulative Fix Pack   para AEM 6.3 está disponível.</td> 
+   <td>O Cumulative Fix Pack para AEM 6.3 está disponível.</td> 
   </tr>
   <tr>
    <td>7 de junho de 2017</td> 
@@ -963,17 +963,17 @@ As seguintes versões foram movidas:
   <tr>
    <td>6 de junho de 2019</td> 
    <td>AEM 6.2 Cumulative Fix Pack</td> 
-   <td>O Cumulative Fix Pack   para o AEM 6.2 Service Pack 1 está disponível.</td> 
+   <td>O Cumulative Fix Pack para o AEM 6.2 Service Pack 1 está disponível.</td> 
   </tr>
   <tr>
    <td>11 de dezembro de 2018</td> 
    <td>AEM 6.2 Cumulative Fix Pack</td> 
-   <td>O Cumulative Fix Pack   para o AEM 6.2 Service Pack 1 está disponível.</td> 
+   <td>O Cumulative Fix Pack para o AEM 6.2 Service Pack 1 está disponível.</td> 
   </tr>
   <tr>
    <td>16 de outubro de 2018</td> 
    <td>Componentes principais<br /> </td> 
-   <td>Versão 2.2.0 dos componentes <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/tabs.html">Guias</a> e <a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/carousel.html">Carrossel</a> juntamente com melhorias nos componentes Imagem, Título e Página e várias correções de bugs.</td> 
+   <td>Versão 2.2.0 dos componentes <a href="https://docs.adobe.com/content/help/br/experience-manager-core-components/using/components/tabs.html">Guias</a> e <a href="https://docs.adobe.com/content/help/pt/experience-manager-core-components/using/components/carousel.html">Carrossel</a> juntamente com melhorias nos componentes Imagem, Título e Página e várias correções de bugs.</td> 
   </tr>
   <tr>
    <td>10 de outubro de 2018</td> 
@@ -983,7 +983,7 @@ As seguintes versões foram movidas:
   <tr>
    <td>10 de outubro de 2018</td> 
    <td>AEM 6.2 Cumulative Fix Pack</td> 
-   <td>O Cumulative Fix Pack   para o AEM 6.2 Service Pack 1 está disponível.</td> 
+   <td>O Cumulative Fix Pack para o AEM 6.2 Service Pack 1 está disponível.</td> 
   </tr>
   <tr>
    <td>29 de agosto de 2018</td> 
@@ -993,22 +993,22 @@ As seguintes versões foram movidas:
   <tr>
    <td>16 de agosto de 2018</td> 
    <td>Integração do Livefyre</td> 
-   <td>Atualização da <a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/livefyre-feature-pack-206.html">versão 2.0.6 do pacote de recursos</a>, e da página <a href="https://helpx.adobe.com/br/experience-manager/6-2/release-notes/feature-packs-release-notes.html">Pacote de recursos</a>. </td> 
+   <td>Atualização da <a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/livefyre-feature-pack-206.html?lang=pt-BR">versão 2.0.6 do pacote de recursos</a>, e da página <a href="https://helpx.adobe.com/br/experience-manager/6-2/release-notes/feature-packs-release-notes.html">Pacote de recursos</a>. </td> 
   </tr>
   <tr>
    <td>3 de agosto de 2018</td> 
    <td>AEM 6.2 Cumulative Fix Pack</td> 
-   <td>O Cumulative Fix Pack   para o AEM 6.2 Service Pack 1 está disponível.</td> 
+   <td>O Cumulative Fix Pack para o AEM 6.2 Service Pack 1 está disponível.</td> 
   </tr>
   <tr>
    <td>2 de agosto de 2018</td> 
    <td>Integração com o Livefyre</td> 
-   <td>Inclusão da <a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/livefyre.html">matriz de suporte</a> para aplicativos Livefyre no AEM. </td> 
+   <td>Inclusão da <a href="https://helpx.adobe.com/br/experience-manager/6-3/sites/administering/using/livefyre.html">matriz de suporte</a> para aplicativos Livefyre no AEM. </td> 
   </tr>
   <tr>
    <td>11 de junho de 2018</td> 
    <td>AEM 6.2 Cumulative Fix Pack<br /> </td> 
-   <td>O Cumulative Fix Pack   para o AEM 6.2 Service Pack 1 está disponível.</td> 
+   <td>O Cumulative Fix Pack para o AEM 6.2 Service Pack 1 está disponível.</td> 
   </tr>
   <tr>
    <td>30 de abril de 2018</td> 
@@ -1018,32 +1018,32 @@ As seguintes versões foram movidas:
   <tr>
    <td>10 de abril de 2018</td> 
    <td>AEM 6.2 Cumulative Fix Pack</td> 
-   <td>O Cumulative Fix Pack   para o AEM 6.2 Service Pack 1 está disponível.</td> 
+   <td>O Cumulative Fix Pack para o AEM 6.2 Service Pack 1 está disponível.</td> 
   </tr>
   <tr>
    <td>12 de março de 2018</td> 
    <td>AEM 6.2 Cumulative Fix Pack</td> 
-   <td>O Cumulative Fix Pack   para o AEM 6.2 Service Pack 1 está disponível.</td> 
+   <td>O Cumulative Fix Pack para o AEM 6.2 Service Pack 1 está disponível.</td> 
   </tr>
   <tr>
    <td>13 de fevereiro de 2018</td> 
    <td>AEM 6.2 Cumulative Fix Pack</td> 
-   <td>O Cumulative Fix Pack   para o AEM 6.2 Service Pack 1 está disponível.</td> 
+   <td>O Cumulative Fix Pack para o AEM 6.2 Service Pack 1 está disponível.</td> 
   </tr>
   <tr>
    <td>18 de janeiro de 2018</td> 
    <td>AEM 6.2 Cumulative Fix Pack</td> 
-   <td>O Cumulative Fix Pack   para o AEM 6.2 Service Pack 1 está disponível.</td> 
+   <td>O Cumulative Fix Pack para o AEM 6.2 Service Pack 1 está disponível.</td> 
   </tr>
   <tr>
    <td>8 de dezembro de 2017</td> 
    <td>AEM 6.2 Cumulative Fix Pack</td> 
-   <td>O Cumulative Fix Pack   para o AEM 6.2 Service Pack 1 está disponível.</td> 
+   <td>O Cumulative Fix Pack para o AEM 6.2 Service Pack 1 está disponível.</td> 
   </tr>
   <tr>
    <td>9 de novembro de 2017</td> 
    <td>Pacotes de correção cumulativos do AEM 6.2</td> 
-   <td>O Cumulative Fix Pack   para o AEM 6.2 Service Pack 1 está disponível.</td> 
+   <td>O Cumulative Fix Pack para o AEM 6.2 Service Pack 1 está disponível.</td> 
   </tr>
   <tr>
    <td>10 de outubro de 2017</td> 
@@ -1053,27 +1053,27 @@ As seguintes versões foram movidas:
   <tr>
    <td>9 de outubro de 2017</td> 
    <td>Pacotes de correção cumulativos do AEM 6.2</td> 
-   <td>O Cumulative Fix Pack   para o AEM 6.2 Service Pack 1 está disponível.</td> 
+   <td>O Cumulative Fix Pack para o AEM 6.2 Service Pack 1 está disponível.</td> 
   </tr>
   <tr>
    <td>12 de setembro de 2017</td> 
    <td>Pacotes de correção cumulativos do AEM 6.2</td> 
-   <td>O Cumulative Fix Pack   para o AEM 6.2 Service Pack 1 está disponível.</td> 
+   <td>O Cumulative Fix Pack para o AEM 6.2 Service Pack 1 está disponível.</td> 
   </tr>
   <tr>
    <td>11 de agosto de 2017</td> 
    <td>Pacotes de correção cumulativos do AEM 6.2</td> 
-   <td>O Cumulative Fix Pack   para o AEM 6.2 Service Pack 1 está disponível.</td> 
+   <td>O Cumulative Fix Pack para o AEM 6.2 Service Pack 1 está disponível.</td> 
   </tr>
   <tr>
    <td>5 de julho de 2017</td> 
    <td>Pacotes de correção cumulativos do AEM 6.2</td> 
-   <td>O Cumulative Fix Pack   para o AEM 6.2 Service Pack 1 está disponível.</td> 
+   <td>O Cumulative Fix Pack para o AEM 6.2 Service Pack 1 está disponível.</td> 
   </tr>
   <tr>
    <td>5 de junho de 2017</td> 
    <td>Pacotes de correção cumulativos do AEM 6.2</td> 
-   <td>O Cumulative Fix Pack   para o AEM 6.2 Service Pack 1 está disponível.</td> 
+   <td>O Cumulative Fix Pack para o AEM 6.2 Service Pack 1 está disponível.</td> 
   </tr>
   <tr>
    <td>12 de abril de 2017</td> 
@@ -1194,7 +1194,7 @@ As seguintes versões foram movidas:
   <tr>
    <td>8 de setembro de 2016</td> 
    <td><a href="https://helpx.adobe.com/br/experience-manager/6-2/assets/using/interactive-videos.html#uploading%2520a%2520video%2520and%2520its%2520associated%2520thumbnail%2520assets">Fazer upload de um vídeo e de seus ativos em miniatura associados</a></td> 
-   <td>Inclusão de um hiperlink para o tópico <a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/interactive-videos.html#uploading%2520a%2520video%2520and%2520its%2520associated%2520thumbnail%2520assets">Upload de um vídeo e seus ativos em miniatura associados</a>. </td> 
+   <td>Inclusão de um hiperlink para o tópico <a href="https://helpx.adobe.com/br/experience-manager/6-2/assets/using/interactive-videos.html#uploading%2520a%2520video%2520and%2520its%2520associated%2520thumbnail%2520assets">Upload de um vídeo e seus ativos em miniatura associados</a>. </td> 
   </tr>
   <tr>
    <td>1 de setembro de 2016</td> 
@@ -1232,18 +1232,18 @@ As seguintes versões foram movidas:
   </tr>
   <tr>
    <td>17 de agosto de 2016</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Configuração da autenticação</a></td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR">Configuração da autenticação</a></td> 
    <td>Refere-se à <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR">Configuração do Dynamic Media</a>.<br /> Etapas aprimoradas para tornar a configuração da autenticação mais clara.<br /> </td> 
   </tr>
   <tr>
    <td>17 de agosto de 2016</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Configuração do Agente de replicação</a></td> 
-   <td>Refere-se à <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Configuração do Dynamic Media</a>.<br /> Etapas aprimoradas para tornar a configuração do Agente de replicação mais clara.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR">Configuração do Agente de replicação</a></td> 
+   <td>Refere-se à <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR">Configuração do Dynamic Media</a>.<br /> Etapas aprimoradas para tornar a configuração do Agente de replicação mais clara.</td> 
   </tr>
   <tr>
    <td>17 de agosto de 2016</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Solução de problemas de autenticação</a></td> 
-   <td>Refere-se à <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Configuração do Dynamic Media</a>.<br /> Inclusão de três novos tópicos de autenticação para solução de problemas.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR">Solução de problemas de autenticação</a></td> 
+   <td>Refere-se à <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR">Configuração do Dynamic Media</a>.<br /> Inclusão de três novos tópicos de autenticação para solução de problemas.</td> 
   </tr>
   <tr>
    <td>4 de agosto de 2016</td> 
@@ -1257,7 +1257,7 @@ As seguintes versões foram movidas:
   </tr>
   <tr>
    <td>30 de julho de 2016</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/htl/using/overview.html">Linguagem de modelo HTML</a></td> 
+   <td><a href="https://helpx.adobe.com/br/experience-manager/htl/using/overview.html">Linguagem de modelo HTML</a></td> 
    <td>Aprimoramento da documentação HTL (Sightly).</td> 
   </tr>
   <tr>
@@ -1293,7 +1293,7 @@ As seguintes versões foram movidas:
   </tr>
   <tr>
    <td>22 de dezembro de 2016</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">AEM Assets 6.2 FP2</a></td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR">AEM Assets 6.2 FP2</a></td> 
    <td>Este pacote de recursos inclui novas melhorias de escalabilidade, desempenho e usabilidade para clientes do AEM 6.2. O pacote de recursos também inclui suporte para miniaturas de vídeo personalizadas e recursos de gerenciamento de cores do Dynamic Media.</td> 
   </tr>
   <tr>
@@ -1303,12 +1303,12 @@ As seguintes versões foram movidas:
   </tr>
   <tr>
    <td>18 de novembro de 2016</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Correção de cores do Dynamic Media</a></td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR">Correção de cores do Dynamic Media</a></td> 
    <td>Instruções sobre como corrigir a cor de ativos do Dynamic Media antes de pré-visualizá-los.</td> 
   </tr>
   <tr>
    <td>18 de novembro de 2016</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">Configuração da replicação de imagem</a></td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR">Configuração da replicação de imagem</a></td> 
    <td>Relacionada a novas instruções para configurar a replicação de imagens.</td> 
   </tr>
   <tr>
@@ -1318,7 +1318,7 @@ As seguintes versões foram movidas:
   </tr>
   <tr>
    <td>3 de novembro de 2016</td> 
-   <td>Atualização dos requisitos técnicos do Dynamic Media <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">6.1</a>, <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">6.2</a></td> 
+   <td>Atualização dos requisitos técnicos do Dynamic Media <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR">6.1</a>, <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR">6.2</a></td> 
    <td>Atualização dos redistribuíveis do Visual Studio C++ para requisitos técnicos.</td> 
   </tr>
   <tr>
@@ -1333,12 +1333,12 @@ As seguintes versões foram movidas:
   </tr>
   <tr>
    <td>17 de outubro de 2016</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Visualizadores do Dynamic Media</a></td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR">Visualizadores do Dynamic Media</a></td> 
    <td>Visualizadores do AEM 6.2 agora disponíveis no AEM 6.1.</td> 
   </tr>
   <tr>
    <td>11 de outubro de 2016</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Gerenciamento de cores do Dynamic Media</a></td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR">Gerenciamento de cores do Dynamic Media</a></td> 
    <td>Novo pacote de recursos do AEM 6.1 que permite corrigir as cores dos ativos do Dynamic Media antes de visualizá-los.</td> 
   </tr>
   <tr>
@@ -1358,18 +1358,18 @@ As seguintes versões foram movidas:
   </tr>
   <tr>
    <td>17 de agosto de 2016</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Configuração da autenticação</a></td> 
-   <td>Relacionada à <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Configuração do Dynamic Media</a>.<br /> Etapas aprimoradas para tornar a configuração da autenticação mais clara.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR">Configuração da autenticação</a></td> 
+   <td>Relacionada à <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR">Configuração do Dynamic Media</a>.<br /> Etapas aprimoradas para tornar a configuração da autenticação mais clara.</td> 
   </tr>
   <tr>
    <td>17 de agosto de 2016<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Configuração do Agente de replicação</a></td> 
-   <td>Relacionada à <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Configuração do Dynamic Media</a>.<br /> Etapas aprimoradas para tornar a configuração do Agente de replicação mais clara.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR">Configuração do Agente de replicação</a></td> 
+   <td>Relacionada à <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR">Configuração do Dynamic Media</a>.<br /> Etapas aprimoradas para tornar a configuração do Agente de replicação mais clara.</td> 
   </tr>
   <tr>
    <td>17 de agosto de 2016</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Solução de problemas de autenticação</a></td> 
-   <td>Relacionada à <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Configuração do Dynamic Media</a>.<br /> Inclusão de três novos tópicos de autenticação de solução de problemas.</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR">Solução de problemas de autenticação</a></td> 
+   <td>Relacionada à <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR">Configuração do Dynamic Media</a>.<br /> Inclusão de três novos tópicos de autenticação de solução de problemas.</td> 
   </tr>
   <tr>
    <td>12 de agosto de 2016</td> 
@@ -1533,8 +1533,8 @@ As seguintes versões foram movidas:
    <td>Vídeo de recurso de Origem de ativos e artigos de configuração</td> 
    <td><p>O Brand Portal 6.4.5 é uma versão do recurso que tem como objetivo fornecer aos usuários do Brand Portal (agências/equipes externas) a capacidade de carregar conteúdo no Brand Portal e publicá-lo nos AEM Assets, sem precisar acessar o ambiente de criação. Esse recurso é chamado de <strong>origem de ativos no Brand Portal</strong>.</p> <p>A documentação abrange as principais atualizações a seguir:</p> 
     <ul> 
-     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en">Vídeo em destaque</a> adicionado demonstrando o fluxo de trabalho geral da origem de ativos no Brand Portal.</li> 
-     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/configure-contribution-folder/brand-portal-contribution-folder.html">Configurar pasta de contribuição no AEM Assets</a></li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=pt-BR">Vídeo em destaque</a> adicionado demonstrando o fluxo de trabalho geral da origem de ativos no Brand Portal.</li> 
+     <li><a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/configure-contribution-folder/brand-portal-contribution-folder.html">Configurar pasta de contribuição no AEM Assets</a></li> 
      <li><a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/using-asset-sourcing/brand-portal-overiew-using-asset-sourcing.html">Uso da Origem de ativos para publicar ativos da pasta de contribuição para o AEM Assets</a></li> 
     </ul> </td> 
   </tr>
@@ -1543,14 +1543,14 @@ As seguintes versões foram movidas:
    <td>Introdução de Perguntas frequentes sobre o Brand Portal</td> 
    <td>A documentação abrange as principais atualizações a seguir:
     <ul> 
-     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-faqs.html?lang=en">Perguntas frequentes</a> na origem de ativos do Brand Portal.</li> 
-     <li>Atualização da documentação para <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en">Origem de ativos no Brand Portal</a>.</li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-faqs.html?lang=pt-BR">Perguntas frequentes</a> na origem de ativos do Brand Portal.</li> 
+     <li>Atualização da documentação para <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=pt-BR">Origem de ativos no Brand Portal</a>.</li> 
     </ul> </td> 
   </tr>
   <tr>
    <td>10 de outubro de 2019 </td> 
    <td>Origem de ativos no Brand Portal</td> 
-   <td><p>Documentação sobre como configurar a Origem de ativos no AEM Assets e artigos relacionados.</p> <p>Consulte <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en">Origem de ativos no Brand Portal</a> para ver a documentação de recursos.</p> </td> 
+   <td><p>Documentação sobre como configurar a Origem de ativos no AEM Assets e artigos relacionados.</p> <p>Consulte <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=pt-BR">Origem de ativos no Brand Portal</a> para ver a documentação de recursos.</p> </td> 
   </tr>
   <tr>
    <td>28 de setembro de 2019</td> 
@@ -1573,7 +1573,7 @@ As seguintes versões foram movidas:
     <ul> 
      <li>O predicado de propriedade no filtro de pesquisa agora oferece suporte à busca por frases parciais.</li> 
      <li>O predicado de propriedade no filtro de pesquisa agora oferece suporte à busca com caracteres curinga (*).</li> 
-    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=pt-BR">Notas de versão do Brand Portal</a></p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en">Guia do usuário do Brand Portal</a></p> </td> 
+    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=pt-BR">Notas de versão do Brand Portal</a></p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=pt-BR">Guia do usuário do Brand Portal</a></p> </td> 
   </tr>
   <tr>
    <td>1 de novembro de 2018 </td> 
@@ -1603,7 +1603,7 @@ As seguintes versões foram movidas:
      <li>Suporte para pesquisa sem distinção de maiúsculas e minúsculas para predicado de propriedade e predicado de propriedade de vários valores no Filtro de pesquisa.</li> 
      <li>Seis novas configurações para oferecer maior controle às organizações e permitir que elas atendam às necessidades individuais da empresa.</li> 
      <li>A interface para configurar integrações oAuth agora está hospedada em <a href="https://legacy-oauth.cloud.adobe.io/">https://legacy-oauth.cloud.adobe.io/</a>.</li> 
-    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=en">Guia do usuário do Brand Portal</a></p> </td> 
+    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=pt-BR">Guia do usuário do Brand Portal</a></p> </td> 
   </tr>
   <tr>
    <td>17 de maio de 2018</td> 
@@ -1617,7 +1617,7 @@ As seguintes versões foram movidas:
      <li>Introdução de novo relatório de compartilhamento de links.</li> 
      <li>A interface de relatórios tornou-se mais intuitiva com recursos granulares para personalizar relatórios.</li> 
      <li>A pesquisa de ativos foi aprimorada com filtros precisos de carimbo de data e hora, novo filtro do tipo de acesso, novas opções de pesquisa no filtro de pesquisa Tipo de arquivo e capacidade de navegar de volta para os resultados da pesquisa.</li> 
-    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=en">Guia do usuário do Brand Portal</a></p> </td> 
+    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=pt-BR">Guia do usuário do Brand Portal</a></p> </td> 
   </tr>
   <tr>
    <td>26 de outubro de 2017</td> 
@@ -1629,8 +1629,8 @@ As seguintes versões foram movidas:
      <li>Publicação de schemas de metadados completa do Assets para o Brand Portal</li> 
      <li>Recursos aprimorados do relatórios — ativos baixados, expirados e publicados</li> 
      <li>Recursos de DRM recém-introduzidos — controles de expiração de ativos e notificação</li> 
-     <li>Novo <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en">artigo de Novidades</a> para saber mais sobre os recursos novos e atualizados</li> 
-     <li>Novo <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=en">Guia de usuário do Brand Portal</a> independente do Guia do usuário do AEM Assets</li> 
+     <li>Novo <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=pt-BR">artigo de Novidades</a> para saber mais sobre os recursos novos e atualizados</li> 
+     <li>Novo <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=pt-BR">Guia de usuário do Brand Portal</a> independente do Guia do usuário do AEM Assets</li> 
     </ul> </td> 
   </tr>
  </tbody>
@@ -1648,19 +1648,19 @@ As seguintes versões foram movidas:
   <tr>
    <td>5 de julho de 2018</td> 
    <td>Artigos independentes de versão</td> 
-   <td>Atualização dos artigos do aplicativo de desktop (<a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-desktop-app/using/install-upgrade.html">Instalar</a>, <a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html">RNs</a> e <a href="https://docs.adobe.com/content/help/br/experience-manager-desktop-app/using/archive/best-practices-for-v1.html">Práticas recomendadas</a>) para desligar da versão AEM 6.4. O aplicativo funciona com várias versões e os artigos agora são independentes de versão.</td> 
+   <td>Atualização dos artigos do aplicativo de desktop (<a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-desktop-app/using/install-upgrade.html">Instalar</a>, <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-desktop-app/using/release-notes.html">RNs</a> e <a href="https://docs.adobe.com/content/help/br/experience-manager-desktop-app/using/archive/best-practices-for-v1.html">Práticas recomendadas</a>) para desligar da versão AEM 6.4. O aplicativo funciona com várias versões e os artigos agora são independentes de versão.</td> 
   </tr>
   <tr>
    <td>21 de junho de 2018</td> 
    <td>Lançamento de v1.9.1</td> 
-   <td>A nova versão está disponível com algumas correções de bugs. Para obter mais detalhes, consulte as <a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html" target="_blank">notas de versão</a>.<br /> </td> 
+   <td>A nova versão está disponível com algumas correções de bugs. Para obter mais detalhes, consulte as <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-desktop-app/using/release-notes.html" target="_blank">notas de versão</a>.<br /> </td> 
   </tr>
   <tr>
    <td>31 de maio de 2018</td> 
    <td>Lançamento de v1.9<br /> </td> 
    <td>A documentação para o aplicativo de desktop 1.9 do AEM está disponível.
     <ul> 
-     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html" target="_blank">Notas de versão</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-desktop-app/using/release-notes.html" target="_blank">Notas de versão</a></li> 
      <li><a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-desktop-app/using/introduction.html">Usar o aplicativo de desktop do AEM</a></li> 
     </ul> </td> 
   </tr>
