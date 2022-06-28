@@ -4,9 +4,9 @@ description: Resumo das etapas para instalar e configurar o Cumulative Fix Pack 
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
 source-git-commit: d0fc94d3b8eba65fe9829245724632b1f2f8214f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '910'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -46,7 +46,7 @@ Execute as seguintes etapas, na sequência especificada, para instalar o Cumulat
 1. Execute o instalador do CFP e configure o AEM [!DNL Forms JEE] conforme descrito em [Instalar e configurar o AEM [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
 1. Instale o AEM Hotfix 12785 versão 7.0.
 1. Instale o AEM 6.2 Service Pack 1.
-1. Instale as notas de versão mais recentes-aem-6-2-cumulative-fix-pack.md.
+1. Instale o release-notes-aem-6-2-cumulative-fix-pack.md mais recente.
 1. Instale o pacote complementar do [!DNL Forms] para o AEM 6.2 Service Pack 1 CFP.
 
 ### Instalar pacote do AEM [!DNL Forms JEE]  {#install-aem-forms-jee-bundles-package-1}
@@ -79,7 +79,7 @@ Use os seguintes comandos para definir o tempo limite no nível do componente:
 
 1. Para definir o tempo limite de valores de operação `DesigntimeService` para 500 segundos, use:
 
-   definir &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
+   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
 
 1. Para definir o tempo limite de valores de operação `DesigntimeService's previewLCA` para 700 segundos, use:
 
@@ -87,7 +87,7 @@ Use os seguintes comandos para definir o tempo limite no nível do componente:
 
 1. Para definir `DSC operations` como carregar, instalar etc. para 600 segundos, use:
 
-   definir &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
+   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
 
 ## Instalar e configurar o AEM [!DNL Forms JEE] {#install-and-configure-aem-forms-jee}
 
