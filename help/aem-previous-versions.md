@@ -3,7 +3,7 @@ title: Versões anteriores do AEM, CQ e CRX
 description: Pacotes de documentação referentes a versões anteriores do Adobe Experience Manager, CQ e CRX.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: 971c4b389b94be04edb48762bb8546fdb6faebe4
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '820'
 ht-degree: 100%
 
