@@ -1,16 +1,16 @@
 ---
-title: Atualizações anteriores na documentação
+title: 'Atualizações anteriores na documentação '
 description: Esta página lista as alterações e atualizações importantes mais antigas na documentação do  [!DNL Adobe Experience Manager].
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: d984db863b24ced14834c437b76fea80774b17d8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3632'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
-# Atualizações anteriores na documentação{#previous-documentation-updates}
+# Atualizações anteriores na documentação {#previous-documentation-updates}
 
 Esta página lista as alterações e atualizações importantes mais antigas na documentação do [!DNL Adobe Experience Manager]. Confira as [Atualizações recentes da documentação](documentation-updates.md) aqui.
 
@@ -46,7 +46,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>18 de outubro de 2019<br /> </td> 
    <td>Arquétipo de projeto do AEM<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html">O AEM Project Archetype</a> cria um projeto do Adobe Experience Manager com base em práticas recomendadas como ponto de partida para seus próprios projetos AEM.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html?lang=pt-BR">O AEM Project Archetype</a> cria um projeto do Adobe Experience Manager com base em práticas recomendadas como ponto de partida para seus próprios projetos AEM.<br /> </td> 
   </tr>
   <tr>
    <td>18 de outubro de 2019<br /> </td> 
@@ -156,7 +156,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>3 de julho de 2019</td> 
    <td>AEM 6.5 Service Pack 1</td> 
-   <td>O <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5 Service Pack 1 (6.5.1.0) </a>está disponível.</td> 
+   <td>O <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=pt-BR">AEM 6.5 Service Pack 1 (6.5.1.0) </a>está disponível.</td> 
   </tr>
   <tr>
    <td>25 de junho de 2019</td> 
@@ -166,12 +166,12 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>17 de junho de 2019<br /> </td> 
    <td>Integração do AEM Assets e da Creative Cloud</td> 
-   <td>As práticas recomendadas são atualizadas com mapeamento preciso das necessidades dos negócios, a oferta de soluções da Adobe e os casos de uso do cliente. Um infográfico é adicionado para torná-lo visualmente atraente. Consulte as <a href="https://docs.adobe.com/content/help/br/experience-manager-65/assets/administer/aem-cc-folder-sharing-best-practices.html" target="_blank">práticas recomendadas de integração da AEM Creative Cloud</a>.<br /> </td> 
+   <td>As práticas recomendadas são atualizadas com mapeamento preciso das necessidades dos negócios, a oferta de soluções da Adobe e os casos de uso do cliente. Um infográfico é adicionado para torná-lo visualmente atraente. Consulte as <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-65/assets/administer/aem-cc-folder-sharing-best-practices.html" target="_blank">práticas recomendadas de integração da AEM Creative Cloud</a>.<br /> </td> 
   </tr>
   <tr>
    <td>3 de junho de 2019</td> 
    <td>Rich Text Editor (RTE)<br /> </td> 
-   <td><p>Inclusão de um pacote no <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">componente de criação multicampo</a>.<br /> </p> <p>Criação de <a href="https://docs.adobe.com/content/help/br/experience-manager-65/administering/introduction/aem-faqs.html" target="_blank">Perguntas frequentes de solução de problemas</a> com base nos comentários dos clientes.</p> </td> 
+   <td><p>Inclusão de um pacote no <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">componente de criação multicampo</a>.<br /> </p> <p>Criação de <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-65/administering/introduction/aem-faqs.html" target="_blank">Perguntas frequentes de solução de problemas</a> com base nos comentários dos clientes.</p> </td> 
   </tr>
   <tr>
    <td>31 de maio de 2019</td> 
@@ -262,12 +262,12 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>19 de setembro de 2019</td> 
    <td>AEM 6.4 Service Pack 6<br /> </td> 
-   <td>O <a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 6 (6.4.6.0)</a> está disponível.</td> 
+   <td>O <a href="https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=pt-BR">AEM 6.4 Service Pack 6 (6.4.6.0)</a> está disponível.</td> 
   </tr>
   <tr>
    <td>9 de setembro de 2019<br /> </td> 
    <td>Aplicativo de desktop do AEM</td> 
-   <td>O aplicativo de desktop do AEM v2.0 está disponível publicamente para usuários criativos, profissionais de marketing e de linha de negócios que trabalham com o AEM Assets. Consulte as <a href="https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html" target="_blank">notas de versão</a>.</td> 
+   <td>O aplicativo de desktop do AEM v2.0 está disponível publicamente para usuários criativos, profissionais de marketing e de linha de negócios que trabalham com o AEM Assets. Consulte as <a href="https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html?lang=pt-BR" target="_blank">notas de versão</a>.</td> 
   </tr>
   <tr>
    <td>6 de setembro de 2019</td> 
@@ -287,22 +287,22 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>3 de julho de 2019</td> 
    <td>AEM 6.4 Service Pack 5</td> 
-   <td>O <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/release-notes/sp-release-notes.translate.html">AEM 6.4 Service Pack 5 (6.4.5.0)</a> está disponível.</td> 
+   <td>O <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 5 (6.4.5.0)</a> está disponível.</td> 
   </tr>
   <tr>
    <td>17 de junho de 2019</td> 
    <td>Integração do AEM Assets e da Creative Cloud</td> 
-   <td>As práticas recomendadas são atualizadas com mapeamento preciso das necessidades dos negócios, a oferta de soluções da Adobe e os casos de uso do cliente. Um infográfico é adicionado para torná-lo visualmente atraente. Consulte as <a href="https://docs.adobe.com/content/help/br/experience-manager-64/assets/administer/aem-cc-folder-sharing-best-practices.html" target="_blank">práticas recomendadas de integração da AEM Creative Cloud</a>.</td> 
+   <td>As práticas recomendadas são atualizadas com mapeamento preciso das necessidades dos negócios, a oferta de soluções da Adobe e os casos de uso do cliente. Um infográfico é adicionado para torná-lo visualmente atraente. Consulte as <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/assets/administer/aem-cc-folder-sharing-best-practices.html" target="_blank">práticas recomendadas de integração da AEM Creative Cloud</a>.</td> 
   </tr>
   <tr>
    <td>3 de junho de 2019</td> 
-   <td>Editor de Rich Text (RTE)<br /> </td> 
-   <td>Adicionado um pacote no <a href="https://docs.adobe.com/content/help/br/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">artigo de configuração</a> com todos os plug-ins ativados para serem usados como uma configuração de amostra. Um membro da comunidade contribuiu com um tutorial sobre como <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">criar um componente de vários campos</a>.<br /> </td> 
+   <td>Rich Text Editor (RTE)<br /> </td> 
+   <td>Adicionado um pacote no <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">artigo de configuração</a> com todos os plug-ins ativados para serem usados como uma configuração de amostra. Um membro da comunidade contribuiu com um tutorial sobre como <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">criar um componente de vários campos</a>.<br /> </td> 
   </tr>
   <tr>
    <td>4 de abril de 2019</td> 
    <td>install-aem-forms-add-on-package</td> 
-   <td>O <a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 4 (6.4.4.0)</a> está disponível.</td> 
+   <td>O <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 4 (6.4.4.0)</a> está disponível.</td> 
   </tr>
   <tr>
    <td>22 de fevereiro de 2019</td> 
@@ -329,17 +329,17 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>10 de janeiro de 2019</td> 
    <td>Fragmentos de experiência</td> 
-   <td>A documentação <a href="https://docs.adobe.com/content/help/br/experience-manager-64/administering/integration/experience-fragments-target.html#deleting-an-experience-fragment-already-exported-to-target">Exclusão de um fragmento de experiência já foi exportada para o Target</a>.</td> 
+   <td>A documentação <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/administering/integration/experience-fragments-target.html#deleting-an-experience-fragment-already-exported-to-target">Exclusão de um fragmento de experiência já foi exportada para o Target</a>.</td> 
   </tr>
   <tr>
    <td>9 de janeiro de 2019</td> 
    <td>Solução de problemas de integração</td> 
-   <td>Uma nova página de <a href="https://docs.adobe.com/content/help/br/experience-manager-64/administering/integration/troubleshooting-integration-issues.html">solução de problemas de integração</a> foi adicionada.</td> 
+   <td>Uma nova página de <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/administering/integration/troubleshooting-integration-issues.html">solução de problemas de integração</a> foi adicionada.</td> 
   </tr>
   <tr>
    <td>20 de dezembro de 2018</td> 
    <td>AEM 6.4 Service Pack 3</td> 
-   <td>O <a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 3 (6.4.3.0)</a> está disponível.</td> 
+   <td>O <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 3 (6.4.3.0)</a> está disponível.</td> 
   </tr>
   <tr>
    <td>17 de dezembro de 2018</td> 
@@ -348,13 +348,13 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   </tr>
   <tr>
    <td>11 de dezembro de 2018</td> 
-   <td><a href="https://docs.adobe.com/content/help/br/experience-manager-64/developing/platform/templates/templates.html#template-availability">Disponibilidade de modelo</a></td> 
+   <td><a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/developing/platform/templates/templates.html#template-availability">Disponibilidade de modelo</a></td> 
    <td>Recomendações atualizadas ao definir a disponibilidade de seus modelos.</td> 
   </tr>
   <tr>
    <td>11 de dezembro de 2018</td> 
    <td>Aplicativos de página única<br /> </td> 
-   <td>Um <a href="https://docs.adobe.com/content/help/br/experience-manager-64/developing/headless/spas/spa-getting-started-angular.html">guia de introdução</a> está agora disponível para a estrutura Angular.<br /> </td> 
+   <td>Um <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/developing/headless/spas/spa-getting-started-angular.html">guia de introdução</a> está agora disponível para a estrutura Angular.<br /> </td> 
   </tr>
   <tr>
    <td>7 de dezembro de 2018</td> 
@@ -364,32 +364,32 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>28 de novembro de 2018</td> 
    <td>Aplicativos de Página Única</td> 
-   <td><a href="https://docs.adobe.com/content/help/br/experience-manager-64/developing/headless/spas/spa-architecture.html#spa-development-principles-for-aem">Princípios de desenvolvimento</a> e <a href="https://docs.adobe.com/content/help/br/experience-manager-64/developing/headless/spas/spa-architecture.html#spa-design-models">modelos de design</a> para SPAs em AEM.<br /> </td>
+   <td><a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/developing/headless/spas/spa-architecture.html#spa-development-principles-for-aem">Princípios de desenvolvimento</a> e <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/developing/headless/spas/spa-architecture.html#spa-design-models">modelos de design</a> para SPAs em AEM.<br /> </td>
   </tr>
   <tr>
    <td>28 de novembro de 2018</td> 
    <td>Aplicativos de Página Única</td> 
-   <td>A documentação sobre a pré-visualização técnica do <a href="https://docs.adobe.com/content/help/br/experience-manager-64/developing/headless/spas/spa-ssr.html">recurso de renderização do lado do servidor de SPA</a> está disponível.<br /> </td> 
+   <td>A documentação sobre a pré-visualização técnica do <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/developing/headless/spas/spa-ssr.html">recurso de renderização do lado do servidor de SPA</a> está disponível.<br /> </td> 
   </tr>
   <tr>
    <td>28 de novembro de 2018</td> 
    <td>Componentes principais<br /> </td> 
-   <td>A <a href="https://docs.adobe.com/content/help/br/experience-manager-core-components/using/versions.html">documentação dos Componentes principais</a> foi atualizada adequadamente.<br /> </td> 
+   <td>A <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-core-components/using/versions.html">documentação dos Componentes principais</a> foi atualizada adequadamente.<br /> </td> 
   </tr>
   <tr>
    <td>19 de novembro de 2018</td> 
    <td>Fragmentos de experiência</td> 
-   <td>Página de introdução para desenvolvedores, destacando como usar <a href="https://docs.adobe.com/content/help/br/experience-manager-64/developing/bestpractices/we-retail/we-retail-experience-fragments.html">Fragmentos de experiência no We.Retail</a>.<br /> </td> 
+   <td>Página de introdução para desenvolvedores, destacando como usar <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/developing/bestpractices/we-retail/we-retail-experience-fragments.html">Fragmentos de experiência no We.Retail</a>.<br /> </td> 
   </tr>
   <tr>
    <td>2 de novembro de 2018</td> 
    <td>AEM Screens</td> 
-   <td>A documentação do AEM Screens foi movida da ramificação do Sites para a ramificação exclusiva do Screens. Consulte <a href="https://docs.adobe.com/content/help/br/experience-manager-screens/user-guide/aem-screens-introduction.html">Guia do Usuário do AEM Screens</a> para obter a documentação consolidada completa.</td> 
+   <td>A documentação do AEM Screens foi movida da ramificação do Sites para a ramificação exclusiva do Screens. Consulte <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-screens/user-guide/aem-screens-introduction.html">Guia do Usuário do AEM Screens</a> para obter a documentação consolidada completa.</td> 
   </tr>
   <tr>
    <td>1 de novembro de 2018</td> 
    <td>Cloud Manager</td> 
-   <td>A versão 2018.9.0 do Cloud Manager adiciona suporte para uma API baseada no Adobe I/O, incluindo Eventos, para integrar o pipeline CI/CD do Cloud Manager com outros sistemas. Ele também inicia a regravação da camada da interface no React. Siga as <a href="https://docs.adobe.com/content/help/br/experience-manager-cloud-manager/using/release-notes/release-notes-2018-9-0.html">Notas de versão para 2018.9.0</a> para obter mais informações.</td> 
+   <td>A versão 2018.9.0 do Cloud Manager adiciona suporte para uma API baseada no Adobe I/O, incluindo Eventos, para integrar o pipeline CI/CD do Cloud Manager com outros sistemas. Ele também inicia a regravação da camada da interface no React. Siga as <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-cloud-manager/using/release-notes/release-notes-2018-9-0.html">Notas de versão para 2018.9.0</a> para obter mais informações.</td> 
   </tr>
   <tr>
    <td>25 de outubro de 2018</td> 
@@ -399,7 +399,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>16 de outubro de 2018</td> 
    <td>Componentes principais<br /> </td> 
-   <td>A versão 2.2.0 dos componentes <a href="https://docs.adobe.com/content/help/br/experience-manager-core-components/using/components/tabs.html">Guias</a> e <a href="https://docs.adobe.com/content/help/pt/experience-manager-core-components/using/components/carousel.html">Carrossel</a>, juntamente com melhorias nos componentes Imagem, Título e Página e várias correções de bugs.</td> 
+   <td>A versão 2.2.0 dos componentes <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-core-components/using/components/tabs.html">Guias</a> e <a href="https://docs.adobe.com/content/help/pt/experience-manager-core-components/using/components/carousel.html">Carrossel</a>, juntamente com melhorias nos componentes Imagem, Título e Página e várias correções de bugs.</td> 
   </tr>
   <tr>
    <td>10 de outubro de 2018<br /> </td> 
@@ -409,37 +409,37 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>3 de outubro de 2018</td> 
    <td>Modelos estáticos<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/help/br/experience-manager-64/developing/platform/templates/page-templates-static.html">A forma como os designs são aplicados a modelos estáticos </a>foi detalhada.<br /> </td> 
+   <td><a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/developing/platform/templates/page-templates-static.html">A forma como os designs são aplicados a modelos estáticos </a>foi detalhada.<br /> </td> 
   </tr>
   <tr>
    <td>3 de outubro de 2018</td> 
    <td>AEM 6.4 Service Pack 2</td> 
-   <td>O <a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4 Service Pack 2</a> (6.4.2.0) está disponível.</td> 
+   <td>O <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4 Service Pack 2</a> (6.4.2.0) está disponível.</td> 
   </tr>
   <tr>
    <td>18 de setembro de 2018</td> 
    <td>AEM Screens</td> 
-   <td>Para usar a Sequência Incorporada Dinâmica, atribua um canal por Função de Canal. <a href="https://docs.adobe.com/content/help/br/experience-manager-screens/user-guide/authoring/product-features/dynamic-embedded-sequences.html">Uso de Sequência Incorporada Dinâmica</a>, permite que o usuário siga uma hierarquia em que as alterações/atualizações feitas em um canal são propagadas para outro. Ela segue a hierarquia pai/filho e também inclui ativos como imagens ou vídeos.</td> 
+   <td>Para usar a Sequência Incorporada Dinâmica, atribua um canal por Função de Canal. <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-screens/user-guide/authoring/product-features/dynamic-embedded-sequences.html">Uso de Sequência Incorporada Dinâmica</a>, permite que o usuário siga uma hierarquia em que as alterações/atualizações feitas em um canal são propagadas para outro. Ela segue a hierarquia pai/filho e também inclui ativos como imagens ou vídeos.</td> 
   </tr>
   <tr>
    <td>12 de setembro de 2018</td> 
    <td>Cloud Manager</td> 
-   <td>O dimensionamento automático é ativado por meio da escala horizontal dos segmentos do Dispatcher/Publish no ambiente de produção para suportar um aumento brusco na carga, volume, acesso e outras métricas monitoradas definidas. Siga as <a href="https://docs.adobe.com/content/help/br/experience-manager-cloud-manager/using/release-notes/release-notes-2018-7-0.html">Notas de versão para 2018.7.0</a> para obter mais informações.</td> 
+   <td>O dimensionamento automático é ativado por meio da escala horizontal dos segmentos do Dispatcher/Publish no ambiente de produção para suportar um aumento brusco na carga, volume, acesso e outras métricas monitoradas definidas. Siga as <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-cloud-manager/using/release-notes/release-notes-2018-7-0.html">Notas de versão para 2018.7.0</a> para obter mais informações.</td> 
   </tr>
   <tr>
    <td>29 de agosto de 2018<br /> </td> 
    <td>AEM Assets</td> 
-   <td>Para configurar as integrações oAuth, o serviço de gateway do Adobe I/O está disponível em <a href="https://docs.adobe.com/content/help/br/experience-manager-64/administering/integration/configure-assets-cc-integration.html" target="_blank">configuração da integração do AEM Assets</a> e <a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/brandportal/configure-aem-assets-with-brand-portal.html?lang=pt-BR" target="_blank">configuração da integração do Assets com artigos do Brand Portal</a>.</td> 
+   <td>Para configurar as integrações oAuth, o serviço de gateway do Adobe I/O está disponível em <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/administering/integration/configure-assets-cc-integration.html" target="_blank">configuração da integração do AEM Assets</a> e <a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/brandportal/configure-aem-assets-with-brand-portal.html?lang=pt-BR" target="_blank">configuração da integração do Assets com artigos do Brand Portal</a>.</td> 
   </tr>
   <tr>
    <td>24 de agosto de 2018</td> 
    <td>Editor de rich text<br /> </td> 
-   <td>Renovação da <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">configuração do artigo RTE</a> para estruturá-lo melhor, adicionar algumas informações ausentes, adicionar uma ilustração de fluxo de trabalho e dividir o artigo de formulário longo.</td> 
+   <td>Renovação da <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">configuração do artigo RTE</a> para estruturá-lo melhor, adicionar algumas informações ausentes, adicionar uma ilustração de fluxo de trabalho e dividir o artigo de formulário longo.</td> 
   </tr>
   <tr>
    <td>24 de agosto de 2018</td> 
    <td>Aplicativos de Página única<br /> </td> 
-   <td>A documentação para desenvolver <a href="https://helpx.adobe.com/experience-manager/6-4/sites/developing/user-guide.html?topic=/experience-manager/6-4/sites/developing/morehelp/spa.ug.js">Aplicativos de Página Única (SPA)</a> para o Editor SPA do AEM foi atualizada e expandida.<br /> </td> 
+   <td>A documentação para desenvolver <a href="https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=pt-BR&amp;topic=%2Fexperience-manager%2F6-4%2Fsites%2Fdeveloping%2Fmorehelp%2Fspa.ug.js">Aplicativos de Página Única (SPA)</a> para o Editor SPA do AEM foi atualizada e expandida.<br /> </td> 
   </tr>
   <tr>
    <td>16 de agosto de 2018</td> 
@@ -449,7 +449,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>19 de julho de 2018</td> 
    <td>Versão 2.1.0 dos Componentes principais</td> 
-   <td>Versão 2.1.0 das melhorias no componente <a href="https://docs.adobe.com/content/help/br/experience-manager-core-components/using/components/image.html">Imagem</a>, um novo componente <a href="https://docs.adobe.com/content/help/br/experience-manager-core-components/using/components/teaser.html">Teaser</a> e várias correções de bugs.</td> 
+   <td>Versão 2.1.0 das melhorias no componente <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-core-components/using/components/image.html">Imagem</a>, um novo componente <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-core-components/using/components/teaser.html">Teaser</a> e várias correções de bugs.</td> 
   </tr>
   <tr>
    <td>19 de julho de 2018</td> 
@@ -474,42 +474,42 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>5 de julho de 2018</td> 
    <td>Integração MC-CC<br /> </td> 
-   <td>Correções de bugs e melhorias editoriais em <a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/configure-assets-cc-integration.html">Configuração da integração do AEM Assets com o Experience Cloud e artigo da Creative Cloud</a>.</td> 
+   <td>Correções de bugs e melhorias editoriais em <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/administering/integration/configure-assets-cc-integration.html">Configuração da integração do AEM Assets com o Experience Cloud e artigo da Creative Cloud</a>.</td> 
   </tr>
   <tr>
    <td>5 de julho de 2018</td> 
    <td>Tags inteligentes de ativos<br /> </td> 
-   <td>Melhorias adicionais no <a href="https://docs.adobe.com/content/help/br/experience-manager-64/assets/managing/config-smart-tagging.html">artigo Configurar tags inteligentes</a> para estruturar melhor, corrigir bugs e criar um link cruzado com o artigo relacionado.</td> 
+   <td>Melhorias adicionais no <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/assets/managing/config-smart-tagging.html">artigo Configurar tags inteligentes</a> para estruturar melhor, corrigir bugs e criar um link cruzado com o artigo relacionado.</td> 
   </tr>
   <tr>
    <td>5 de julho de 2018</td> 
    <td>Integração ao Adobe Analytics<br /> </td> 
-   <td>Várias atualizações na página <a href="https://docs.adobe.com/content/help/br/experience-manager-64/administering/integration/adobeanalytics.html">Integração com o Adobe Analytics</a>.<br /> </td> 
+   <td>Várias atualizações na página <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/administering/integration/adobeanalytics.html">Integração com o Adobe Analytics</a>.<br /> </td> 
   </tr>
   <tr>
    <td>29 de junho de 2018</td> 
    <td>AEM 6.4.1.0</td> 
-   <td>O <a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.1.0</a> está disponível.</td> 
+   <td>O <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.1.0</a> está disponível.</td> 
   </tr>
   <tr>
    <td>25 de junho de 2018</td> 
    <td>Interface de toque</td> 
-   <td>A página <a href="https://docs.adobe.com/content/help/br/experience-manager-65/release-notes/touch-ui-features-status.html">Status do recurso de interface de toque</a> foi atualizada para 6.4.<br /> </td> 
+   <td>A página <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-65/release-notes/touch-ui-features-status.html">Status do recurso de interface de toque</a> foi atualizada para 6.4.<br /> </td> 
   </tr>
   <tr>
    <td>22 de junho de 2018</td> 
    <td>Aplicativos de Página única<br /> </td> 
    <td><p>O conteúdo SPA adicional agora está disponível com um passo a passo de como um SPA funciona no editor de SPA do AEM, a arquitetura do SPAs no AEM e exemplos de adaptação de seu próprio componente para trabalhar com um AEM SPA.</p> 
     <ul> 
-     <li><a href="https://docs.adobe.com/content/help/br/experience-manager-64/developing/headless/spas/spa-walkthrough.html">Passo a passo para o SPA</a></li> 
-     <li><a href="https://docs.adobe.com/content/help/br/experience-manager-64/developing/headless/spas/spa-architecture.html">Arquitetura SPA</a></li> 
-     <li><a href="https://docs.adobe.com/content/help/br/experience-manager-64/developing/headless/spas/spa-implementing-react-component.html">Implementação de um componente de reação para SPA</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/developing/headless/spas/spa-walkthrough.html">Passo a passo para o SPA</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/developing/headless/spas/spa-architecture.html">Arquitetura SPA</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/developing/headless/spas/spa-implementing-react-component.html">Implementação de um componente de reação para SPA</a></li> 
     </ul> </td> 
   </tr>
   <tr>
    <td>14 de junho de 2018</td> 
    <td>Tags inteligentes aprimoradas</td> 
-   <td>Documentação aprimorada sobre como <a href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/managing/config-smart-tagging.html" target="_blank">Configurar a marcação de ativos usando o Serviço de conteúdo inteligente</a>.</td> 
+   <td>Documentação aprimorada sobre como <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/assets/managing/config-smart-tagging.html" target="_blank">Configurar a marcação de ativos usando o Serviço de conteúdo inteligente</a>.</td> 
   </tr>
   <tr>
    <td>4 de junho de 2018</td> 
@@ -519,22 +519,22 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>30 de maio de 2018<br /> </td> 
    <td>Validação de pacote</td> 
-   <td>Atualização da documentação <a href="https://docs.adobe.com/content/help/br/experience-manager-64/administering/contentmanagement/package-manager.html">Como trabalhar com pacotes</a>, com mais detalhes sobre o novo recurso de validação de pacote, incluindo a capacidade de validar ACLs.<br /> </td> 
+   <td>Atualização da documentação <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/administering/contentmanagement/package-manager.html">Como trabalhar com pacotes</a>, com mais detalhes sobre o novo recurso de validação de pacote, incluindo a capacidade de validar ACLs.<br /> </td> 
   </tr>
   <tr>
    <td>30 de maio de 2018</td> 
    <td>Activity Map</td> 
-   <td>Funcionalidade Activity Map para páginas publicadas como parte do editor de páginas. Como <a href="https://docs.adobe.com/content/help/br/experience-manager-64/authoring/page-performance/pa-using.html">usar</a>.</td> 
+   <td>Funcionalidade Activity Map para páginas publicadas como parte do editor de páginas. Como <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/authoring/page-performance/pa-using.html">usar</a>.</td> 
   </tr>
   <tr>
    <td>25 de maio de 2018<br /> </td> 
    <td>Disponibilidade do GDPR</td> 
-   <td><a href="https://docs.adobe.com/content/help/br/experience-manager-64/administering/bestpractices/gdpr-compliance-sites.html">Disponibilidade do GDPR</a> com o AEM.<br /> </td> 
+   <td><a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/administering/bestpractices/gdpr-compliance-sites.html">Disponibilidade do GDPR</a> com o AEM.<br /> </td> 
   </tr>
   <tr>
    <td>4 de maio de 2018</td> 
    <td>Materiais de referência do AEM 6.4<br /> </td> 
-   <td><p>Os <a href="https://docs.adobe.com/content/help/br/experience-manager-65/developing/introduction/reference-materials.html">Materiais de referência</a> estão disponíveis incluindo:</p> 
+   <td><p>Os <a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-65/developing/introduction/reference-materials.html">Materiais de referência</a> estão disponíveis incluindo:</p> 
     <ul> 
      <li>API do Adobe AEM 6.4.0</li> 
      <li>Diferenças de API</li> 
@@ -555,7 +555,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>24 de abril de 2018<br /> </td> 
    <td>Aplicativos de Página única<br /> </td> 
-   <td><p>Aplicativos de página única (SPAs) podem oferecer experiências interessantes para usuários de sites. Os desenvolvedores desejam criar sites usando estruturas SPA, e os autores desejam editar o conteúdo no AEM para um site criado como um SPA.</p> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/headless/spas/spa-walkthrough.html">O recurso de criação de SPA</a> (atualmente uma pré-visualização de tecnologia) oferece uma solução abrangente para suporte a SPAs no AEM.</p> </td> 
+   <td><p>Aplicativos de página única (SPAs) podem oferecer experiências interessantes para usuários de sites. Os desenvolvedores desejam criar sites usando estruturas SPA, e os autores desejam editar o conteúdo no AEM para um site criado como um SPA.</p> <p><a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/developing/headless/spas/spa-walkthrough.html">O recurso de criação de SPA</a> (atualmente uma pré-visualização de tecnologia) oferece uma solução abrangente para suporte a SPAs no AEM.</p> </td> 
   </tr>
   <tr>
    <td>4 de abril de 2018</td> 
@@ -563,7 +563,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
    <td><p>O Adobe Experience Manager 6.4 é uma versão de atualização para o código de base do Adobe Experience Manager 6.3. Ele fornece funcionalidades novas e melhoradas, correções essenciais para o cliente, melhorias de alta prioridade para o cliente e correções gerais de bugs voltadas para a estabilização do produto. Ele também inclui todos os pacotes de recursos, hot fixes e versões de service pack do Adobe Experience Manager 6.3.</p> <p>Consulte o link a seguir:</p> 
     <ul> 
      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=pt-BR">Documentação do AEM 6.4</a></li> 
-     <li><a href="https://docs.adobe.com/content/help/br/experience-manager-64/release-notes/release-notes.html">Notas de versão</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/pt-BR/experience-manager-64/release-notes/release-notes.html">Notas de versão</a></li> 
     </ul> </td> 
   </tr>
  </tbody>
@@ -571,7 +571,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
 
 ## Conteúdo herdado {#legacy-content}
 
-A partir de 24 de outubro de 2017, as versões herdadas AEM documentação foram movidas para um novo local em [Versões anteriores do Adobe Experience Manager, CQ e CRX](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR).
+A partir de 24 de outubro de 2017, as versões herdadas da documentação do AEM foram movidas para um novo local, em [Versões anteriores do Adobe Experience Manager, CQ e CRX](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR).
 
 As seguintes versões foram movidas:
 
@@ -601,7 +601,7 @@ As seguintes versões foram movidas:
   <tr>
    <td>14 de fevereiro de 2018</td> 
    <td>Versões e atualizações do AEM</td> 
-   <td><p>Hub interrupção única publicado para todas as versões e atualizações do AEM disponíveis. Ele está vinculado aos cumulative fix packs mais recentes, service packs, pacotes de recursos e hotfixes para AEM 6.4, AEM 6.3, AEM 6.2 e AEM 6.1.</p> <p>Consulte <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html">Versões e atualizações do AEM</a>. </p> </td> 
+   <td><p>Hub interrupção única publicado para todas as versões e atualizações do AEM disponíveis. Ele está vinculado aos cumulative fix packs mais recentes, service packs, pacotes de recursos e hotfixes para AEM 6.4, AEM 6.3, AEM 6.2 e AEM 6.1.</p> <p>Consulte <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=pt-BR">Versões e atualizações do AEM</a>. </p> </td> 
   </tr>
  </tbody>
 </table>
