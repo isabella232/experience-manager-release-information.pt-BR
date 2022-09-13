@@ -50,8 +50,8 @@ A lista a seguir contém todos os pacotes complementares do AEM [!DNL Forms] lan
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0053/WebSphere/Win/AEMForms-6.5.0-0053_websphere_win.zip">WebSphere Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0053/WebSphere/Linux/AEMForms-6.5.0-0053_websphere_linux.tar.gz">WebSphere Linux</a></li>
       <br><b>SDK</b></br>
-      <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.772/">SDK do cliente do AEM Forms</a> </li>
-      <br><b>Designer do Forms</b></br>
+      <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.772/">AEM Forms Client SDK</a> </li>
+      <br><b>Forms Designer</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-033/Designer6.5.0_English_Cumulative_QF.msp">Instalador do idioma inglês</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-033/Designer6.5.0_French_Cumulative_QF.msp">Instalador do idioma francês</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-033/Designer6.5.0_German_Cumulative_QF.msp">Instalador do idioma alemão</a> </li>
@@ -78,8 +78,8 @@ A lista a seguir contém todos os pacotes complementares do AEM [!DNL Forms] lan
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0044/WebSphere/Win/AEMForms-6.5.0-0044_websphere_win.zip">WebSphere Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0044/WebSphere/Linux/AEMForms-6.5.0-0044_websphere_linux.tar.gz">WebSphere Linux</a></li>
       <br><b>SDK</b></br>
-      <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.728/">SDK do cliente do AEM Forms</a> </li>
-      <br><b>Designer do Forms</b></br>
+      <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.728/">SDK do cliente da AEM Forms</a> </li>
+      <br><b>Forms Designer</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-029/Designer6.5.0_English_Cumulative_QF.msp">Instalador do idioma inglês</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-029/Designer6.5.0_French_Cumulative_QF.msp">Instalador do idioma francês</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-029/Designer6.5.0_German_Cumulative_QF.msp">Instalador do idioma alemão</a> </li>
@@ -112,8 +112,8 @@ A lista a seguir contém todos os pacotes complementares do AEM [!DNL Forms] lan
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0040/WebSphere/Win/AEMForms-6.5.0-0040_websphere_win.zip">WebSphere Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0040/WebSphere/Linux/AEMForms-6.5.0-0040_websphere_linux.tar.gz">WebSphere Linux</a></li>
       <br><b>SDK</b></br>
-      <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.640/">SDK do cliente do AEM Forms</a> </li>
-      <br><b>Designer do Forms</b></br>
+      <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.640/">SDK do cliente da AEM Forms</a> </li>
+      <br><b>Forms Designer</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-027/Designer6.5.0_English_Cumulative_QF.msp">Instalador do idioma inglês</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-027/Designer6.5.0_French_Cumulative_QF.msp">Instalador do idioma francês</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-027/Designer6.5.0_German_Cumulative_QF.msp">Instalador do idioma alemão</a> </li>
@@ -140,7 +140,7 @@ A lista a seguir contém todos os pacotes complementares do AEM [!DNL Forms] lan
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0038/WebSphere/Win/AEMForms-6.5.0-0038_websphere_win.zip">WebSphere Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0038/WebSphere/Linux/AEMForms-6.5.0-0038_websphere_linux.tar.gz">WebSphere Linux</a></li>
       <br><b>SDK</b></br>
-      <li><a href="https://mvnrepository.com/artifact/com.adobe.aemfd/aemfd-client-sdk">SDK do cliente do AEM Forms</a>
+      <li><a href="https://mvnrepository.com/artifact/com.adobe.aemfd/aemfd-client-sdk">SDK do cliente da AEM Forms</a>
       </ul> </td>
     <td><p>Instalador do AEM Forms JEE: AEMForms-6.5.0-0038<br /> <p>Pacotes de complemento do AEM Forms: 6.0.566-NPR-37836-B0001</p></td>
    </tr>
@@ -689,16 +689,16 @@ O pacote de compatibilidade do `[3]` AEM [!DNL Forms] para a versão 6.4.8.0 per
    <td>
     <ul>
       <br><b>Instaladores de patch do AEM Forms no JEE</b></br>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/aemforms-6-3-0-0047/jboss/Win/AEMForms-6.3.0-0047_jboss_win.zip">Janelas JBoss</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/Jboss/Linux/AEMForms-6.3.0-0047_jboss_linux.tar.gz">JBoss Linux</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/JBoss/Solaris/AEMForms-6.3.0-0047_jboss_solaris.tar.gz">JBoss Solaris </a>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/WebLogic/Win/AEMForms-6.3.0-0047_weblogic_win.zip">WebLogic Windows</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/WebLogic/solaris/AEMForms-6.3.0-0047_weblogic_solaris.tar.gz">WebLogic Solaris</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/WebLogic/Linux/AEMForms-6.3.0-0047_weblogic_linux.tar.gz">WebLogic Linux</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/jboss/Win/AEMForms-6.3.0-0047_jboss_win.zip">Janelas JBoss</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/jboss/Linux/AEMForms-6.3.0-0047_jboss_linux.tar.gz">JBoss Linux</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/jboss/Solaris/AEMForms-6.3.0-0047_jboss_solaris.tar.gz">JBoss Solaris </a>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/weblogic/Win/AEMForms-6.3.0-0047_weblogic_win.zip">WebLogic Windows</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/weblogic/solaris/AEMForms-6.3.0-0047_weblogic_solaris.tar.gz">WebLogic Solaris</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/weblogic/Linux/AEMForms-6.3.0-0047_weblogic_linux.tar.gz">WebLogic Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/WebSphere/win/AEMForms-6.3.0-0047_websphere_win.zip">WebSphere Windows</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/WebSphere/Linux/AEMForms-6.3.0-0047_websphere_linux.tar.gz">WebSphere Linux</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/WebSphere/Solaris/AEMForms-6.3.0-0047_websphere_solaris.tar.gz">WebSphere Solaris</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/WebSphere/AIX/AEMForms-6.3.0-0047_websphere_aix.tar.gz">WebSphere AIX</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/WebSphere/solaris/AEMForms-6.3.0-0047_websphere_solaris.tar.gz">WebSphere Solaris</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/servicepack/fd/AEMForms-6-3-0-0047/WebSphere/aix/AEMForms-6.3.0-0047_websphere_aix.tar.gz">WebSphere AIX</a></li>
     </ul> </td>
    <td> <p>Instalador do AEM Forms no JEE: AEMForms-6.3.0-0047<br /> </p> </td>
   </tr>
