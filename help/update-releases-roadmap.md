@@ -4,8 +4,8 @@ description: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: bc57d5d74c91ff4af4f14886a1ba2aefb5daed9f
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ O [!DNL Adobe Experience Manager] oferece continuamente novos recursos, melhoria
 
 >[!NOTE]
 >
->As datas abaixo e as atualizações do roteiro disponíveis neste artigo são apenas para informações e estão sujeitas a alterações a qualquer momento.
+>As datas exibidas abaixo, bem como as atualizações de roteiro disponíveis neste artigo, são somente para fins informativos e estão sujeitas a alterações a qualquer momento.
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
