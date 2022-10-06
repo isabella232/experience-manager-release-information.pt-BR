@@ -2,9 +2,9 @@
 title: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 description: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 873914d0df38c13823ad74f660a0191726107e91
+source-git-commit: 910c642b207c0dca1ed51286fd7f99981508e159
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '329'
 ht-degree: 99%
 
 ---
@@ -24,10 +24,8 @@ O [!DNL Adobe Experience Manager] oferece continuamente novos recursos, melhoria
 | Lançamento | Versão | Tipo | Programação |
 |---|---|---|---|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.8.0 | 2022.8.0 | Lançamento de recurso | 1 de setembro de 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.9.0 | 2022.9.0 | Lançamento de recurso | 13 de outubro de 2022 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | Lançamento de recurso | 27 de outubro de 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.11.0 | 2022.11.0 | Lançamento de recurso | 17 de novembro de 2022 |
-| [!DNL Experience Manager] como [!DNL Cloud Service] 2022.11.0 | 2022.12.0 | Lançamento de recurso | 8 de dezembro de 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.11.0 | 2022.12.0 | Lançamento de recurso | 15 de dezembro de 2022 |
 
 Além das versões de recursos, correções críticas de bugs e de segurança são disponibilizadas no [!DNL Experience Manager] as a [!DNL Cloud Service] sob a forma de versões de manutenção, com uma atualização de manutenção correspondente geralmente a cada semana.
 
