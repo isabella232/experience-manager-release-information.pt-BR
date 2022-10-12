@@ -1,12 +1,12 @@
 ---
-title: '"Atualizações de versões do [!DNL Adobe Experience Manager]"'
-description: '"Atualizações de versões do [!DNL Adobe Experience Manager]"'
+title: "Atualizações de versões do [!DNL Adobe Experience Manager]"
+description: "Atualizações de versões do [!DNL Adobe Experience Manager]"
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: 9da699a3337991afc277bfb774c2538f1b4dc320
-workflow-type: ht
-source-wordcount: '314'
-ht-degree: 100%
+source-git-commit: fddac7650badf6d04d9da72893196431e246250f
+workflow-type: tm+mt
+source-wordcount: '252'
+ht-degree: 85%
 
 ---
 
@@ -22,7 +22,7 @@ Este artigo lista a versão mais recente de cada categoria e direciona você par
 
 O [!DNL Experience Manager] as a [!DNL Cloud Service] segue uma cadência de lançamento mensal. Como resultado, novos recursos são disponibilizados todos os meses como atualizações contínuas para o [!DNL Experience Manager].
 
-Consulte [Notas de versão atuais para [!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=pt-BR) para obter detalhes da versão atual/mais recente. Aqui, você também pode acessar os detalhes de versões anteriores (organizadas cronologicamente).
+Consulte [Notas de versão atuais para [!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=pt-BR) para obter detalhes da versão atual/mais recente. A partir daí, você também pode navegar até os detalhes de versões anteriores (organizadas cronologicamente).
 
 ## [!DNL Experience Manager] no local e managed services {#aem-on-prem-managed-services}
 
@@ -32,11 +32,7 @@ Para ofertas do Managed Services e no local, o artigo lista a versão mais recen
 
 As atualizações de produtos do [!DNL Experience Manager] 6.5 são fornecidas por meio de Service Packs trimestrais. Eles incluem novos recursos, melhorias e correções de bugs.
 
-* [[!DNL Experience Manager] 6.5 Service Pack 11](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=pt-BR)
-
-* [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=pt-BR)
-
-Para obter a lista dos recursos introduzidos, consulte [novidades no [!DNL Experience Manager] 6.5 Service Packs](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/new-features-latest-service-pack.html?lang=pt-BR).
+Consulte [[!DNL Experience Manager] 6.5 Pacote de recursos mais recente](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=pt-BR) para obter detalhes sobre a versão atual/mais recente. A partir daí, você também pode navegar até os detalhes de versões anteriores (organizadas cronologicamente).
 
 ### [!DNL Experience Manager] 6.4 {#aem-64}
 
@@ -47,20 +43,3 @@ As atualizações de produtos do [!DNL Experience Manager] 6.4 são fornecidas p
 * [[!DNL Experience Manager] 6.4 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=pt-BR)
 
 * [[!DNL Experience Manager] 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/release-notes.html?lang=pt-BR)
-
-### [!DNL Experience Manager] 6.3 {#aem-63}
-
-* [[!DNL Experience Manager] 6.3 Service Pack 3 Cumulative Fix Pack 8](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/release-notes-aem-6-3-cumulative-fix-pack.html?lang=pt-BR)
-
-* [[!DNL Experience Manager] 6.3 Service Pack 3](https://helpx.adobe.com/br/experience-manager/6-3/release-notes/sp3-release-notes.html)
-
-* [[!DNL Experience Manager] 6.3](https://helpx.adobe.com/br/experience-manager/6-3/release-notes.html)
-
-### [!DNL Experience Manager] 6.2 {#aem-62}
-
-<!-- TBD: This content will soon be archived and new links can move to aem-previous-versions.md article. See status in UGP-1894.
--->
-
-* [Experience Manager 6.2 Service Pack 1 Cumulative Fix Pack 20](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/release-notes-aem-6-2-cumulative-fix-pack.html?lang=pt-BR#previous-updates)
-* [Experience Manager 6.2 Service Pack 1](https://helpx.adobe.com/br/experience-manager/6-2/release-notes/sp1.html)
-* [Experience Manager 6.2](https://helpx.adobe.com/br/experience-manager/6-2/release-notes.html)
