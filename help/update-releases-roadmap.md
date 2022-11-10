@@ -2,10 +2,10 @@
 title: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 description: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 51fc4b266f80c4dd15a5f3241aa97ff178c07070
+source-git-commit: 2b1db318447c7de771ac734403c59c69f1163f0a
 workflow-type: tm+mt
-source-wordcount: '352'
-ht-degree: 98%
+source-wordcount: '346'
+ht-degree: 97%
 
 ---
 
@@ -24,8 +24,7 @@ O [!DNL Adobe Experience Manager] oferece continuamente novos recursos, melhoria
 | Lançamento | Versão | Tipo | Programação |
 |---|---|---|---|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | Lançamento de recurso | 10 de novembro de 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.12.0 | 2022.12.0 | Lançamento de recurso | 15 de dezembro de 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.1.0 | 2023.1.0 | Lançamento de recurso | 23 de janeiro de 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.1.0 | 2023.1.0 | Lançamento de recurso | 26 de janeiro de 2023 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | 2023.2.0 | Lançamento de recurso | 23 de fevereiro de 2023 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.3.0 | 2023.3.0 | Lançamento de recurso | 30 de março de 2023 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | Lançamento de recurso | 27 de abril de 2023 |
