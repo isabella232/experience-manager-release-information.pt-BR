@@ -1,21 +1,21 @@
 ---
-title: Baixe versões anteriores da documentação de AEM, CQ e CRX
-description: Baixe pacotes de documentação para versões mais antigas do Adobe Experience Manager, CQ e CRX.
+title: Baixe versões anteriores da documentação do AEM, CQ e CRX
+description: Baixe pacotes de documentação referentes a versões anteriores do Adobe Experience Manager, CQ e CRX.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: bb959aa724d80a0c66ec0922214206809ea68904
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '836'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
-# Versões anteriores de [!DNL Adobe Experience Manager], CQ e documentação do CRX {#older-versions-aem-cq-crx}
+# Documentação das versões anteriores do [!DNL Adobe Experience Manager], CQ e CRX {#older-versions-aem-cq-crx}
 
-Encontre guias de ajuda anteriores para versões anteriores do AEM, CQ e CRX.
+Encontre guias de ajuda para versões anteriores do AEM, CQ e CRX.
 
 ## Documentação de versões anteriores do [!DNL Experience Manager] {#older-version-aem-documentation}
 
-As versões de [!DNL Adobe Experience Manager]O , o CQ e o CRX listados nesta página são Fim da vida útil e não são mais vendidos oficialmente pelo Adobe. As versões mais recentes da documentação oficial referente às versões anteriores estão disponíveis para suas necessidades de autoajuda. Recomendamos a atualização para a versão mais recente do - [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=pt-BR).
+As versões do [!DNL Adobe Experience Manager], CQ e CRX listadas nesta página atingiram o fim de vida útil e não são mais vendidas oficialmente pela Adobe. As versões mais recentes da documentação oficial referente às versões anteriores estão disponíveis para suas necessidades de autoatendimento. Recomendamos a atualização para a versão mais recente do - [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=pt-BR).
 
 >[!NOTE]
 >
