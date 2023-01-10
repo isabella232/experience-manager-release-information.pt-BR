@@ -2,9 +2,9 @@
 title: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 description: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 9925f351b2a2c379ee0ba31c360d553e6902adcf
+source-git-commit: c5de5f12b4358d647c468a4a910f38dbe6c3d9b4
 workflow-type: ht
-source-wordcount: '377'
+source-wordcount: '346'
 ht-degree: 100%
 
 ---
@@ -31,16 +31,6 @@ O [!DNL Adobe Experience Manager] oferece continuamente novos recursos, melhoria
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.5.0 | 2023.5.0 | Lançamento de recurso | 25 de maio de 2023 |
 
 Além das versões de recursos, correções críticas de bugs e de segurança são disponibilizadas no [!DNL Experience Manager] as a [!DNL Cloud Service] sob a forma de versões de manutenção, com uma atualização de manutenção correspondente geralmente a cada semana.
-
->[!CAUTION]
->
->**Período de wxclusão de manutenção planejada**
->
-> Nenhuma manutenção automática do AEMaaCS será executada durante os seguintes períodos de tempo, começando e terminando à meia-noite (00:00) CET:
->
->* de segunda-feira, 21 de novembro até segunda-feira, 12 de dezembro
->* de segunda-feira, 19 de dezembro até terça-feira, 3 de janeiro
-
 
 ## [!DNL Experience Manager] no local e managed services {#aem-on-prem-managed-services}
 
