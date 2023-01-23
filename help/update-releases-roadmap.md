@@ -2,10 +2,10 @@
 title: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 description: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: c5de5f12b4358d647c468a4a910f38dbe6c3d9b4
+source-git-commit: ea146055aa89a8b69511fe0175c7a2bdac13be64
 workflow-type: tm+mt
 source-wordcount: '346'
-ht-degree: 100%
+ht-degree: 80%
 
 ---
 
@@ -19,18 +19,18 @@ O [!DNL Adobe Experience Manager] oferece continuamente novos recursos, melhoria
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=pt-BR) geralmente segue uma cadência de lançamento mensal para novos recursos. Os próximos lançamentos de recursos do [!DNL Experience Manager] as a [!DNL Cloud Service] estão planejados da seguinte forma.
+[[!DNL Experience Manager] como [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=pt-BR) O geralmente é direcionado a uma cadência de lançamento mensal para novos recursos. As próximas ativações de recursos para [!DNL Experience Manager] como [!DNL Cloud Service]s estão planejados da seguinte maneira.
 
 | Lançamento | Versão | Tipo | Programação |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | Lançamento de recurso | 10 de novembro de 2022 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.1.0 | 2023.1.0 | Lançamento de recurso | 26 de janeiro de 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | 2023.2.0 | Lançamento de recurso | 23 de fevereiro de 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.3.0 | 2023.3.0 | Lançamento de recurso | 30 de março de 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | Lançamento de recurso | 27 de abril de 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.5.0 | 2023.5.0 | Lançamento de recurso | 25 de maio de 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | Ativação de recursos | 10 de novembro de 2022 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.1.0 | 2023.1.0 | Ativação de recursos | 25 de janeiro de 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | 2023.2.0 | Ativação de recursos | 23 de fevereiro de 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.3.0 | 2023.3.0 | Ativação de recursos | 30 de março de 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | Ativação de recursos | 27 de abril de 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.5.0 | 2023.5.0 | Ativação de recursos | 25 de maio de 2023 |
 
-Além das versões de recursos, correções críticas de bugs e de segurança são disponibilizadas no [!DNL Experience Manager] as a [!DNL Cloud Service] sob a forma de versões de manutenção, com uma atualização de manutenção correspondente geralmente a cada semana.
+Além das versões de recursos, correções críticas de bugs e de segurança são disponibilizadas em [!DNL Experience Manager] como [!DNL Cloud Service] na forma de versões de manutenção, com uma atualização de manutenção correspondente geralmente ocorrendo em uma frequência mais alta.
 
 ## [!DNL Experience Manager] no local e managed services {#aem-on-prem-managed-services}
 
