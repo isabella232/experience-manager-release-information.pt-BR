@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 297629d471c0c3ac6a13015d3eac1594732837d6
 workflow-type: tm+mt
 source-wordcount: '346'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ O [!DNL Adobe Experience Manager] oferece continuamente novos recursos, melhoria
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] como [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=pt-BR) O geralmente é direcionado a uma cadência de lançamento mensal para novos recursos. As próximas ativações de recursos para [!DNL Experience Manager] como [!DNL Cloud Service]s estão planejados da seguinte maneira.
+O [[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=pt-BR) geralmente tenta seguir um cronograma de lançamento mensal para novos recursos. As próximas ativações de recursos do [!DNL Experience Manager] as a [!DNL Cloud Service] estão planejadas da seguinte forma.
 
 | Lançamento | Versão | Tipo | Programação |
 |---|---|---|---|
@@ -30,7 +30,7 @@ O [!DNL Adobe Experience Manager] oferece continuamente novos recursos, melhoria
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | Ativação de recursos | 27 de abril de 2023 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.5.0 | 2023.5.0 | Ativação de recursos | 25 de maio de 2023 |
 
-Além das versões de recursos, correções críticas de bugs e de segurança são disponibilizadas em [!DNL Experience Manager] como [!DNL Cloud Service] na forma de versões de manutenção, com uma atualização de manutenção correspondente geralmente ocorrendo em uma frequência mais alta.
+Além do lançamento de recursos, correções de erros críticos e de segurança são disponibilizadas no [!DNL Experience Manager] as a [!DNL Cloud Service] por meio de versões de manutenção, com uma atualização de manutenção correspondente geralmente ocorrendo com mais frequência.
 
 ## [!DNL Experience Manager] no local e managed services {#aem-on-prem-managed-services}
 
