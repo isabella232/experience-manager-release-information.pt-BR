@@ -2,10 +2,10 @@
 title: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 description: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 05652027b9a88d9aa530d25b6a88f75c1646f310
+source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 100%
+source-wordcount: '344'
+ht-degree: 89%
 
 ---
 
@@ -19,7 +19,7 @@ O [!DNL Adobe Experience Manager] oferece continuamente novos recursos, melhoria
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-O [[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=pt-BR) geralmente tenta seguir um cronograma de lançamento mensal para novos recursos. As próximas ativações de recursos do [!DNL Experience Manager] as a [!DNL Cloud Service] estão planejadas da seguinte forma.
+O [[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=pt-BR) geralmente tenta seguir um cronograma de lançamento mensal para novos recursos. As próximas ativações de recursos do [!DNL Experience Manager] as a [!DNL Cloud Service] estão planejadas da seguinte forma.
 
 | Lançamento | Versão | Tipo | Programação |
 |---|---|---|---|
@@ -33,7 +33,7 @@ Além do lançamento de recursos, correções de erros críticos e de segurança
 
 ## [!DNL Experience Manager] no local e Managed Services {#aem-on-prem-managed-services}
 
-As atualizações de produtos em termos de novos recursos, melhorias e correções de bugs para o [!DNL Experience Manager] no local e managed services compatíveis são fornecidas por meio de service packs e Cumulative Fix Packs (CFPs) trimestrais. Isso possibilita uma adoção mais rápida de atualizações de produtos por meio de lançamentos frequentes. A programação para os próximos lançamentos de atualizações de produtos é a seguinte:
+Atualizações de produto em termos de novos recursos, melhorias e correções de erros para os recursos compatíveis [!DNL Experience Manager] no local e o Managed Services são fornecidos por service packs trimestrais e CFPs (Cumulative Fix Packs). Isso possibilita uma adoção mais rápida de atualizações de produtos por meio de lançamentos frequentes. A programação para os próximos lançamentos de atualizações de produtos é a seguinte:
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
@@ -57,7 +57,7 @@ As atualizações de produto do [!DNL Experience Manager] 6.5 são fornecidas po
 >[!MORELIKETHIS]
 >
 >* [Matriz de EOL](https://helpx.adobe.com/br/support/programs/eol-matrix.html)
->* Versões e atualizações do [[!DNL Experience Manager] ](https://helpx.adobe.com/br/experience-manager/aem-releases-updates.html)
+>* Versões e atualizações do [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=en)
 >* Aprendizado e suporte do [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=pt-BR)
 >* Definições dos veículos de lançamentos de atualizações do [[!DNL Experience Manager] ](/help/update-release-vehicle-definitions.md)
 

@@ -2,14 +2,13 @@
 title: Definições dos veículos de lançamentos de atualizações
 description: Este artigo detalha os vários tipos de versões do  [!DNL Experience Manager] , incluindo versões completas, pacotes de recursos e pacotes de serviços.
 contentOwner: AK
-translation-type: ht
-source-git-commit: 11ff4f7d66038a80697afe5f104c560137e130f4
-workflow-type: ht
+exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
+source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
+workflow-type: tm+mt
 source-wordcount: '730'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
-
 
 # [!DNL Experience Manager] Definições dos veículos de lançamentos de atualizações {#update-release-vehicle-definitions}
 
@@ -23,7 +22,7 @@ Este documento inclui detalhes sobre os vários tipos de versões do [!DNL Adobe
 
 | Itens | Descrição |
 |-------|------|
-| Definição | <ul> <li> Lançamento programado </li> <li> Compatível com caminhos de atualizações para versões específicas, que são definidos nas notas de versão </li> </ul> |
+| Definição | <ul> <li> Lançamento programado </li> <li> Suporta caminhos de atualização para versões específicas definidas nas notas de versão </li> </ul> |
 | Nomenclatura | <ul> <li> Os números de versão dos principais lançamentos aumentam com base na fórmula X+1.Y.Z. </li> <li> Os números de versão para lançamentos secundários aumentam com base na fórmula X.Y+1.Z </li> </ul> X é o número da versão primária, Y é o número da versão secundária e Z é o número do patch. |
 | Inclusões | <ul> <li> Novos recursos </li> <li>  Melhorias </li> <li>  Correções de bugs </li> </ul> |
 | Documentação | <ul> <li> As notas de versão estão disponíveis no portal de documentação </li> <li> A documentação sobre recursos, melhorias e correções de bugs está disponível no portal de documentação </li> </ul> |
@@ -78,4 +77,4 @@ Este documento inclui detalhes sobre os vários tipos de versões do [!DNL Adobe
 | Disponibilidade e instalação | <ul> <li>Fornecido pelos Service Packs </li> <li> Disponível na Distribuição de software. Os clientes aceitam os Termos e condições do [!DNL Adobe's] por meio da Distribuição de software. </li> </ul> |
 | Nível de teste | Os pacotes de recursos de Disponibilidade geral são validados pelo Controle de qualidade. |
 
-* 1: As correções de OAK não são fornecidas como hot fixes individuais. No entanto, elas estão incluídas no hot fix do Cumulative Oak subsequente. Se necessário, uma build de diagnóstico, além do COFP mais recente, pode ser disponibilizada. A condição prévia é que o cliente tenha o COFP mais recente em execução. As builds de diagnóstico somente fornecem o mesmo nível de controle de qualidade que um hot fix. Portanto, elas não fornecem o mesmo nível de controle de qualidade de um cumulative fix pack, service pack ou versão do produto. A correção final é fornecida com o próximo CFP.
+* 1: Correções do Oak não são entregues como hot fixes individuais. No entanto, elas estão incluídas no hot fix do Cumulative Oak subsequente. Se necessário, uma build de diagnóstico, além do COFP mais recente, pode ser disponibilizada. A condição prévia é que o cliente tenha o COFP mais recente em execução. As builds de diagnóstico somente fornecem o mesmo nível de controle de qualidade que um hot fix. Portanto, elas não fornecem tanta garantia de qualidade quanto um fix pack cumulativo, service pack ou lançamento de produto. A correção final é fornecida com o próximo CFP.

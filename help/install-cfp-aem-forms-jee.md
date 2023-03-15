@@ -3,10 +3,10 @@ title: Instalação de Cumulative Fix Packs no AEM Forms JEE
 description: Resumo das etapas para instalar e configurar o Cumulative Fix Pack (CFP) no AEM Forms JEE
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: d0fc94d3b8eba65fe9829245724632b1f2f8214f
-workflow-type: ht
+source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
+workflow-type: tm+mt
 source-wordcount: '910'
-ht-degree: 100%
+ht-degree: 77%
 
 ---
 
@@ -14,22 +14,22 @@ ht-degree: 100%
 
 ## Instalar o CFP no AEM 6.3 [!DNL Forms JEE] {#install-cfp-forms-6-3}
 
-Execute as seguintes etapas, na sequência especificada, para instalar o Cumulative Fix Pack no AEM 6.3 [!DNL Forms JEE].
+Para instalar o pacote de correções cumulativas no AEM 6.3 [!DNL Forms JEE], execute a seguinte sequência de etapas.
 
-1. Entre em contato com o [Suporte da Adobe](https://www.adobe.com/account/sign-in.supportportal.html) para obter o instalador do AEM 6.3 [!DNL Forms JEE] para o CFP.
+1. Para obter a AEM 6.3 [!DNL Forms JEE] instalador do CFP, entre em contato com [Suporte a Adobe](https://experienceleague.adobe.com/?support-solution=General&amp;support-tab=home#support).
 1. Execute o instalador do CFP e configure o AEM [!DNL Forms JEE] conforme descrito em [Instalar e configurar o AEM [!DNL Forms JEE]](#install-and-configure-aem-forms-jee).
 1. Instale o AEM CFP 6.3.3.x mais recente.
 1. Instale o pacote complementar do [!DNL Forms] para o AEM CFP [6.3.3.x](aem-forms-releases.md)
 
 ### Instalar pacote do AEM [!DNL Forms JEE]  {#install-aem-forms-jee-bundles-package}
 
-O pacote do AEM [!DNL  Forms JEE] (aemfd-jee-bundles-package-6.3CFP1; versão 1.0.2) fornece ao usuário do [!DNL Forms] no AEM [!DNL Forms JEE] os mesmos direitos e recursos do AEM [!DNL Forms OSGi]. Verifique os pacotes instalados no Gerenciador de pacotes e instale o pacote se ele ainda não estiver instalado.
+AEM [!DNL  Forms JEE] pacote (aemfd-jee-bundles-package-6.3CFP1; versão 1.0.2) fornece [!DNL Forms] Usuário no AEM [!DNL Forms JEE] os mesmos direitos e recursos que o AEM [!DNL Forms OSGi]. Verifique os pacotes instalados no Gerenciador de pacotes e instale o pacote se ele ainda não estiver instalado.
 
 ### Instruções adicionais para o CQ-4208044 {#additional-instructions-for-cq}
 
 Se estiver utilizando o servidor do AEM 6.3 [!DNL Forms JEE] com o banco de dados do Oracle, defina as seguintes configurações após a implantação do CFP1, ou seja, depois que o Gerenciador de configurações for executado. Essa configuração é necessária para sincronizar usuários, grupos e membros de grupo quando a sincronização do domínio corporativo for executada.
 
-1. Faça logon na interface do usuário do **Administrador**.
+1. Faça logon no **Administrador** IU.
 1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Gerenciamento de usuários]** > **[!UICONTROL Configuração]** > **[!UICONTROL Importar e exportar arquivo de configuração]**
 1. Exporte o arquivo config.xml.
 1. Altere a entrada para &quot; `groupMemberDBQueryBatchSize`&quot; em suas configurações de domínio em *config.xml*. Exemplo de entrada::
@@ -40,9 +40,9 @@ Se estiver utilizando o servidor do AEM 6.3 [!DNL Forms JEE] com o banco de dado
 
 ## Instalar o CFP no AEM 6.2 [!DNL  Forms JEE] {#install-cfp-on-aem-62-forms-jee}
 
-Execute as seguintes etapas, na sequência especificada, para instalar o Cumulative Fix Pack no AEM 6.2 [!DNL Forms JEE].
+Para instalar o pacote de correções cumulativas no AEM 6.2 [!DNL Forms JEE], execute a seguinte sequência de etapas.
 
-1. Entre em contato com o [Suporte da Adobe](https://www.adobe.com/account/sign-in.supportportal.html) para obter o instalador do AEM 6.2 [!DNL Forms JEE] para o CFP.
+1. Para obter a AEM 6.2 [!DNL Forms JEE] instalador do CFP, entre em contato com [Suporte a Adobe](https://experienceleague.adobe.com/?support-solution=General&amp;support-tab=home#support).
 1. Execute o instalador do CFP e configure o AEM [!DNL Forms JEE] conforme descrito em [Instalar e configurar o AEM [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee).
 1. Instale o AEM Hotfix 12785 versão 7.0.
 1. Instale o AEM 6.2 Service Pack 1.
@@ -51,7 +51,7 @@ Execute as seguintes etapas, na sequência especificada, para instalar o Cumulat
 
 ### Instalar pacote do AEM [!DNL Forms JEE]  {#install-aem-forms-jee-bundles-package-1}
 
-O Pacote do AEM Forms JEE (aemfd-jee-bundles-package-6.2CFP5; versão 1.0.2) fornece ao [!DNL Forms] Usuário no AEM [!DNL Forms JEE] os mesmos direitos e recursos do AEM [!DNL Forms OSGi]. Verifique os pacotes instalados no Gerenciador de pacotes e instale o pacote se ele ainda não estiver instalado.
+Pacote AEM Forms JEE (aemfd-jee-bundles-package-6.2CFP5; versão 1.0.2) fornece [!DNL Forms] Usuário no AEM [!DNL Forms JEE] os mesmos direitos e recursos que o AEM [!DNL Forms OSGi]. Verifique os pacotes instalados no Gerenciador de pacotes e instale o pacote se ele ainda não estiver instalado.
 
 ### Configuração de tempo limite para operações no nível do componente (NPR-16774) {#configuring-timeout-for-operations-at-component-level-npr}
 
@@ -59,7 +59,7 @@ O Pacote do AEM Forms JEE (aemfd-jee-bundles-package-6.2CFP5; versão 1.0.2) for
 >
 >Após o AEM 6.2 CFP4, é possível usar as seguintes instruções para configurar o tempo limite para operações de DSC, caso surjam problemas de tempo limite durante o processo de atualização.
 
-A implantação do DSC leva um tempo variável, o que pode acarretar falha. Para alterar o tempo limite de operações de DSC, como Instalar, Carregar, Iniciar e Parar, é necessário definir o `adobe.component.registry.timeout` utilizando o argumento JVM com a opção -D.
+A implantação do DSC leva um tempo variável, o que pode acarretar falha. Para alterar o tempo limite das operações do DSC, como Instalar, Carregar, Iniciar e Parar, você deve definir a variável `adobe.component.registry.timeout` usando o argumento da JVM com a opção -D.
 
 Especifique o valor da chave em segundos. Por exemplo: `-Dadobe.component.registry.timeout=300`
 
@@ -85,7 +85,7 @@ Use os seguintes comandos para definir o tempo limite no nível do componente:
 
    set `"JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`&quot;
 
-1. Para definir `DSC operations` como carregar, instalar etc. para 600 segundos, use:
+1. Para definir a variável `DSC operations`, como carregar e instalar, até 600 segundos, use:
 
    set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
 
@@ -109,13 +109,13 @@ Use os seguintes comandos para definir o tempo limite no nível do componente:
    * aemforms62_cfp_install.exe **(AEM [!DNL Forms] 6.2**)
    * aemforms61_cfp_install.exe (**AEM [!DNL Forms] 6.1**)
 
-   **Linux, Solaris, AIX**
+   **Linux®, Solaris™, AIX®**
 
    Navegue até o diretório apropriado:
 
-   * (Linux): Disk1/InstData/Linux/ NoVM
-   * (Solaris): Disk1/InstData/Solaris/ NoVM
-   * (AIX): Disk1/InstData/AIX/VM
+   * (Linux®): Disk1/InstData/Linux/ NoVM
+   * (Solaris™): Disk1/InstData/Solaris/ NoVM
+   * (AIX®): Disk1/InstData/AIX/VM
 
    Em um prompt de comando, digite:
 
@@ -123,10 +123,10 @@ Use os seguintes comandos para definir o tempo limite no nível do componente:
    * ./aemforms62_cfp_install.bin (**AEM [!DNL Forms] 6.2**)
    * ./aemforms61_cfp_install.bin (**AEM [!DNL Forms] 6.1**)
 
-   Isso inicia um assistente de instalação que o guiará durante a instalação.
+   O Assistente de instalação é iniciado para orientá-lo durante a instalação.
 
 1. No painel de Introdução, clique em **[!UICONTROL Próximo]**.
-1. Na tela Escolher pasta de instalação, verifique se o local padrão exibido está correto para sua instalação existente, ou clique em **[!UICONTROL Procurar]** para selecionar a pasta alternativa em que o AEM [!DNL Forms] está instalado no momento. Clique em **[!UICONTROL Próximo]**.
+1. Na tela Escolher pasta de instalação, verifique se o local padrão exibido está correto para a instalação existente ou clique em **[!UICONTROL Procurar]** para selecionar a pasta alternativa em que AEM [!DNL Forms] está instalado e clique em **[!UICONTROL Próximo]**.
 1. Leia as informações no Resumo de correção rápida e clique em **[!UICONTROL Próximo]**.
 1. Leia as informações no Resumo de pré-instalação e clique em **[!UICONTROL Instalar]**.
 1. Quando a instalação estiver concluída, clique em **[!UICONTROL Próximo]** para aplicar as atualizações de correção rápida aos arquivos instalados.
@@ -138,8 +138,8 @@ Use os seguintes comandos para definir o tempo limite no nível do componente:
 
    Para o AEM [!DNL Forms] 6.3, consulte:
 
-   * Instalação e implantação do AEM [!DNL Forms] para JBoss
-   * Instalação e implantação do AEM [!DNL Forms] para WebSphere
+   * Instalação e implantação do AEM [!DNL Forms] para JBoss®
+   * Instalação e implantação do AEM [!DNL Forms] para WebSphere®
    * Instalação e implantação do AEM [!DNL Forms] para WebLogic
 
 1. Reinicie o servidor do AEM [!DNL Forms] JEE.
