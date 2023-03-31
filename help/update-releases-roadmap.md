@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 537a8fdea84c0bf14a53b37aeb1c7324b53752a4
 workflow-type: tm+mt
 source-wordcount: '344'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ Além do lançamento de recursos, correções de erros críticos e de segurança
 
 ## [!DNL Experience Manager] no local e Managed Services {#aem-on-prem-managed-services}
 
-Atualizações de produto em termos de novos recursos, melhorias e correções de erros para os recursos compatíveis [!DNL Experience Manager] no local e o Managed Services são fornecidos por service packs trimestrais e CFPs (Cumulative Fix Packs). Isso possibilita uma adoção mais rápida de atualizações de produtos por meio de lançamentos frequentes. A programação para os próximos lançamentos de atualizações de produtos é a seguinte:
+As atualizações de produtos, em termos de novos recursos, melhorias e correções de erros para versões compatíveis do [!DNL Experience Manager] no local e Managed Services, são fornecidas por meio de pacotes de serviço e Pacotes de correções cumulativos (CFPs) trimestrais. Isso possibilita uma adoção mais rápida de atualizações de produtos por meio de lançamentos frequentes. A programação para os próximos lançamentos de atualizações de produtos é a seguinte:
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
@@ -57,7 +57,7 @@ As atualizações de produto do [!DNL Experience Manager] 6.5 são fornecidas po
 >[!MORELIKETHIS]
 >
 >* [Matriz de EOL](https://helpx.adobe.com/br/support/programs/eol-matrix.html)
->* Versões e atualizações do [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=en)
+>* Versões e atualizações do [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=pt-BR)
 >* Aprendizado e suporte do [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=pt-BR)
 >* Definições dos veículos de lançamentos de atualizações do [[!DNL Experience Manager] ](/help/update-release-vehicle-definitions.md)
 
