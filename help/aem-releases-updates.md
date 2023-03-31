@@ -4,9 +4,9 @@ description: "Atualizações de versões do [!DNL Adobe Experience Manager]"
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
 source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '254'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -22,17 +22,17 @@ Este artigo lista a versão mais recente de cada categoria e direciona você par
 
 O [!DNL Experience Manager] as a [!DNL Cloud Service] segue uma cadência de lançamento mensal. Como resultado, novos recursos são disponibilizados todos os meses como atualizações contínuas para o [!DNL Experience Manager].
 
-Consulte [Notas de versão atuais para [!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=pt-BR) para obter detalhes da versão atual/mais recente. A partir daí, você também pode navegar até detalhes de versões anteriores (organizadas cronologicamente).
+Consulte [Notas de versão atuais para [!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=pt-BR) para obter detalhes da versão atual/mais recente. Nessa página, você também pode acessar os detalhes de versões anteriores (organizadas cronologicamente).
 
 ## [!DNL Experience Manager] no local e Managed Services {#aem-on-prem-managed-services}
 
-Para ofertas do Managed Services e no local, o artigo lista a versão mais recente do Cumulative Fix Pack, a versão mais recente do Service Pack e a versão principal, e direciona você para a documentação dessas versões. [!DNL Adobe] O recomenda que você revise e aplique o service pack mais recente, seguido pelo fix pack cumulativo mais recente para seu [!DNL Experience Manager] para manter sua implantação estável, segura e atualizada.
+Para ofertas do Managed Services e no local, o artigo lista a versão mais recente do Pacote de correções cumulativo, a versão mais recente do Pacote de serviços e a versão principal, e direciona você para a documentação dessas versões. A [!DNL Adobe] recomenda a análise e aplicação do pacote de serviços e do pacote de correções cumulativo mais recentes para a sua versão do [!DNL Experience Manager], a fim de manter a implantação estável, segura e atualizada.
 
 ### [!DNL Experience Manager] 6.5 {#aem-65}
 
 As atualizações de produtos do [!DNL Experience Manager] 6.5 são fornecidas por meio de Service Packs trimestrais. Eles incluem novos recursos, melhorias e correções de bugs.
 
-Consulte [[!DNL Experience Manager] Pacote de recursos mais recente (6.5)](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=pt-BR) para obter detalhes sobre a versão atual/mais recente. A partir daí, você também pode navegar até detalhes de versões anteriores (organizadas cronologicamente).
+Consulte [[!DNL Experience Manager] Pacote de recursos mais recente (6.5)](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=pt-BR) para obter detalhes sobre a versão atual/mais recente. Nessa página, você também pode acessar os detalhes de versões anteriores (organizadas cronologicamente).
 
 ### [!DNL Experience Manager] 6.4 {#aem-64}
 
