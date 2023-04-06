@@ -2,7 +2,7 @@
 title: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 description: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 537a8fdea84c0bf14a53b37aeb1c7324b53752a4
+source-git-commit: 8385c8100d38b82a44fc2ca891a6dbda710a4307
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 100%
@@ -25,7 +25,7 @@ O [[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague
 |---|---|---|---|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | Ativação de recursos | 10 de novembro de 2022 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.1.0 | 2023.1.0 | Ativação de recursos | 9 de fevereiro de 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | 2023.2.0 | Ativação de recursos | 6 de abril de 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | 2023.2.0 | Ativação de recursos | 12 de abril de 2023 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | Ativação de recursos | 27 de abril de 2023 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.5.0 | 2023.5.0 | Ativação de recursos | 25 de maio de 2023 |
 
