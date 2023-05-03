@@ -3,9 +3,9 @@ title: "Atualizações de versões do [!DNL Adobe Experience Manager]"
 description: "Atualizações de versões do [!DNL Adobe Experience Manager]"
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
-workflow-type: ht
-source-wordcount: '254'
+source-git-commit: 3d078becd3165d77bb027c4d8aec040e1cf01932
+workflow-type: tm+mt
+source-wordcount: '207'
 ht-degree: 100%
 
 ---
@@ -20,7 +20,7 @@ Este artigo lista a versão mais recente de cada categoria e direciona você par
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-O [!DNL Experience Manager] as a [!DNL Cloud Service] segue uma cadência de lançamento mensal. Como resultado, novos recursos são disponibilizados todos os meses como atualizações contínuas para o [!DNL Experience Manager].
+ O [!DNL Experience Manager]as a[!DNL Cloud Service] geralmente tenta seguir um cronograma de lançamento mensal para novos recursos.
 
 Consulte [Notas de versão atuais para [!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=pt-BR) para obter detalhes da versão atual/mais recente. Nessa página, você também pode acessar os detalhes de versões anteriores (organizadas cronologicamente).
 
@@ -33,13 +33,3 @@ Para ofertas do Managed Services e no local, o artigo lista a versão mais recen
 As atualizações de produtos do [!DNL Experience Manager] 6.5 são fornecidas por meio de Service Packs trimestrais. Eles incluem novos recursos, melhorias e correções de bugs.
 
 Consulte [[!DNL Experience Manager] Pacote de recursos mais recente (6.5)](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=pt-BR) para obter detalhes sobre a versão atual/mais recente. Nessa página, você também pode acessar os detalhes de versões anteriores (organizadas cronologicamente).
-
-### [!DNL Experience Manager] 6.4 {#aem-64}
-
-As atualizações de produtos do [!DNL Experience Manager] 6.4 são fornecidas por meio de CFPs trimestrais. Eles incluem correções de bugs.
-
-* [[!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=pt-BR)
-
-* [[!DNL Experience Manager] 6.4 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=pt-BR)
-
-* [[!DNL Experience Manager] 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/release-notes.html?lang=pt-BR)
