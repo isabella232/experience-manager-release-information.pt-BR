@@ -3,7 +3,7 @@ title: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 description: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 0e41c3ca0192478b2e98ecbd6dd90fcbff226ba9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '328'
 ht-degree: 100%
 
@@ -50,7 +50,7 @@ As atualizações de produto do [!DNL Experience Manager] 6.5 são fornecidas po
 
 >[!NOTE]
 >
->O [!DNL Experience Manager] Forms lança os pacotes complementares uma semana após a data programada de lançamento do [!DNL Experience Manager] Service Pack.
+>O [!DNL Experience Manager] Forms lança os pacotes complementares uma semana após a data programada de lançamento do Pacote de serviços do [!DNL Experience Manager].
 
 >[!MORELIKETHIS]
 >
