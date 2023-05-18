@@ -4,9 +4,9 @@ description: Esta página lista as alterações e atualizações importantes mai
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: 892e95b3e6aadd854900dfca8b5974e86120a765
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1467'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -26,12 +26,12 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
    <tr>
    <td>12 de dezembro de 2019</td> 
    <td>Pré-visualização de ativos 3D<br /> </td> 
-   <td><p>O AEM é compatível com o upload, entrega e pré-visualização interativa de ativos 3D como parte do processo de criação. O visualizador 3D interativo está disponível na página de detalhes do ativo no AEM. O visualizador inclui, entre outras coisas, uma coleção de controles interativos de câmera que permitem que você orbite, amplie e desloque o ativo 3D.</p> <p>Consulte <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/previewing-3d-assets.html?lang=pt-BR" target="_blank">Pré-visualização de ativos 3D</a>.</p> </td> 
+   <td><p>O AEM é compatível com o upload, entrega e pré-visualização interativa de ativos 3D como parte do processo de criação. O visualizador 3D interativo está disponível na página de detalhes do ativo no AEM. O visualizador inclui, entre outras coisas, uma coleção de controles de câmera interativos que permitem girar, aplicar zoom e deslocar o ativo 3D.</p> <p>Consulte <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/previewing-3d-assets.html?lang=pt-BR" target="_blank">Pré-visualização de ativos 3D</a>.</p> </td> 
   </tr>
   <tr>
    <td>12 de dezembro de 2019</td> 
    <td>AEM 6.5 Service Pack 3<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.3.html?lang=pt-BR">AEM 6.5 Service Pack 3</a> está disponível.</td> 
+   <td>O <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.3.html?lang=pt-BR">AEM 6.5 Service Pack 3</a> está disponível.</td> 
   </tr>
   <tr>
    <td>5 de dezembro de 2019</td> 
@@ -46,12 +46,12 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>18 de outubro de 2019<br /> </td> 
    <td>Arquétipo de projeto do AEM<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html?lang=pt-BR">O Arquétipo de Projeto AEM</a> O cria de um projeto Adobe Experience Manager baseado em práticas recomendadas como ponto de partida para seus próprios projetos de AEM.<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html?lang=pt-BR">O Arquétipo de projeto do AEM</a> cria um projeto do Adobe Experience Manager com base em práticas recomendadas como ponto de partida para seus próprios projetos AEM.<br /> </td> 
   </tr>
   <tr>
    <td>18 de outubro de 2019<br /> </td> 
    <td>Gerenciamento de experiência headless<br /> </td> 
-   <td>Recursos da <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/spas/spa-ssr.html?lang=pt-BR#remote-content-renderer">Renderizador de conteúdo remoto</a>, usados para renderização de aplicativos de página única no servidor, foram documentados.<br /> </td> 
+   <td>Os recursos do <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/spas/spa-ssr.html?lang=pt-BR#remote-content-renderer">Renderizador de conteúdo remoto</a>, usados para renderização de aplicativos de página única do lado do servidor, foram documentados.<br /> </td> 
   </tr>
   <tr>
    <td>11 de outubro de 2019</td> 
@@ -61,12 +61,12 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   <tr>
    <td>10 de outubro de 2019</td> 
    <td>Cloud Manager</td> 
-   <td><p>A Versão 2019.10.0 do Cloud Manager foi lançada em 10 de outubro de 2019.</p> <p>Consulte <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/2019/2019-10-0.html?lang=pt-BR">Notas de versão para 2019.10.0</a> que destaca <i>Novidades</i> e atualizações sobre etapas de implantação e manuseio de versão de projeto maven.<br /> </p> </td> 
+   <td><p>A Versão 2019.10.0 do Cloud Manager foi lançada em 10 de outubro de 2019.</p> <p>Consulte <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/2019/2019-10-0.html?lang=pt-BR">Notas de versão de 2019.10.0</a> que destacam as <i>Novidades</i> e as atualizações das etapas de implantação e o processamento da versão do projeto Maven.<br /> </p> </td> 
   </tr>
   <tr>
-   <td>08 de outubro de 2019</td> 
+   <td>8 de outubro de 2019</td> 
    <td>AEM Screens<br /> </td> 
-   <td><p>O AEM Screens lançou o AEM 6.4.6 Feature Pack 6 e o AEM 6.5.2 Feature Pack 2.</p> <p>Consulte <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/release-notes/release-notes-fp-201909.html?lang=pt-BR">Notas de versão do Feature Pack 201909</a> para obter mais detalhes.</p> </td> 
+   <td><p>O AEM Screens lançou o AEM 6.4.6 Feature Pack 6 e o AEM 6.5.2 Feature Pack 2.</p> <p>Consulte as <a href="https://experienceleague.adobe.com/docs/experience-manager-screens/user-guide/release-notes/release-notes-fp-201909.html?lang=pt-BR">Notas de versão do Pacote de recursos 201909</a> para obter mais detalhes.</p> </td> 
   </tr>
   <tr>
    <td>1 de outubro de 2019</td> 
@@ -85,18 +85,18 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   </tr>
   <tr>
    <td>25 de setembro de 2019</td> 
-   <td>Pesquisa no AEM Assets<br /> </td> 
+   <td>Pesquisa de ativos AEM<br /> </td> 
    <td>O conteúdo novo sobre pesquisa e detecção de ativos é um ponto único de informações sobre uso, configuração, solução de problemas, limitações e dicas. Confira os <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/search-assets.html?lang=pt-BR" target="_blank">ativos de pesquisa</a>.</td> 
   </tr>
   <tr>
    <td>25 de setembro de 2019</td> 
-   <td>Scene7: Fluxo de trabalho Reprocessar ativos<br /> </td> 
-   <td><p>Agora é possível reprocessar ativos em uma pasta que já tem um perfil de processamento existente que você alterou posteriormente.</p> <p>Consulte <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/processing-profiles.html?lang=pt-BR#reprocessing-assets" target="_blank">Reprocessamento de ativos em uma pasta</a>.<br /> </p> </td> 
+   <td>Scene7: fluxo de trabalho de reprocessamento de ativos<br /> </td> 
+   <td><p>Agora é possível reprocessar ativos em uma pasta que já tenha um perfil de processamento existente alterado posteriormente.</p> <p>Consulte <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/processing-profiles.html?lang=pt-BR#reprocessing-assets" target="_blank">Reprocessamento de ativos em uma pasta</a>.<br /> </p> </td> 
   </tr>
   <tr>
    <td>25 de setembro de 2019</td> 
    <td>Integração dos visualizadores do Dynamic Media ao Adobe Analytics e ao Adobe Launch</td> 
-   <td><p>A extensão Visualizadores do Dynamic Media para o Adobe Launch, juntamente com o lançamento do Dynamic Media Viewers 5.13, permite que os clientes do Dynamic Media, do Adobe Analytics e do Adobe Launch usem eventos e dados específicos para os Visualizadores do Dynamic Media em suas configurações do Adobe Launch.</p> <p>Consulte a <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/tags.html?lang=pt-BR" target="_blank">integração dos Visualizadores do Dynamic Media com o Adobe Analytics e o Adobe Launch</a>. </p> </td> 
+   <td><p>A extensão Visualizadores do Dynamic Media para o Adobe Launch, juntamente com o lançamento dos Visualizadores do Dynamic Media 5.13, permite que os clientes do Dynamic Media, do Adobe Analytics e do Adobe Launch usem eventos e dados específicos para os Visualizadores do Dynamic Media nas configurações do Adobe Launch.</p> <p>Consulte a <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/tags.html?lang=pt-BR" target="_blank">integração dos Visualizadores do Dynamic Media com o Adobe Analytics e o Adobe Launch</a>. </p> </td> 
   </tr>
   <tr>
    <td>19 de setembro de 2019</td> 
@@ -105,7 +105,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   </tr>
   <tr>
    <td>9 de setembro de 2019</td> 
-   <td>AEM aplicativo de desktop</td> 
+   <td>Aplicativo de desktop do AEM </td> 
    <td>O aplicativo de desktop do AEM v2.0 está disponível publicamente para usuários criativos, profissionais de marketing e de linha de negócios que trabalham com o AEM Assets. Consulte as <a href="https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html?lang=pt-BR" target="_blank">notas de versão</a>.<br /> </td> 
   </tr>
   <tr>
@@ -135,12 +135,12 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   </tr>
   <tr>
    <td>25 de julho de 2019</td> 
-   <td>Funcionalidade do AEM Assets sob licenças de diferença</td> 
+   <td>Funcionalidade do AEM Assets sob licenças diferentes</td> 
    <td>A <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/medialibrary.html?lang=pt-BR" target="_blank">lista de recursos</a> do AEM Assets que estão disponíveis em uma licença DAM independente em comparação ao AEM MediaLibrary é atualizada para a versão do AEM 6.5.<br /> </td> 
   </tr>
   <tr>
    <td>12 de julho de 2019</td> 
-   <td>Upload de arquivos no Dynamic Media Classic</td> 
+   <td>Fazendo upload de arquivos no Dynamic Media Classic</td> 
    <td>O tópico da <a href="https://experienceleague.adobe.com/docs/dynamic-media-classic/using/upload-publish/uploading-files.html?lang=pt-BR#upload-options">caixa de diálogo Fazer upload das opções de trabalho</a> no Dynamic Media Classic foi reescrito e atualizado.</td> 
   </tr>
   <tr>
@@ -149,12 +149,12 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
    <td>Informações e recursos da página de aterrissagem para <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/touch-ui-migration.html?lang=pt-BR#introduction">migrar para a interface habilitada para toque</a>.</td> 
   </tr>
   <tr>
-   <td>03 de julho de 2019</td> 
+   <td>3 de julho de 2019</td> 
    <td>Fragmentos de experiência</td> 
    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/experience-fragments.html?lang=pt-BR#the-experience-fragment-link-rewriter-provider-html">O provedor de regravação do link do fragmento de experiência - HTML</a>.</td> 
   </tr>
   <tr>
-   <td>03 de julho de 2019</td> 
+   <td>3 de julho de 2019</td> 
    <td>AEM 6.5 Service Pack 1</td> 
    <td>O <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.1.html?lang=pt-BR">AEM 6.5 Service Pack 1 (6.5.1.0) </a>está disponível.</td> 
   </tr>
@@ -165,13 +165,13 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   </tr>
   <tr>
    <td>17 de junho de 2019<br /> </td> 
-   <td>Integração AEM Assets e Creative Cloud</td> 
+   <td>Integração do AEM Assets e da Creative Cloud</td> 
    <td>As práticas recomendadas são atualizadas com mapeamento preciso das necessidades dos negócios, a oferta de soluções da Adobe e os casos de uso do cliente. Um infográfico é adicionado para torná-lo visualmente atraente. Consulte <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-cc-integration-best-practices.html?lang=pt-BR" target="_blank">Práticas recomendadas de integração do AEM Creative Cloud</a>.<br /> </td> 
   </tr>
   <tr>
    <td>3 de junho de 2019</td> 
    <td>Rich Text Editor (RTE)<br /> </td> 
-   <td><p>Inclusão de um pacote no <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html" target="_blank">componente de criação multicampo</a>.<br /> </p> <p>Criação de <a href="https://experienceleague.adobe.com/docs/experience-manager-65/administering/introduction/aem-faqs.html?lang=pt-BR" target="_blank">Perguntas frequentes de solução de problemas</a> com base nos comentários dos clientes.</p> </td> 
+   <td><p>Inclusão de um pacote no <a href="https://experience-aem.blogspot.com/2019/05/aem-65-touchui-composite-multifield-with-coral3-rte-rich-text.html?lang=pt-BR" target="_blank">componente de criação multicampo</a>.<br /> </p> <p>Criação de <a href="https://experienceleague.adobe.com/docs/experience-manager-65/administering/introduction/aem-faqs.html?lang=pt-BR" target="_blank">Perguntas frequentes de solução de problemas</a> com base nos comentários dos clientes.</p> </td> 
   </tr>
   <tr>
    <td>31 de maio de 2019</td> 
@@ -180,7 +180,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
   </tr>
   <tr>
    <td>24 de maio de 2019</td> 
-   <td>Status do recurso da interface do usuário de toque no AEM 6.5<br /> </td> 
+   <td>Status do recurso da interface de toque no AEM 6.5<br /> </td> 
    <td>Publicação da página de <a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/touch-ui-features-status.html?lang=pt-BR">status de recurso da interface de toque</a> para o AEM 6.5<br /> </td> 
   </tr>
   <tr>
@@ -214,10 +214,10 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
    <td><p>Os <a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/reference-materials.html?lang=pt-BR">Materiais de referência</a> estão disponíveis incluindo:</p> 
     <ul> 
      <li>API do Adobe AEM 6.5.0</li> 
-     <li>Documentação da API da interface de usuário do Granite (interface habilitada para toque)</li> 
-     <li>Guia de Coral UI</li> 
-     <li>Documentação da API de widgets (interface de usuário clássica)</li> 
-     <li>Estrutura de teste da interface do usuário</li> 
+     <li>Documentação da API da interface do Granite (interface habilitada para toque)</li> 
+     <li>Guia da interface do Coral</li> 
+     <li>Documentação da API de widgets (interface clássica)</li> 
+     <li>Estrutura de teste da interface</li> 
      <li>Referência da API JavaScript</li> 
      <li>Referências da API JavaScript para aplicativos de página única</li> 
     </ul> </td> 
@@ -237,7 +237,7 @@ Esta página lista as alterações e atualizações importantes mais antigas na 
 
 ## Conteúdo herdado {#legacy-content}
 
-A partir de 1º de maio de 2023, as versões anteriores da documentação AEM foram movidas para um novo local em [Versões anteriores do Adobe Experience Manager, CQ e CRX](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR).
+A partir de 1 de maio de 2023, as versões herdadas da documentação do AEM foram movidas para um novo local, em [Versões anteriores do Adobe Experience Manager, CQ e CRX](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=pt-BR).
 
 As seguintes versões foram movidas:
 
