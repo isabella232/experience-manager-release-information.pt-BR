@@ -3,9 +3,9 @@ title: Baixe versões anteriores da documentação do AEM, CQ e CRX
 description: Baixe pacotes de documentação referentes a versões anteriores do Adobe Experience Manager, CQ e CRX.
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: b89be487ab4cc931f51223105fa91bcd9e27384c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '828'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ As versões do [!DNL Adobe Experience Manager], CQ e CRX listadas nesta página 
 Antes de baixar o pacote, determine quem usará o conteúdo. Essa decisão determinará como será a implantação:
 
 * Os desenvolvedores podem instalar localmente para obter uma referência rápida.
-* Para necessidades de documentação organizacional mais amplas, é recomendável que o pacote seja implantado em uma instância do AEM Author de não produção e acessível internamente.
+* Para necessidades de documentação organizacional mais amplas, é recomendável que o pacote seja implantado em uma instância do Autor do AEM de não produção e acessível internamente.
 
 >[!NOTE]
 >
