@@ -3,9 +3,9 @@ title: AEM 6.2 Cumulative Fix Pack
 description: Notas de versão do AEM 6.2 Cumulative Fix Pack.
 exl-id: f1c2d4ff-590b-46b5-b2b1-e2b5141f7cc0
 source-git-commit: 44bb03aeb23c2c44fa037b020c3b9c8eadfa0fb7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '19928'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 100%
 
 ### Cumulative Fix Pack {#cumulative-fix-pack}
 
-A Adobe apresentou um modelo de entrega única para lançar correções. Em vez de lançar hot fixes para problemas individuais, a Adobe agora lança um Cumulative Fix Pack (CFP) mensalmente (sujeito à aprovação em verificações de qualidade). Um CFP é um pacote de conteúdo agregado com várias correções. Os CFPs incluem principalmente correções de erros, mas também podem incluir Pacotes de recursos. Eles têm as seguintes vantagens em relação às versões de hotfixes individuais:
+A Adobe apresentou um modelo de entrega única para lançar correções. Em vez de lançar hot fixes para problemas individuais, a Adobe agora lança um Cumulative Fix Pack (CFP) mensalmente (sujeito à aprovação em verificações de qualidade). Um CFP é um pacote de conteúdo agregado para várias correções. Os CFPs incluem principalmente correções de erros, mas também podem incluir Pacotes de recursos. Eles têm as seguintes vantagens em relação às versões de hotfixes individuais:
 
-* Natureza cumulativa (por exemplo, um CFP contém correções entregues em CFPs anteriores)
+* Natureza cumulativa (por exemplo, um CFP contém correções fornecidas por CFPs anteriores)
 * Maior garantia de qualidade
-* Instalação simplificada (o usuário instala um CFP como pacote único e sem dependências, exceto no caso do pacote de serviço mais recente)
+* Instalação simplificada (o usuário instala um CFP como pacote único e sem dependências, exceto no caso do pacote de serviços mais recente)
 
 Para obter mais informações sobre o CFP e outros tipos de versões, consulte [Veículo de versão de manutenção](https://docs.adobe.com/content/docs/en/aem/6-2/deploy/maintenance-release-vehicle-definitions.html).
 
@@ -209,7 +209,7 @@ Os principais destaques desse Cumulative Fix Pack são:
 
 ### Integração {#integration-2}
 
-* com.day.cq.personalization.impl.BrandsRetriever passa por toda a árvore para coletar as marcas disponíveis. NPR-27060: Hotfix do CQ-4255790
+* com.day.cq.personalization.impl.BrandsRetriever percorre toda a árvore para coletar as marcas disponíveis. NPR-27060: Hotfix do CQ-4255790
 
 ### WCM - Componentes do Foundation {#wcm-foundation-components}
 
@@ -221,7 +221,7 @@ Os principais destaques desse Cumulative Fix Pack são:
 
 ### Granite {#granite-1}
 
-* A Validação de pacote não valida pacotes incluídos no CFP/SP. NPR-26775: Hotfix do Granite-22825
+* O Validador de pacotes não valida pacotes incluídos no CFP/SP. NPR-26775: Hotfix do Granite-22825
 
 ### Replicação {#replication}
 
@@ -510,7 +510,7 @@ Os principais destaques desse Cumulative Fix Pack são:
 ### Interface do usuário {#user-interface-1}
 
 * O uso do Omnisearch para consulta com hífen retorna um erro de servidor. NPR-22999: Hotfix do Granite-19674
-* O DatePicker não suporta a definição manual de dicas de tipo externas definidas por campo oculto. Alterar a dica de tipo aciona um erro de conversão. NPR-23333: Hotfix do Granite-21194
+* DatePicker não dá suporte à dica de tipo externo definida manualmente por campo oculto. A alteração da dica de tipo obtém um erro de conversão. NPR-23333: Hotfix do Granite-21194
 
 ### WCM - Componentes do Foundation {#wcm-foundation-components-2}
 
@@ -622,8 +622,8 @@ Os principais destaques desse Cumulative Fix Pack são:
 ### Integração {#integration-6}
 
 * Tentar classificar ofertas na biblioteca do seletor de ofertas resulta em comportamento irregular. NPR-22208: Hotfix do CQ-4235439
-* O TargetContentImpl deixa o AEM lento durante consultas de longa duração. NPR-22361: Hotfix do CQ-4236907
-* O mecanismo do Target (mbox.js, at.js) não usa URLs danificados e usa URLs que contêm dois pontos, que podem falhar em determinadas implantações. NPR-22366: Hotfix do CQ-4237854
+* TargetContentImpl torna o AEM lento durante consultas de longa execução. NPR-22361: Hotfix do CQ-4236907
+* O mecanismo do Target (mbox.js, at.js) não usa URLs danificados e usa URLs que contêm dois pontos que podem falhar com determinadas implantações. NPR-22366: Hotfix do CQ-4237854
 * A personalização da página exige a publicação diretamente no nó da marca. NPR-22370: Hotfix do CQ-4236895
 
 ### Foundation {#foundation}
@@ -1152,7 +1152,7 @@ Os principais destaques desse Cumulative Fix Pack são:
 ### Ativos {#assets-11}
 
 * Problemas com a aplicação do Filtro Omnisearch em coleções inteligentes no navegador Safari. NPR-19511
-* Os metadados de palavras-chave do PDF não são extraídos e são modificados incorretamente quando há várias palavras-chave associadas a um Ativo PDF. Para solucionar o problema, a propriedade de metadados do campo Assunto foi removida para Ativos PDF. No entanto, é possível editar o esquema de metadados para adicionar um campo de texto de vários valores ao campo Assunto. NPR-19126
+* Os metadados de palavra-chave PDF não são extraídos e modificados corretamente quando há várias palavras-chave associadas a um ativo PDF. Para resolver o problema, a propriedade de metadados do campo Assunto foi removida para Ativos PDF. No entanto, você pode editar o esquema de metadados para adicionar um campo de texto de vários valores para o campo Assunto. NPR-19126
 * O serviço de notificação de fluxos de trabalho não codifica os links no email, o que os impede de carregar depois que os usuários clicam neles. NPR-19490: Hotfix do CQ-4218055
 * Não é possível carregar a lista completa de páginas/ativos na exibição em Coluna usando o Chrome. NPR-19458: Hotfix do CQ-4214248
 * Ícone de Tempo de inatividade incorreto é exibidona caixa de entrada do AEM ao ativar o fluxo de trabalho &quot;Solicitar ativação&quot;. NPR-19365: CQ-4216174
@@ -1257,7 +1257,7 @@ Os principais destaques desse Cumulative Fix Pack são:
 * dc: title e dc: description não são alteradas para um valor de vários campos no crx/de. NPR-18474; Hotfix do CQ-4209086
 * A operação de mover ativos afeta negativamente o desempenho. NPR-18346
 * Nenhum item é exibido na Linha do tempo quando ela é aberta com o conjunto de opções padrão Mostrar tudo. NPR-18302; Hotfix do CQ-4211957
-* Ocorre um erro quando um arquivo de texto ASCII/UTF-8 codificado é carregado no AEM Assets e a geração de miniaturas falha. NPR-18006: CFP do CQ-4209345
+* Ocorre um erro quando um arquivo de texto codificado em ASCII/UTF-8 é carregado para o AEM Assets e a geração de miniaturas falha. NPR-18006: CFP do CQ-4209345
 * Os botões da ação Publicar ficam visíveis mesmo quando o usuário não tem acesso para replicação. NPR-17353; Hotfix do CQ-4209269
 * O Siteadmin e o Miscadmin não funcionam quando a minificação é ativada usando min:gcc;obfuscate=true. NPR-18593; Hotfix do CQ-4209220
 * Os itens de menu personalizados não aparecem até que a tela seja atualizada todas as vezes. NPR-18500; Hotfix do CQ-4213581
@@ -1370,7 +1370,7 @@ Os principais destaques desse Cumulative Fix Pack são:
 * A miniatura do PDF não é gerada. NPR-17831, NPR-17750; Hotfix do CQ-4210547
 * Os ativos expirados não são desativados pelo trabalho de Notificação de expiração do DAM do Adobe CQ. NPR-17666; Hotfix do CQ-107766
 * As atividades de expiração de ativos param se um ativo não tiver um proprietário atribuído. NPR-17665; Hotfix do CQ-4197946
-* Uma exceção de ponteiro nulo é gerada quando uma pasta de ativo com mais de 150 referências recebidas é movida. CQ-4200981
+* Uma exceção de ponteiro nulo é gerada quando uma pasta de ativos com mais de 150 referências recebidas é movida. CQ-4200981
 
 ### Sites {#sites-13}
 
@@ -1434,7 +1434,7 @@ As correções do AEM Forms são entregues por meio de pacotes complementares e 
 
 **Gerenciador do Forms**
 
-* A interface do usuário do AEM Forms lista todos os ativos na ordem mais antiga. Os usuários não podem reordenar os ativos na ordem mais recente. NPR-18451
+* A interface do usuário do AEM Forms lista todos os ativos na primeira ordem mais antiga. Os usuários não podem reordenar os ativos na primeira ordem mais recente. NPR-18451
 
 ### Instalador do Forms JEE  {#forms-jee-installer-14}
 
@@ -1546,7 +1546,7 @@ As correções do AEM Forms são entregues por meio de pacotes complementares e 
 
 **Gerenciamento de processos**
 
-* A variável TaskContext não é preenchida em processos do AEM Forms. CQ-4211857
+* A variável TaskContext não é preenchida para processos AEM Forms. CQ-4211857
 
 #### Pacote do AEM Forms JEE {#aem-forms-jee-bundles-package}
 
@@ -2208,7 +2208,7 @@ Esta seção aborda os requisitos e as etapas para instalar o CFP.
 * O download do Cumulative Fix Pack está disponível em [Distribuição de softwares](https://experience.adobe.com/#/downloads/content/software-distribution/br/aem.html), que está acessível diretamente da instância do AEM.
 * Em uma implantação de cluster usando (RDBMK ou MongoDB), o pacote CFP pode ser instalado em qualquer uma das instâncias do Autor que usa o Gerenciador de pacotes.
 
-* Antes de instalar o Cumulative Fix Pack, verifique se você fez um instantâneo ou um backup da instância do AEM.
+* Antes de instalar o Cumulative Fix Pack, tire um instantâneo ou faça um backup da sua instância do AEM.
 * Não há suporte para a desinstalação do CFP.
 
 ### Instale o CFP via Distribuição de softwares {#install-the-cfp-via-package-share}
@@ -2259,13 +2259,13 @@ O CFP pode ser instalado automaticamente em uma instância em execução das seg
 
 #### Instalar pacote do AEM Forms JEE {#install-aem-forms-jee-bundles-package}
 
-As correções no JEE do AEM Forms são entregues por meio de um instalador separado. Para obter informações sobre como instalar um CFP em AEM Forms no JEE, consulte [Instalação do CFP no AEM Forms JEE](install-cfp-aem-forms-jee.md).
+As correções no AEM Forms JEE são entregues por meio de um instalador separado. Para obter informações sobre como instalar um CFP no AEM Forms no JEE, consulte [Instalação do CFP no AEM Forms JEE](install-cfp-aem-forms-jee.md).
 
 #### Instalador do Designer do Forms {#designer-installer}
 
 1. Para instalar a atualização, execute o arquivo Designer6.2.0_&lt;Language>_Cumulative_QF.msp.
-1. Na tela de Boas vindas, clique em **atualizar**. A instalação é iniciada.
-1. Depois que a instalação for concluída, clique em **concluir**.
+1. Na tela de boas-vindas, clique em **atualizar**. A instalação é iniciada.
+1. Quando a instalação for concluída, clique em **finish**.
 
 ## Parâmetros de tempo limite configuráveis pelo usuário para conexões DTM, Analytics, Target, Search &amp; Promote {#user-configurable-timeout-parameters-for-dtm-analytics-target-search-promote-connections}
 
