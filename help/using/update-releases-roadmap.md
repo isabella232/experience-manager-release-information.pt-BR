@@ -2,10 +2,10 @@
 title: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 description: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
+source-git-commit: b20b313250cb7643c97de1e0a2ed614073665c12
 workflow-type: tm+mt
-source-wordcount: '328'
-ht-degree: 100%
+source-wordcount: '336'
+ht-degree: 87%
 
 ---
 
@@ -21,17 +21,17 @@ O [!DNL Adobe Experience Manager] oferece continuamente novos recursos, melhoria
 
 O [[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=pt-BR) geralmente tenta seguir um cronograma de lançamento mensal para novos recursos. As próximas ativações de recursos do [!DNL Experience Manager] as a [!DNL Cloud Service] estão planejadas da seguinte forma.
 
-| Lançamento | Versão | Tipo | Programação |
+| Versão | Tipo | Programação | Status |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | 2023.2.0 | Ativação de recursos | 12 de abril de 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | Ativação de recursos | 7 de junho de 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.6.0 | 2023.6.0 | Ativação de recursos | 29 de junho de 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.7.0 | 2023.7.0 | Ativação de recursos | 27 de julho de 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.8.0 | 2023.8.0 | Ativação de recursos | 31 de agosto de 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.9.0 | 2023.9.0 | Ativação de recursos | 28 de setembro de 2023 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.10.0 | 2023.10.0 | Ativação de recursos | 26 de outubro de 2023 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | Ativação de recursos | 12 de abril de 2023 | Ativado |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | Ativação de recursos | 7 de junho de 2023 | Ativado |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.6.0 | Ativação de recursos | 29 de junho de 2023 | Destino |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.7.0 | Ativação de recursos | 27 de julho de 2023 | Destino |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.8.0 | Ativação de recursos | 31 de agosto de 2023 | Destino |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.9.0 | Ativação de recursos | 28 de setembro de 2023 | Destino |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.10.0 | Ativação de recursos | 26 de outubro de 2023 | Destino |
 
-Além do lançamento de recursos, correções de erros críticos e de segurança são disponibilizadas no [!DNL Experience Manager] as a [!DNL Cloud Service] por meio de versões de manutenção, com uma atualização de manutenção correspondente geralmente ocorrendo com mais frequência.
+Além das versões de recursos, correções críticas de erros e de segurança são disponibilizadas no [!DNL Experience Manager] as a [!DNL Cloud Service] sob a forma de [versões de manutenção](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html), com uma atualização de manutenção correspondente geralmente ocorrendo com mais frequência.
 
 ## [!DNL Experience Manager] no local e Managed Services {#aem-on-prem-managed-services}
 
@@ -58,4 +58,3 @@ As atualizações de produto do [!DNL Experience Manager] 6.5 são fornecidas po
 >* Versões e atualizações do [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=pt-BR)
 >* Aprendizado e suporte do [[!DNL Experience Manager] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=pt-BR)
 >* Definições dos veículos de lançamentos de atualizações do [[!DNL Experience Manager] ](/help/using/update-release-vehicle-definitions.md)
-
