@@ -6,7 +6,7 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 81c18c5423b4c62a192666fa8774f754d8ff4745
 workflow-type: tm+mt
 source-wordcount: '7427'
-ht-degree: 93%
+ht-degree: 96%
 
 ---
 
@@ -32,8 +32,8 @@ A lista a seguir contém todos os pacotes complementares do AEM [!DNL Forms] lan
     <td><strong>Versões de Build</strong></td>
    </tr>
    <tr>
-    <td>1 de junho de 2023</td>
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html#forms-6517">Pacote complementar de formulários do Pacote de serviços 17 do AEM Forms para AEM 6.5.17.0</a></td>
+    <td>1º de junho de 2023</td>
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=pt-BR#forms-6517">Pacote complementar de formulários do Pacote de serviços 17 do AEM Forms para AEM 6.5.17.0</a></td>
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=pt-BR">AEM 6.5.17.0</a></td>
     <td>
      <ul>
@@ -61,7 +61,7 @@ A lista a seguir contém todos os pacotes complementares do AEM [!DNL Forms] lan
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp17/Designer6.5.0_Spanish_Cumulative_QF.msp">Instalador do idioma espanhol</a> </li>
       </ul> 
       </td>
-    <td><p>Instalador do AEM Forms JEE: AEMForms-6-5-0-0065<br/><p>Pacotes complementares do AEM Forms: 6.0.968</p></td>
+    <td><p>Instalador do AEM Forms no JEE: AEMForms-6-5-0-0065<br/><p>Pacotes complementares do AEM Forms: 6.0.968</p></td>
    </tr>
    <tr>
     <td>2 de março de 2023</td>
@@ -496,9 +496,9 @@ O pacote de compatibilidade do `[3]` AEM [!DNL Forms] para a versão 6.5.4.0 per
 * Os pacotes complementares do AEM Forms listados acima aplicam-se ao AEM [!DNL Forms] no OSGi e ao AEM [!DNL Forms] no JEE.
 * Todos os pacotes complementares e correções rápidas do AEM [!DNL Forms] são cumulativos. Isto significa que um pacote complementar e uma correção rápida incluem todos os complementos e correções rápidas anteriores para um componente da versão correspondente. Por exemplo, caso esteja instalando o Quick Fix 2.4.50, ele já inclui o pacote complementar do 2.4.26 do AEM [!DNL Forms].
 
-   >[!NOTE]
-   >
-   >Os pacotes cumulativos complementares e as correções rápidas indicam que os dois primeiros números da versão são idênticos.
+  >[!NOTE]
+  >
+  >Os pacotes cumulativos complementares e as correções rápidas indicam que os dois primeiros números da versão são idênticos.
 
 * Sempre instale o complemento Service Pack/Feature Pack mais recente que estiver disponível. Isso é extremamente recomendável, pois ele inclui segurança, desempenho, estabilidade, e correções e melhorias essenciais para o cliente lançadas desde a disponibilidade geral da versão base.
 * Ao instalar um Service Pack ou atualizar de uma versão anterior do AEM para uma versão mais recente, instale sempre o pacote complementar do AEM [!DNL Forms] correspondente. Por exemplo, caso resolva atualizar do pacote complementar do AEM 6.1 [!DNL Forms] versão 2.2.4 para o AEM 6.1 Service Pack 1, após instalar o AEM 6.1 Service Pack 1, instale o pacote complementar AEM [!DNL Forms] versão 2.4.50.
