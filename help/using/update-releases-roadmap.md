@@ -3,9 +3,9 @@ title: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 description: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 8431dac82cec9454c6a4683dc566f34c3978fae6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '336'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ O [[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.9.0 | Ativação de recursos | 28 de setembro de 2023 | Destino |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.10.0 | Ativação de recursos | 26 de outubro de 2023 | Destino |
 
-Além das versões de recursos, correções críticas de erros e de segurança são disponibilizadas no [!DNL Experience Manager] as a [!DNL Cloud Service] sob a forma de [versões de manutenção](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html), com uma atualização de manutenção correspondente geralmente ocorrendo com mais frequência.
+Além do lançamento de recursos, correções de erros críticos e de segurança são disponibilizadas no [!DNL Experience Manager] as a [!DNL Cloud Service] por meio de [versões de manutenção](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=pt-BR), com uma atualização de manutenção correspondente geralmente ocorrendo com mais frequência.
 
 ## [!DNL Experience Manager] no local e Managed Services {#aem-on-prem-managed-services}
 
