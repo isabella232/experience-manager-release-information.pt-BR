@@ -4,8 +4,8 @@ description: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 90d4952453c4e0123badfb46633106af056c24f0
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 75%
+source-wordcount: '497'
+ht-degree: 93%
 
 ---
 
@@ -19,28 +19,28 @@ O [!DNL Adobe Experience Manager] oferece continuamente novos recursos, melhoria
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[!DNL Experience Manager] as a [!DNL Cloud Service] novos recursos são fornecidos por meio de uma [ativação mensal de recursos](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=pt-BR), enquanto os aprimoramentos e correções de erros são fornecidos duas vezes por mês pelo [versões de manutenção](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=pt-BR).
-As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] estão planejados da seguinte forma:
+Os novos recursos do [!DNL Experience Manager] as a [!DNL Cloud Service] são fornecidos por meio de uma [ativação mensal de recursos](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=pt-BR), enquanto as correções de erros e os aprimoramentos são fornecidos duas vezes por mês por meio das [versões de manutenção](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=pt-BR).
+As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] estão planejadas da seguinte forma:
 
 | Versão | Evento | Programação | Status |
 |---|---|---|---|
 | Lançamento de recurso [2023.6.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-6-0.html?lang=pt-BR) | Ativação de recursos | 29 de junho de 2023 | Ativado |
 | Lançamento de recurso [2023.7.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-7-0.html?lang=pt-BR) | Ativação de recursos | 27 de julho de 2023 | Ativado |
-| Versão de manutenção [12874](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.8.0.html#release-12874) | Atualização automática | 2 de agosto de 2023 | Atualização dos pacotes   |
-| Versão de manutenção [13206](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.8.0.html#release-13206) | Atualização automática | 21 de agosto de 2023 | Atualização dos pacotes   |
+| Versão de manutenção [12874](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.8.0.html#release-12874) | Atualização automática | 2 de agosto de 2023 | Atualizado |
+| Versão de manutenção [13206](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.8.0.html#release-13206) | Atualização automática | 21 de agosto de 2023 | Atualizado |
 | Lançamento de recurso [2023.8.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=pt-BR) | Ativação de recursos | 31 de agosto de 2023 | Ativado |
-| Versão de manutenção [13323](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.9.0.html#release-13323) | Atualização automática | 1 de setembro de 2023 | Atualização dos pacotes   |
-| Versão de manutenção [13420](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=pt-BR) | Atualização automática | 12 de setembro de 2023 | Atualização dos pacotes   |
-| Versão de manutenção | Atualização automática | 18-20 de setembro de 2023 | Planejado |
-| Versão do Recurso 2023.9.0 | Ativação de recursos | 28 de setembro de 2023 | Destino |
+| Versão de manutenção [13323](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.9.0.html#release-13323) | Atualização automática | 1 de setembro de 2023 | Atualizado |
+| Versão de manutenção [13420](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=pt-BR) | Atualização automática | 12 de setembro de 2023 | Atualizado |
+| Versão de manutenção | Atualização automática | 18 a 20 de setembro de 2023 | Planejado |
+| Lançamento de recurso 2023.9.0 | Ativação de recursos | 28 de setembro de 2023 | Planejado |
 | Versão de manutenção | Atualização automática | 2 a 5 de outubro de 2023 | Planejado |
-| Versão de manutenção | Atualização automática | 16-19 de outubro de 2023 | Planejado |
-| Versão do Recurso 2023.10.0 | Ativação de recursos | 26 de outubro de 2023 | Destino |
-| Versão de manutenção | Atualização automática | 30 de outubro - 2 de novembro de 2023 | Planejado |
-| Versão de manutenção | Atualização automática | 13-16 de novembro de 2023 | Planejado |
-| Versão do Recurso 2023.11.0 | Ativação de recursos | 30 de novembro de 2023 | Planejado |
-| Versão de manutenção | Atualização automática | 11-14 de dezembro de 2023 | Planejado |
-| Versão do Recurso 2023.12.0 | Ativação de recursos | 14 de dezembro de 2023 | Planejado |
+| Versão de manutenção | Atualização automática | 16 a 19 de outubro de 2023 | Planejado |
+| Lançamento de recurso 2023.10.0 | Ativação de recursos | 26 de outubro de 2023 | Planejado |
+| Versão de manutenção | Atualização automática | 30 de outubro a 2 de novembro de 2023 | Planejado |
+| Versão de manutenção | Atualização automática | 13 a 16 de novembro de 2023 | Planejado |
+| Lançamento de recurso 2023.11.0 | Ativação de recursos | 30 de novembro de 2023 | Planejado |
+| Versão de manutenção | Atualização automática | 11 a 14 de dezembro de 2023 | Planejado |
+| Lançamento de recurso 2023.12.0 | Ativação de recursos | 14 de dezembro de 2023 | Planejado |
 
 >[!CAUTION]
 >
