@@ -2,9 +2,9 @@
 title: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 description: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 578f404ad359536461fd93a364a4ac4e59381e0e
+source-git-commit: 568528ecf59035b6fd5fb7bab119bfe8712ea3a1
 workflow-type: tm+mt
-source-wordcount: '539'
+source-wordcount: '549'
 ht-degree: 100%
 
 ---
@@ -35,8 +35,8 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 | Versão de manutenção [13665](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.10.0.html?lang=pt-BR#release-13665) | Atualização automática | 2 a 5 de outubro de 2023 | Atualizado |
 | Versão de manutenção [13804](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.10.0.html?lang=pt-BR#release-13804) | Atualização automática | 16 a 19 de outubro de 2023 | Atualizado |
 | Lançamento de recurso [2023.10.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=pt-BR) | Ativação de recursos | 26 de outubro de 2023 | Ativado |
-| Versão de manutenção [14029](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=pt-BR) | Atualização automática | 30 de outubro a 2 de novembro de 2023 | Planejado |
-| Versão de manutenção | Atualização automática | 13 a 16 de novembro de 2023 | Planejado |
+| Versão de manutenção [14029](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.11.0.html?lang=pt-BR#release-14029) | Atualização automática | 30 de outubro a 2 de novembro de 2023 | Atualizado |
+| Versão de manutenção [14157](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=pt-BR) | Atualização automática | 13 a 16 de novembro de 2023 | Planejado |
 | Lançamento de recurso 2023.11.0 | Ativação de recursos | 30 de novembro de 2023 | Planejado |
 | Versão de manutenção | Atualização automática | 11 a 14 de dezembro de 2023 | Planejado |
 | Lançamento de recurso 2023.12.0 | Ativação de recursos | 14 de dezembro de 2023 | Planejado |
