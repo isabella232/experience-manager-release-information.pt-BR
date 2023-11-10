@@ -3,9 +3,9 @@ title: Versões do AEM Forms
 description: Contém a lista de todas as versões do AEM Forms e pacotes correspondentes
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: b5065a6d171c0ed51a5cb8e8bca592fa4f00e380
+source-git-commit: f03a2ce6bef6d167e780f750c7fdb6627d088094
 workflow-type: tm+mt
-source-wordcount: '8167'
+source-wordcount: '8168'
 ht-degree: 99%
 
 ---
@@ -16,7 +16,8 @@ O Adobe Experience Manager [!DNL Forms] é um aplicativo implantado no AEM. Ele 
 
 >[!NOTE]
 >
->O recurso do AEM Forms, como o Adaptive Forms, disponível em [QuickStart do AEM 6.5](https://experienceleague.corp.adobe.com/docs/experience-manager-65/deploying/deploying/deploy.html), são apenas para fins de exploração e avaliação. Para uso em produção, é essencial obter uma licença válida para o AEM Forms.
+> Os recursos do AEM Forms, como o Adaptive Forms, disponíveis em [QuickStart do AEM 6.5](https://experienceleague.corp.adobe.com/docs/experience-manager-65/deploying/deploying/deploy.html), destinam-se apenas a fins de exploração e avaliação. Para uso em produção, é essencial obter uma licença válida para o AEM Forms.
+
 
 <!--
 >[!NOTE]
