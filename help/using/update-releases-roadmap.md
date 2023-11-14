@@ -2,10 +2,10 @@
 title: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 description: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: ffa37b42c9f90404900d9e4c5e4ce25fe4a1d12f
+source-git-commit: 244be6d98b3efc8b7df85029f1e37670501b93ed
 workflow-type: tm+mt
 source-wordcount: '557'
-ht-degree: 99%
+ht-degree: 96%
 
 ---
 
@@ -36,13 +36,13 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 | Lançamento de recurso 2023.11.0 | Ativação de recursos | 30 de novembro de 2023 | Planejado |
 | Versão de manutenção | Atualização automática | 11 a 14 de dezembro de 2023 | Planejado |
 | Lançamento de recurso 2023.12.0 | Ativação de recursos | 14 de dezembro de 2023 | Planejado |
-| Lançamento de recurso 2024.1.0 | Ativação de recursos | 25 de janeiro de 2023 | Planejado |
-| Lançamento de recurso 2024.2.0 | Ativação de recursos | 29 de fevereiro de 2023 | Planejado |
-| Lançamento de recurso 2024.3.0 | Ativação de recursos | 28 de março de 2023 | Planejado |
-| Lançamento de recurso 2024.4.0 | Ativação de recursos | 25 de abril de 2023 | Planejado |
-| Lançamento de recurso 2024.5.0 | Ativação de recursos | 30 de maio de 2023 | Planejado |
-| Lançamento de recurso 2024.6.0 | Ativação de recursos | 27 de junho de 2023 | Planejado |
-| Lançamento de recurso 2024.7.0 | Ativação de recursos | 25 de julho de 2023 | Planejado |
+| Lançamento de recurso 2024.1.0 | Ativação de recursos | 25 de janeiro de 2024 | Planejado |
+| Lançamento de recurso 2024.2.0 | Ativação de recursos | 29 de fevereiro de 2024 | Planejado |
+| Lançamento de recurso 2024.3.0 | Ativação de recursos | 28 de março de 2024 | Planejado |
+| Lançamento de recurso 2024.4.0 | Ativação de recursos | 25 de abril de 2024 | Planejado |
+| Lançamento de recurso 2024.5.0 | Ativação de recursos | 30 de maio de 2024 | Planejado |
+| Lançamento de recurso 2024.6.0 | Ativação de recursos | 27 de junho de 2024 | Planejado |
+| Lançamento de recurso 2024.7.0 | Ativação de recursos | 25 de julho de 2024 | Planejado |
 
 >[!CAUTION]
 >
@@ -50,8 +50,8 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 >
 > Nenhuma manutenção automática do AEMaaCS será executada durante os seguintes períodos de tempo, começando e terminando à meia-noite (00:00) CET:
 >
->* Da quinta-feira, 16 de novembro, até a terça-feira, 28 de novembro
->* Da sexta-feira, 15 de dezembro, até a terça-feira, 2 de janeiro
+>* Quinta-feira, 16 de novembro de 2023 até terça-feira, 28 de novembro de 2023
+>* Sexta-feira, 15 de dezembro de 2023 até terça-feira, 2 de janeiro de 2024
 
 ## [!DNL Experience Manager] no local e Managed Services {#aem-on-prem-managed-services}
 
