@@ -2,10 +2,10 @@
 title: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 description: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 0899c2a87eaf2dc5ec802d739625b3e290fa54ee
+source-git-commit: 969cfa155a54fbd7a133e893e19932fe8eeac169
 workflow-type: tm+mt
-source-wordcount: '525'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -35,7 +35,7 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 | Versão de manutenção [14029](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.11.0.html?lang=pt-BR#release-14029) | Atualização automática | 30 de outubro a 2 de novembro de 2023 | Atualizado |
 | Versão de manutenção [14227](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.11.0.html#release-14227) | Atualização automática | 13 a 16 de novembro de 2023 | Atualizado |
 | Lançamento de recurso [2023.11.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-11-0.html) | Ativação de recursos | 30 de novembro de 2023 | Ativado |
-| Versão de manutenção [14538](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=pt-BR) | Atualização automática | 11 a 14 de dezembro de 2023 | Atualizado |
+| Versão de manutenção [14697](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=pt-BR) | Atualização automática | 11 a 14 de dezembro de 2023 | Atualizado |
 | Lançamento de recurso [2023.12.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=pt-BR) | Ativação de recursos | 14 de dezembro de 2023 | Ativado |
 
 ### Versões posteriores {#upcoming}
