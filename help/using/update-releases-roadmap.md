@@ -2,10 +2,10 @@
 title: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 description: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 4c3f6652b13c99bdd2140c7e4a03be9eb9417a06
+source-git-commit: 6d63bec303a4bf9858e536f06d854069982af4db
 workflow-type: tm+mt
-source-wordcount: '471'
-ht-degree: 95%
+source-wordcount: '524'
+ht-degree: 91%
 
 ---
 
@@ -46,8 +46,14 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 |---|---|---|---|
 | Versão de manutenção | Atualização automática | 1-3 de abril de 2024 | Planejado |
 | Lançamento de recurso 2024.3.0 | Ativação de recursos | sexta-feira, 4 de abril de 2024 | Planejado |
+| Versão de manutenção | Atualização automática | 15-17 de abril de 2024 | Planejado |
 | Lançamento de recurso 2024.4.0 | Ativação de recursos | 25 de abril de 2024 | Planejado |
+| Versão de manutenção | Atualização automática | 29 de abril - 1 de maio de 2024 | Planejado |
+| Versão de manutenção | Atualização automática | 13-15 de maio de 2024 | Planejado |
+| Versão de manutenção | Atualização automática | 27-29 de maio de 2024 | Planejado |
 | Lançamento de recurso 2024.5.0 | Ativação de recursos | 30 de maio de 2024 | Planejado |
+| Versão de manutenção | Atualização automática | 10-12 de junho de 2024 | Planejado |
+| Versão de manutenção | Atualização automática | 24-26 de junho de 2024 | Planejado |
 | Lançamento de recurso 2024.6.0 | Ativação de recursos | 27 de junho de 2024 | Planejado |
 | Lançamento de recurso 2024.7.0 | Ativação de recursos | 25 de julho de 2024 | Planejado |
 
