@@ -2,10 +2,10 @@
 title: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 description: "Roteiro de versões do [!DNL Adobe Experience Manager]"
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 9ef364f5e561b07ae9d81dba9b772e884e74d322
+source-git-commit: 36981c8f4942f9c8b0581204cdfff769d942351d
 workflow-type: tm+mt
-source-wordcount: '535'
-ht-degree: 90%
+source-wordcount: '536'
+ht-degree: 76%
 
 ---
 
@@ -39,25 +39,15 @@ As próximas versões do [!DNL Experience Manager] as a [!DNL Cloud Service] est
 | Lançamento de recurso [2023.12.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-12-0.html) | Ativação de recursos | 14 de dezembro de 2023 | Ativado |
 | Lançamento de recurso [2024.1.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=pt-BR) | Ativação de recursos | 25 de janeiro de 2024 | Ativado |
 | Versão de manutenção [15262](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0.html#release-15262) | Atualização automática | 11-13 de março de 2024 | Ativado |
+| Versão de manutenção [15575](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 19-21 de março de 2024 | Ativado |
 
 
 ### Versões posteriores {#upcoming}
 
 | Versão | Evento | Programação | Status |
 |---|---|---|---|
-| Versão de manutenção [15575](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | Atualização automática | 19-21 de março de 2024 | Planejado |
-| Versão de manutenção | Atualização automática | 1-3 de abril de 2024 | Planejado |
-| Lançamento de recurso 2024.3.0 | Ativação de recursos | sexta-feira, 4 de abril de 2024 | Planejado |
-| Versão de manutenção | Atualização automática | 15-17 de abril de 2024 | Planejado |
-| Lançamento de recurso 2024.4.0 | Ativação de recursos | 25 de abril de 2024 | Planejado |
-| Versão de manutenção | Atualização automática | 29 de abril - 1 de maio de 2024 | Planejado |
-| Versão de manutenção | Atualização automática | 13-15 de maio de 2024 | Planejado |
-| Versão de manutenção | Atualização automática | 27-29 de maio de 2024 | Planejado |
-| Lançamento de recurso 2024.5.0 | Ativação de recursos | 30 de maio de 2024 | Planejado |
-| Versão de manutenção | Atualização automática | 10-12 de junho de 2024 | Planejado |
-| Versão de manutenção | Atualização automática | 24-26 de junho de 2024 | Planejado |
-| Lançamento de recurso 2024.6.0 | Ativação de recursos | 27 de junho de 2024 | Planejado |
-| Lançamento de recurso 2024.7.0 | Ativação de recursos | 25 de julho de 2024 | Planejado |
+
+| Versão De Manutenção|Atualização Automática|8 A 10 De abril De 2024|Target| | Versão do recurso 2024.3.0 |Ativação de recursos|4 de abril de 2024 |Destino| | Versão De Manutenção|Atualização Automática|22-24 De abril De 2024|Target| | Versão do Recurso 2024.4.0 |Ativação de recurso|25 de abril de 2024 |Destino| | Versão De Manutenção|Atualização Automática|6-8 De maio De 2024|Target| | Versão De Manutenção|Atualização Automática|20-22 De maio De 2024|Target| | Versão do Recurso 2024.5.0 |Ativação de recurso|30 de maio de 2024 |Destino| | Versão De Manutenção|Atualização Automática|3-5 De junho De 2024|Target| | Versão De Manutenção|Atualização Automática|17-19 De junho De 2024|Target| | Versão do Recurso 2024.6.0 |Ativação de recurso|27 de junho de 2024 |Destino| | Versão De Manutenção|Atualização Automática|1-3 De julho De 2024|Target| | Versão do Recurso 2024.7.0 |Ativação de recurso|25 de julho de 2024 |Destino|
 
 ## [!DNL Experience Manager] no local e Managed Services {#aem-on-prem-managed-services}
 
